@@ -1,0 +1,37 @@
+# Copies every image the old WordPress site uses into public/wp-content/uploads,
+# so the new site keeps working when neoffice.ai moves off WordPress.
+# Runs when the image list changes, or by hand from the Actions tab.
+name: Copy images from old site
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/import/image-list.txt]
+permissions:
+  contents: write
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download images
+        run: |
+          missing=0
+          while read -r p; do
+            [ -z "$p" ] && continue
+            dest="public$p"
+            [ -f "$dest" ] && continue
+            mkdir -p "$(dirname "$dest")"
+            if ! curl -fsSL --retry 3 -A "Mozilla/5.0 (site migration)" "https://neoffice.ai$p" -o "$dest"; then
+              echo "missing: $p"; rm -f "$dest"; missing=$((missing+1))
+            fi
+          done < scripts/import/image-list.txt
+          echo "Missing images: $missing"
+      - name: Commit images
+        run: |
+          git config user.name "neoffice-bot"
+          git config user.email "neoffice-bot@users.noreply.github.com"
+          git add public
+          git diff --cached --quiet && exit 0
+          git commit -m "Copy images from the old WordPress site"
+          git push
