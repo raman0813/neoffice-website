@@ -1,0 +1,72 @@
+# Settings for the visual editor at https://app.pagescms.org (sign in with GitHub).
+media:
+  input: public/uploads
+  output: /uploads
+content:
+  - name: calendar
+    label: Content calendar
+    type: file
+    path: content/calendar.yml
+    fields:
+      - name: posts
+        label: Planned posts
+        type: object
+        list: true
+        fields:
+          - { name: date, label: Publish date, type: date, required: true }
+          - { name: topic, label: Topic, type: string, required: true }
+          - { name: keywords, label: Keywords (optional), type: string }
+          - { name: notes, label: Notes for the writer (optional), type: text }
+          - name: status
+            label: Status
+            type: select
+            default: planned
+            options:
+              values: [planned, drafted, published]
+  - name: blog
+    label: Blog posts
+    type: collection
+    path: content/blog
+    filename: "{primary}.md"
+    view:
+      fields: [title, date]
+      primary: title
+      sort: [date, title]
+      default: { sort: date, order: desc }
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: date, label: Publish date, type: date, required: true }
+      - { name: image, label: Cover image, type: image }
+      - { name: description, label: Short summary (for Google), type: text }
+      - { name: categories, label: Categories, type: string, list: true }
+      - { name: tags, label: Tags, type: string, list: true }
+      - { name: author, label: Author, type: string, default: NeOffice Team }
+      - { name: draft, label: Hide this post (draft), type: boolean, default: false }
+      - { name: body, label: Post, type: rich-text }
+  - name: site
+    label: Contact details and menus
+    type: file
+    path: content/settings/contact.yml
+    fields:
+      - { name: name, label: Brand name, type: string }
+      - { name: signInUrl, label: Sign in link, type: string }
+      - { name: demoUrl, label: Book Demo link, type: string }
+      - { name: calendlyUrl, label: Calendly link, type: string }
+      - { name: email, label: Sales email, type: string }
+      - { name: phones, label: Phone numbers, type: string, list: true }
+      - { name: address, label: Address, type: text }
+      - { name: mapUrl, label: Map link, type: string }
+      - { name: company, label: Company name, type: string }
+      - { name: isoText, label: ISO line in footer, type: string }
+      - name: cookie
+        label: Cookie banner
+        type: object
+        fields:
+          - { name: title, label: Title, type: string }
+          - { name: text, label: Text, type: text }
+      - name: apps
+        label: App store links
+        type: object
+        fields:
+          - { name: android, label: Google Play, type: string }
+          - { name: ios, label: App Store, type: string }

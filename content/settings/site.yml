@@ -1,24 +1,4 @@
-# Site-wide settings: contact details, menus, footer and links.
-# Change a value here and it updates on every page.
-name: NeOffice
-company: Agiledge Process Solutions Private Limited
-# TODO: the old site pointed Sign in at webuat.neoffice.app (a test server). Put the live app address here.
-signInUrl: https://webuat.neoffice.app/
-demoUrl: /schedule-demo/
-calendlyUrl: https://calendly.com/neoffice_demo/neoffice-demo
-email: sales@neoffice.ai
-phones:
-  - +91 93 5377 6558
-  - +91 80 7330 2920
-address: 6, 1st Floor, MLA Layout, RT Nagar, Bengaluru, Karnataka 560032
-mapUrl: https://share.google/8ClktSRaCj6aieJYS
-isoText: We are an ISO 27001 company
-apps:
-  android: https://play.google.com/store/apps/details?id=com.agiledge.neoffice
-  ios: https://apps.apple.com/in/app/neoffice/id1593612359
-cookie:
-  title: We Use Cookies
-  text: We use **cookies** to make your experience of our website better. You can accept or decline analytics cookies.
+# Menus and footer columns. Contact details live in contact.yml.
 nav:
   - label: Workspace
     href: /workspace/desk-booking-software/

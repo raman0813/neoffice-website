@@ -2,6 +2,7 @@
 :root { --navy: #041D41; --text: #1D3444; --red: #FF455B; --red-dark: #ED2F05; --green: #43DF94; --grey-bg: #F6F8FA; --muted: #A1ABBC; }
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
+body { overflow-x: clip; }
 body { margin: 0; font-family: "Poppins", sans-serif; font-size: 16px; line-height: 1.65; color: var(--text); background: #fff; }
 img { max-width: 100%; height: auto; vertical-align: middle; border: 0; }
 a { color: var(--navy); text-decoration: none; }

@@ -67,7 +67,8 @@ export type Site = {
   formEndpoint?: string;
 };
 export function site(): Site {
-  return yaml.load(fs.readFileSync(path.join(CONTENT, "settings/site.yml"), "utf8")) as Site;
+  const read = (f: string) => yaml.load(fs.readFileSync(path.join(CONTENT, "settings", f), "utf8")) as object;
+  return { ...read("contact.yml"), ...read("site.yml") } as Site;
 }
 
 export function formatDate(d: string) {

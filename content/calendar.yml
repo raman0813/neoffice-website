@@ -1,0 +1,44 @@
+# NeOffice content calendar
+# -------------------------
+# One entry per blog post. On the date you set, Claude writes a draft of the post
+# and sends it to you for approval (you get a GitHub "pull request" email).
+# Approve it and it goes live. Nothing is published without your approval.
+#
+# Fields:
+#   date:     the day you want the post to go out (YYYY-MM-DD)
+#   topic:    what the post is about, in plain words
+#   keywords: words people type into Google that this post should rank for (optional)
+#   notes:    anything Claude should include: a customer story, a stat, a product feature (optional)
+#   status:   planned  -> Claude hasn't written it yet
+#             drafted  -> a draft is waiting for your approval
+#             published -> it's live (set automatically)
+posts:
+  - date: 2026-12-03
+    topic: How to choose desk booking software for an Indian office in 2027
+    keywords: desk booking software India, hot desking software
+    notes: Mention floor-plan booking, Office Pass QR check-in, and pricing from $2.25 per seat per month.
+    status: planned
+  - date: 2026-12-17
+    topic: Employee transport management system - a buyer's checklist for IT and ITES companies
+    keywords: employee transport management system, cab management software
+    notes: Cover women-safety features (escort rules, panic button, masked calls), routing and billing.
+    status: planned
+  - date: 2027-01-07
+    topic: Return-to-office policies in 2027 - what's working and how to measure office use
+    keywords: return to office policy, office utilisation
+    notes: Link to the Workplace Analytics page.
+    status: planned
+  - date: 2027-01-21
+    topic: Visitor management system pricing - what you should pay and what's included
+    keywords: visitor management system pricing, visitor management software
+    notes: NeOffice visitor management is $40 per location per month, billed quarterly.
+    status: planned
+  - date: 2027-02-04
+    topic: Meeting room booking - 5 ways to stop no-shows and ghost meetings
+    keywords: meeting room booking system, room no-shows
+    notes: Auto-release, check-in on room displays, Outlook and Google Calendar sync.
+    status: planned
+  - date: 2027-02-18
+    topic: Parking management for hybrid offices - how slot booking cuts the morning scramble
+    keywords: parking management system, office parking booking
+    status: planned
