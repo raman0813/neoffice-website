@@ -140,7 +140,11 @@ function Widget({ n }: { n: Node }): ReactNode {
     case "form": return <LeadForm fields={n.fields} button={n.button} name={n.name} />;
     case "posts": return <PostCards count={n.count || 3} />;
     case "carousel":
-      return <div className="carousel">{(n.images as any[]).map((im, k) => <img key={k} src={im.src} alt={im.alt} loading="lazy" />)}</div>;
+      return (
+        <div className="carousel"><div className="track">
+          {[...(n.images as any[]), ...(n.images as any[])].map((im, k) => <img key={k} src={im.src} alt={k < n.images.length ? im.alt : ""} aria-hidden={k >= n.images.length || undefined} loading="lazy" />)}
+        </div></div>
+      );
     case "video": {
       const u: string = n.url || "";
       const yt = u.match(/(?:youtu\.be\/|v=|embed\/)([\w-]{11})/);
