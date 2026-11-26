@@ -1,0 +1,1139 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Best Visitor Management Software | NeOffice
+description: >-
+  Elevate guest experiences with Neoffice's Visitor Management System, offering real-time insights into visitor data and
+  user analytics.
+url: /visitor-management-software/
+sections:
+  - type: section
+    id: f98e530
+    css:
+      self:
+        d: >-
+          background-image:linear-gradient(330deg, #CFEDF854 34%, #FFFFFFC4 79%);padding:30px 0 80px 0;margin:0 0 130px
+          0
+        t: padding:15px 30px 40px 30px
+        m: padding:0 15px 15px 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4c0941f
+        css:
+          self:
+            d: width:49.998%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:flex-start;--gap:0px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:0px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:-4px
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 3eaa0f1
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:15px 0 30px -17px;padding:0 0 0 0
+                t: margin:0 15px 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+                t: font-size:14px
+          - type: text
+            html: VISITOR MANAGEMENT SYSTEM
+            id: 11199b7
+            css:
+              self:
+                d: >-
+                  color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600;line-height:32px;letter-spacing:2px
+                t: font-size:16px;line-height:30px
+                m: font-size:15px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+          - type: heading
+            tag: h1
+            text: >-
+              <span style="color:#2EBCF0; font-size:60px; font-weight:700;">Welcome a visitor, </span> Send back a
+              friend.
+            id: 0a006ef
+            css:
+              self:
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 13px 020px 0;padding:0 0 0 0
+                t: padding:0 0 0 0
+                m: margin:025px 25px 10px 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Inter',sans-serif;font-size:49px;font-weight:500;line-height:60px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: heading
+            tag: h1
+            text: >-
+              <span style="color:#2EBCF0; font-size:30px; font-weight:700;">Welcome a visitor, </span> Send back a
+              friend.
+            id: 3a45ca4
+            css:
+              self:
+                dd: display:none
+              ' > .wc':
+                d: margin:0 13px 020px 0;padding:0 0 0 0
+                t: padding:0 0 0 0
+                m: margin:025px 25px 10px 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Inter',sans-serif;font-size:49px;font-weight:500;line-height:60px
+                t: font-size:30px;line-height:40px
+                m: font-size:22px;line-height:38px
+          - type: text
+            html: |-
+              Our Visitor management system ensures that your guests have a seamless
+              delightful experience from check-in to checkout.
+            id: c15c9ff
+            css:
+              self:
+                d: >-
+                  width:80%;color:#1D3444;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:25px
+                t: font-size:16px;line-height:30px
+                m: font-size:15px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 46px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 10px 0;padding:0 0 0 0
+          - type: form
+            name: New Form
+            button: Try For Free
+            fields:
+              - name: email
+                type: email
+                label: ''
+                placeholder: Enter your email address
+                required: true
+                width: '66'
+            id: 7b9e928
+            css:
+              ' > .wc':
+                d: margin:0 0 3px 0
+      - type: column
+        id: 15f9062
+        css:
+          self:
+            d: width:49.958%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/vms-mockup-3-1.png
+            alt: vms mockup 3 (1)
+            id: b9441d8
+            css:
+              ' > .wc':
+                d: margin:20px 0 0 0
+  - type: container
+    id: e5f9dee
+    css:
+      self:
+        d: padding:10px;margin:0 0 0 0
+      ' > .inner':
+        d: flex-direction:row;gap:0px;max-width:1140px
+    items:
+      - type: container
+        id: 4f284ad
+        css:
+          self:
+            d: padding:10px;width:100%
+          ' > .inner':
+            d: flex-direction:column
+        items:
+          - type: heading
+            tag: h3
+            text: Features which help to make lasting impressions
+            id: '1260708'
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:39px;font-weight:700;line-height:58px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+  - type: container
+    id: e507de6
+    css:
+      self:
+        d: padding:10px;margin:0 0 0 0
+        m: margin:0 0 50px 0
+      ' > .inner':
+        d: flex-direction:row;gap:120px;max-width:1140px
+    items:
+      - type: container
+        id: c663288
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/check-in-1.png
+            alt: check in 1
+            id: 9b0262a
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0
+      - type: container
+        id: b6c7af2
+        css:
+          self:
+            d: padding:10px;padding:10px 10px 10px 10px;width:50%
+            m: padding:0 0 0 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px;justify-content:center
+        items:
+          - type: heading
+            tag: h3
+            text: Seamless Check-ins
+            id: f39f7ab
+            css:
+              ' > .wc':
+                d: margin:0 0 16px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:34px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Bid farewell to long queues and manual paperwork. Our intuitive software streamlines the check-in
+              process, allowing your visitors to breeze through the reception effortlessly.</p>
+            id: d976af1
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                m: text-align:left;font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 50px 0
+                m: margin:0 0 20px 0
+  - type: container
+    id: 0d51893
+    css:
+      self:
+        d: >-
+          background-position:center center;background-repeat:no-repeat;padding:10px;padding:0 0 80px 0;margin:-60px 0 0
+          0
+      ' > .inner':
+        d: flex-direction:row;gap:120px;max-width:1140px
+    items:
+      - type: container
+        id: 80902ba
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px;justify-content:flex-end
+        items:
+          - type: heading
+            tag: h3
+            text: Enhanced Security
+            id: f93a420
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:34px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Keep your premises secure and maintain a complete digital record of all visitors. Our system offers
+              instant badge printing and real-time visitor tracking to ensure peace of mind.</p>
+            id: 5eca465
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                m: text-align:left;font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 10px 0
+                m: margin:0 0 20px 0
+      - type: container
+        id: 69abd3c
+        css:
+          self:
+            d: padding:10px;margin:0 0 0 0;width:50%
+          ' > .inner':
+            d: flex-direction:column;justify-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/enhanced-security-4.png
+            alt: enhanced security 4
+            id: d0cb386
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0
+  - type: container
+    id: c737cbd
+    css:
+      self:
+        d: background-position:center center;background-repeat:no-repeat;padding:10px;padding:0 0 80px 0;margin:0 0 0 0
+      ' > .inner':
+        d: flex-direction:row;gap:120px;max-width:1140px
+    items:
+      - type: container
+        id: a8941d1
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/customizable-vms-branding-4.png
+            alt: customizable vms branding 4
+            id: 90ae2bf
+      - type: container
+        id: 29c6c02
+        css:
+          self:
+            d: padding:10px;padding:10px 10px 10px 10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px;justify-content:flex-end
+        items:
+          - type: heading
+            tag: h3
+            text: Customizable Branding
+            id: 681057a
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:34px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Make a lasting impression on your guests by incorporating your company’s branding to the check-in
+              experience. Create a professional and personalized touch for every visitor.</p>
+            id: 9746aba
+            css:
+              self:
+                d: >-
+                  width:100.204%;flex:0 0
+                  auto;text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                m: text-align:left;font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 0 0
+                m: margin:0 0 20px 0
+          - type: form
+            name: New Form
+            button: Try For Free
+            fields:
+              - name: email
+                type: email
+                label: ''
+                placeholder: Enter your email address
+                required: true
+                width: '66'
+            id: b5c9fd0
+            css:
+              ' > .wc':
+                d: margin:0 0 3px 0
+  - type: container
+    id: 62425b1
+    css:
+      self:
+        d: background-position:center center;background-repeat:no-repeat;padding:10px;padding:0 0 80px 0;margin:0 0 0 0
+      ' > .inner':
+        d: flex-direction:row;gap:120px;max-width:1140px
+    items:
+      - type: container
+        id: c8855ee
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px;justify-content:flex-end
+        items:
+          - type: heading
+            tag: h3
+            text: Automated Notifications
+            id: 3bbeb72
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:34px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Stay informed at all times with automatic notifications. Our system alerts hosts about the arrival of
+              their guests, ensuring a warm and timely reception.</p>
+            id: 00e921e
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                m: text-align:left;font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 10px 0
+                m: margin:0 0 20px 0
+      - type: container
+        id: 5dbaa2c
+        css:
+          self:
+            d: padding:10px;margin:0 0 0 0;width:50%
+          ' > .inner':
+            d: flex-direction:column;justify-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/automated-notification-4.png
+            alt: automated notification 4
+            id: 2dd484e
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0
+  - type: container
+    id: 9ed8c6d
+    css:
+      self:
+        d: background-position:center center;background-repeat:no-repeat;padding:10px;padding:0 0 80px 0;margin:0 0 0 0
+      ' > .inner':
+        d: flex-direction:row;gap:120px;max-width:1140px
+    items:
+      - type: container
+        id: 810abf1
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/data-insights-4.png
+            alt: data insights 4
+            id: 077b2a3
+      - type: container
+        id: 87ecd40
+        css:
+          self:
+            d: padding:10px;padding:10px 10px 10px 10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px;justify-content:flex-end
+        items:
+          - type: heading
+            tag: h3
+            text: Data Insights
+            id: f63aece
+            css:
+              ' > .wc':
+                d: margin:0 0 16px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:34px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Access valuable data and insights on visitor traffic, peak visit times, and more. Use this information
+              to optimize your operations and improve your visitor experience.</p>
+            id: ea02433
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                m: text-align:left;font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 20px 0
+                m: margin:0 0 20px 0
+  - type: container
+    id: 6f7f156
+    css:
+      self:
+        d: background-position:center center;background-repeat:no-repeat;padding:10px;padding:0 0 80px 0;margin:0 0 0 0
+      ' > .inner':
+        d: flex-direction:row;gap:120px;max-width:1140px
+    items:
+      - type: container
+        id: a471c4c
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px;justify-content:flex-end
+        items:
+          - type: heading
+            tag: h3
+            text: Feedback Questionnaire
+            id: 11f735b
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:34px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Option to collect feedback on their experience at your office. Frame questions and response options for
+              visitors to respond during checkout . Use this feedback for improving experience.</p>
+            id: 4fe9cff
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                m: text-align:left;font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 10px 0
+                m: margin:0 0 20px 0
+      - type: container
+        id: '45365e3'
+        css:
+          self:
+            d: padding:10px;margin:0 0 0 0;width:50%
+          ' > .inner':
+            d: flex-direction:column;justify-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/feedback-4.png
+            alt: feedback 4
+            id: a00a1f5
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0
+  - type: container
+    id: 87f7203
+    css:
+      self:
+        d: background-color:#F6FBFF;padding:10px;padding:161px 0 0 0;margin:0 0 0 0
+      ' > .inner':
+        d: flex-direction:column;gap:0px;max-width:1140px
+    items:
+      - type: heading
+        tag: h2
+        text: 3 Unique ways to manage Visitors
+        id: c1400de
+        css:
+          self:
+            d: text-align:center
+          ' > .wc':
+            d: margin:0 0 12px 0
+            t: margin:0 0 0 0;padding:0 0 0 0
+            m: margin:0 0 8px 0;padding:0 0 0 0
+          ' .w-el':
+            d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+            t: font-size:30px
+            m: font-size:20px;line-height:1.5em
+      - type: text
+        html: >-
+          <p>Our Visitor management system ensures that your guests have a seamless delightful experience. Here’s why
+          you could choose us!</p>
+        id: 9f5ad31
+        css:
+          self:
+            d: >-
+              text-align:center;color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+            m: text-align:center;font-size:14px;line-height:23px
+          ' > .wc':
+            d: margin:0 0 0 0;padding:0 130px 50px 130px
+            m: padding:0 10px 0 10px
+  - type: container
+    id: 46f83cc
+    css:
+      self:
+        d: background-color:#F6FBFF;padding:10px
+      ' > .inner':
+        d: flex-direction:row;gap:30px;max-width:1140px
+    items:
+      - type: container
+        id: 1b889fd
+        css:
+          self:
+            d: >-
+              background-color:#FFFFFF;border-radius:20px 20px 20px 20px;padding:10px;padding:35px 40px 30px
+              30px;margin:0 0 26px 0;width:50%
+            m: margin:0 0 14px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/employee-request-icon.png
+            alt: employee request icon
+            id: 0b54d80
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0
+          - type: heading
+            tag: h3
+            text: Employee Requests
+            id: a9762bd
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  color:#041D41;font-family:'Manrope',sans-serif;font-size:24px;font-weight:800;line-height:38px;letter-spacing:-0.72px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>NeOffice mobile app streamlines visitor check-in. Employees can send invite link via SMS/email,
+              visitors complete details online. Walk-in, use lobby tablet, and notify contact of arrival.</p>
+            id: 6bd20f1
+            css:
+              self:
+                d: >-
+                  color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px;letter-spacing:-0.32px
+                m: font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 0 0
+      - type: container
+        id: 8c552d7
+        css:
+          self:
+            d: >-
+              background-color:#FFFFFF;border-radius:20px 20px 20px 20px;padding:10px;padding:35px 40px 30px
+              30px;margin:0 0 26px 0;width:50%
+            m: margin:0 0 14px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/checkin-icon.png
+            alt: checkin icon
+            id: b90c06a
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0
+          - type: heading
+            tag: h3
+            text: Self-Check-in at the Lobby
+            id: b668cf0
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  color:#041D41;font-family:'Manrope',sans-serif;font-size:24px;font-weight:800;line-height:38px;letter-spacing:-0.72px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Visitors can walk in and use the lobby tablet to complete check-in with info and docs. Employees
+              receive an alert. Post-meeting, checkout can also be done on the tablet.</p>
+            id: 52dd66b
+            css:
+              self:
+                d: >-
+                  color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px;letter-spacing:-0.32px
+                m: font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 0 0
+      - type: container
+        id: 635b655
+        css:
+          self:
+            d: >-
+              background-color:#FFFFFF;border-radius:20px 20px 20px 20px;padding:10px;padding:35px 40px 30px
+              30px;margin:0 0 26px 0;width:50%
+            m: margin:0 0 14px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/assisted-checkin-icon.png
+            alt: assisted checkin icon
+            id: bfea766
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0
+          - type: heading
+            tag: h3
+            text: Assisted check-in
+            id: dec45a0
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  color:#041D41;font-family:'Manrope',sans-serif;font-size:24px;font-weight:800;line-height:38px;letter-spacing:-0.72px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Visitors can check in with the lobby receptionist, give the information and documentation. Upon
+              submission, the host receives an alert. checkout can also be handled at lobby.</p>
+            id: f8b5af3
+            css:
+              self:
+                d: >-
+                  color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px;letter-spacing:-0.32px
+                m: font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 0 0
+  - type: container
+    id: f16fdab
+    css:
+      self:
+        d: background-color:#F6FBFF;padding:10px
+        m: padding:10px 10px 50px 10px
+      ' > .inner':
+        d: flex-direction:column;max-width:605px
+    items:
+      - type: form
+        name: New Form
+        button: Try For Free
+        fields:
+          - name: email
+            type: email
+            label: ''
+            placeholder: Enter your email address
+            required: true
+            width: '66'
+        id: 49fd2a2
+        css:
+          self:
+            d: width:auto
+          ' > .wc':
+            d: margin:50px 0 10px 0;padding:0 0 0 0
+            m: margin:0 8px 0 0;padding:0 0 0 0
+  - type: container
+    id: 8ac28d4
+    css:
+      self:
+        d: background-color:#F6FBFF;padding:10px;margin:0 0 110px 0
+        m: padding:20px 0 0 0
+      ' > .inner':
+        d: flex-direction:column;gap:0px;max-width:1140px
+    items:
+      - type: spacer
+        id: 3494ce5
+        css:
+          self:
+            d: height:110px;height:110px
+            m: height:40px
+  - type: section
+    id: 2f3f3d6
+    css:
+      self:
+        d: padding:0 0 0 0;margin:0 0 120px 0;z-index:0
+        t: padding:15px 30px 15px 30px;margin:20px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: '4804651'
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Customers who chose Neoffice as their workplace partner.
+            id: f4ed1f2
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 55px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: image
+            src: /wp-content/uploads/2023/09/customers-2.png
+            alt: customers 2
+            id: 5b8f7fc
+  - type: section
+    id: 5c880c8
+    css:
+      self:
+        d: background-color:#F6FBFF;padding:150px 0 150px 0;margin:0 0 130px 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: e8e63f4
+        css:
+          self:
+            d: width:58.596%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;--gap:7px
+        items:
+          - type: heading
+            tag: h3
+            text: Ensure compliance with a secure visitor management system.
+            id: 997e2a0
+            css:
+              ' > .wc':
+                d: margin:0 0 12px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: <p>Enhance your compliance processes with us. We are ISO 27001 certified and GDPR Compliant.</p>
+            id: '8102172'
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                m: text-align:left;font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 4px 0
+                m: margin:0 0 20px 0
+          - type: section
+            id: 5d0c85d
+            css:
+              self:
+                d: margin:-10px 0 -10px 0
+                t: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: ffcf929
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/08/Outline.svg
+                    alt: blue tick
+                    id: e15c6c8
+                    css:
+                      self:
+                        d: width:auto;text-align:left
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 0
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: Simplify compliance with our visitor management system.
+                    id: 0514bc3
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                        t: font-size:16px
+                        m: font-size:14px;line-height:23px
+          - type: section
+            id: 2c25779
+            css:
+              self:
+                d: margin:-10px 0 -10px 0
+                t: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: '644e249'
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/08/purple-tick.svg
+                    alt: purple tick
+                    id: 1693d4b
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 0
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: Manage all your visitor-related activity on our solution .
+                    id: 0c2178f
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                        t: font-size:16px
+                        m: font-size:14px;line-height:23px
+          - type: section
+            id: 473edab
+            css:
+              self:
+                d: margin:-10px 0 -10px 0
+                t: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: 2b3fca7
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/08/orange-tick.svg
+                    alt: orange tick
+                    id: ce1f63f
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 0
+                        t: margin:0 10px 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: p
+                    text: Securely store visitor data in our AWS Secure Cloud server.
+                    id: 01668fc
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                        t: font-size:16px
+                        m: font-size:14px;line-height:23px
+          - type: section
+            id: 93cb82b
+            css:
+              self:
+                d: margin:-10px 0 -10px 0
+                t: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: '2606296'
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/08/yellow-tick.svg
+                    alt: yellow tick
+                    id: 7b145f9
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 0
+                        t: margin:0 10px 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: p
+                    text: Easily export data whenever you need it to facilitate audits.
+                    id: 10d0089
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                        t: font-size:16px
+                        m: font-size:14px;line-height:23px
+      - type: column
+        id: fbd27c3
+        css:
+          self:
+            d: width:41.36%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/compliance-2.png
+            alt: compliance 2
+            id: e442eb7
+  - type: section
+    id: 659ec15
+    css:
+      self:
+        d: padding:0 0 0 0;margin:0 0 20px 0
+        t: padding:0 0 0 0;margin:20px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: a3e7e75
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;--gap:0px
+            t: padding:0 30px 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 -13px 0
+        items:
+          - type: heading
+            tag: h2
+            text: Elevate visitor management for a delightful experience now!
+            id: 43a4c50
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+  - type: container
+    id: e010da7
+    css:
+      self:
+        d: padding:10px;margin:0 0 130px 0
+      ' > .inner':
+        d: flex-direction:row;gap:60px;max-width:1140px
+    items:
+      - type: container
+        id: e7ac7fd
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: text
+            html: >-
+              <p>Whether you operate a bustling office, a vibrant manufacturing plant, or an inviting retail store, our
+              software adapts to your needs seamlessly.</p>
+            id: 71d3467
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                m: text-align:left;font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 15px 0
+                m: margin:0 0 20px 0
+          - type: text
+            html: >-
+              <p>Sign up now for a 15 days free trial and discover how effortless visitor management can be. Welcome
+              your guests with confidence, and watch as they leave as friends!</p>
+            id: 76db9cd
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                m: text-align:left;font-size:14px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 15px 0
+                m: margin:0 0 20px 0
+          - type: form
+            name: New Form
+            button: Try For Free
+            fields:
+              - name: email
+                type: email
+                label: ''
+                placeholder: Enter your email address
+                required: true
+                width: '66'
+            id: 0c49ca1
+            css:
+              ' > .wc':
+                d: margin:30px 0 3px 0
+      - type: container
+        id: 3c78044
+        css:
+          self:
+            d: padding:10px;margin:0 0 0 0;width:50%
+          ' > .inner':
+            d: flex-direction:column;justify-content:flex-start
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/experience-vms-1.png
+            alt: experience vms 1
+            id: 82e18d9

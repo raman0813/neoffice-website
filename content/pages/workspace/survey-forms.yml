@@ -1,0 +1,844 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Survey Forms | Workplace Health & Safety| NeOffice
+description: >-
+  Enhance employee experience by ensuring workplace health & safety with Survey Forms . Contact tracing via Bluetooth is
+  also available.
+url: /workspace/survey-forms/
+sections:
+  - type: section
+    id: 743b1b2
+    css:
+      self:
+        d: >-
+          background-color:#43DF94;background-image:url(/wp-content/uploads/2022/06/Survey-Forms--scaled.webp);background-position:center
+          center;background-size:cover;background-repeat:no-repeat;padding:30px 0 30px 0;margin:0 0 0 0
+        t: padding:15px 30px 40px 30px;margin:0 0 0 0
+        m: background-image:url(/wp-content/uploads/2022/03/Group-6059.png);padding:0 15px 15px 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 38f79c6
+        css:
+          self:
+            d: width:50%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center;--gap:0px
+            t: align-content:center;--gap:0px
+            m: padding:0 0 0 0;margin:15px 0 0 0;--gap:-4px
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 46578c1
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+          - type: heading
+            tag: h1
+            text: >-
+              Create and administer <span style="color:#2EBCF0;"> Survey Forms </span>to ensure a safe, healthy
+              workspace.
+            id: d106895
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:15px 25px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:45px;font-weight:700;line-height:65px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: "<p data-pm-slice=\"1 1 []\">Healthy Workforce, Safe workplace! Our interactive Survey Forms are designed to keep your employees healthy, safe and confident. With interactive surveys, you can encourage your employees to self-declare health status and certification of vaccination in a simple and secure way. With Survey Forms, you can easily establish criteria for who is permitted to work on-site and who is not.\_\_</p>"
+            id: f04a406
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:18px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:10px 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:10px 0 0 0;padding:0 35px 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo/
+            size: sm
+            id: 293039c
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#2EBCF0;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-play
+            id: f5df8f9
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 30px 16px 30px
+      - type: column
+        id: d4bb800
+        css:
+          self:
+            d: width:49.956%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Survey-Forms.webp
+            alt: Survey-Forms
+            id: 038e64e
+            css:
+              ' > .wc':
+                m: padding:20px 0 0 0
+              ' .w-el':
+                d: width:90%
+                t: width:100%
+  - type: section
+    id: eedf46a
+    css:
+      self:
+        d: padding:80px 0 0 0
+        t: padding:75px 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:20px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 251af20
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: How it works?
+            id: e5121c5
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 1px 0;border-color:#E6EAEF
+                m: margin:15px 0 20px 0;padding:0 0 10px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:32px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+  - type: section
+    id: 2e6fa89
+    css:
+      self:
+        t: padding:50px 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: align-items:center;max-width:1140px
+    columns:
+      - type: column
+        id: ff8ee2a
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 7f485b5
+            css:
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: a4e5344
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0;--gap:5px
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5637.svg
+                    id: 82987c1
+                    css:
+                      self:
+                        d: text-align:left
+                      ' > .wc':
+                        d: padding:53px 0 0 0
+                        t: padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:80px
+                        m: font-size:36px
+                  - type: heading
+                    tag: h3
+                    text: Plan Schedule
+                    id: 89cc434
+                    css:
+                      ' > .wc':
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: <p>Employee creates a schedule for the days planned to be spent at Office.</p>
+                    id: 14190c2
+                    css:
+                      self:
+                        d: >-
+                          text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:20px
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 150px 0 0
+                        t: margin:0 0 0 0;padding:0 25px 25px 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: 2838ad6
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+                    m: padding:0 0 0 0;margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5638.svg
+                    id: e06e35b
+                    css:
+                      self:
+                        d: text-align:left
+                      ' > .wc':
+                        d: padding:53px 0 0 0
+                        t: padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:80px
+                        m: font-size:36px
+                  - type: heading
+                    tag: h3
+                    text: Complete Survey Form​
+                    id: f012ac7
+                    css:
+                      ' > .wc':
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: <p>A digital health declaration survey is sent to them to fill and complete in the mobile app.</p>
+                    id: 5449ac8
+                    css:
+                      self:
+                        d: >-
+                          text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:20px
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 150px 0 0
+                        t: margin:0 0 0 0;padding:0 35px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 8eace04
+    css:
+      self:
+        d: padding:0 0 0 0;margin:0 0 0 0
+        t: padding:35px 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: ddf6475
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 145d228
+            css:
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: 0c4aad8
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+                    m: margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5640-1.svg
+                    id: b3282df
+                    css:
+                      self:
+                        d: text-align:left
+                      ' > .wc':
+                        d: padding:60px 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:80px
+                        m: font-size:36px
+                  - type: heading
+                    tag: h3
+                    text: Submit Survey Form
+                    id: 6f36918
+                    css:
+                      ' > .wc':
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p><span style="white-space: pre-wrap;">The form is submitted for Review. Based on the Survey
+                      responses, decisions can be taken.</span></p>
+                    id: 6bb4674
+                    css:
+                      self:
+                        d: >-
+                          text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:20px
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 140px 0 0
+                        t: margin:0 0 0 0;padding:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: 11e1262
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5639-1.svg
+                    id: de02dd4
+                    css:
+                      self:
+                        d: text-align:left
+                      ' > .wc':
+                        d: padding:60px 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:80px
+                        m: font-size:36px
+                  - type: heading
+                    tag: h3
+                    text: Generate Office Pass
+                    id: 112d9db
+                    css:
+                      ' > .wc':
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: <p>the employee can display their Office Pass and get a contactless entry to work.</p>
+                    id: 75edad7
+                    css:
+                      self:
+                        d: >-
+                          text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                        t: font-size:16px
+                        m: font-size:12px;line-height:20px
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 150px 0 0
+                        t: margin:0 0 0 0;padding:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 44c0d54
+    css:
+      self:
+        d: padding:80px 0 0 0
+        t: padding:35px 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:20px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: de396e4
+        css:
+          self:
+            d: width:67.192%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 40px 0;margin:0 0 0 0;border-style:solid;border-width:0 0 1px
+              0;border-color:#E6EAEF
+            m: padding:0 0 25px 0
+        items:
+          - type: heading
+            tag: h2
+            text: Key Features of Survey Forms that help you do much more
+            id: 6ecf11e
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+      - type: column
+        id: '755e012'
+        css:
+          self:
+            d: width:32.721%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: 84f958d
+    css:
+      self:
+        d: padding:0 0 0 0;margin:60px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:25px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 2b93bfd
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 2dcbe63
+            css:
+              ' > .row':
+                d: max-width:1140px
+                m: flex-direction:column-reverse
+            columns:
+              - type: column
+                id: 6c95c07
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 15px 0 0;margin:0 0 0 0;align-content:center
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/06/Ensure-Employee-Health.webp
+                    alt: Ensure-Employee-Health-in-Survey-forms
+                    id: facd8f3
+                    css:
+                      ' > .wc':
+                        m: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: 8dd40d9
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center;--gap:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+                items:
+                  - type: heading
+                    tag: h3
+                    text: Ensure healthy employees come to work
+                    id: '7152354'
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:60px 0 10px 40px
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                        t: font-size:30px;line-height:40px
+                        m: font-size:18px;line-height:30px
+                  - type: text
+                    html: >-
+                      <p><a href="https://en.wikipedia.org/wiki/Survey_(human_research)">Survey</a> forms provide
+                      employees the option to certify their health through proof of vaccination, or a daily health
+                      check.</p>
+                    id: 55b25ec
+                    css:
+                      self:
+                        d: >-
+                          text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:20px
+                      ' > .wc':
+                        d: margin:-15px -15px -15px -15px;padding:0 50px 0 060px
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:-15px 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 8c342d8
+    css:
+      self:
+        d: padding:0 0 0 0;margin:60px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 48f6567
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: d2483be
+            css:
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 97499c5
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 15px 0 0;margin:0 0 0 0;align-content:center;--gap:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+                items:
+                  - type: heading
+                    tag: h3
+                    text: Decide who can access the workplace
+                    id: 366457a
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:30px 35px 10px 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                        t: font-size:30px;line-height:40px
+                        m: font-size:18px;line-height:30px
+                  - type: text
+                    html: >-
+                      <p>Establish criteria for who is permitted to work on-site and who is not. Determine the number of
+                      people you bring back-to-work to make sure there is no overcrowding.</p>
+                    id: dc388f8
+                    css:
+                      self:
+                        d: >-
+                          text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:20px
+                      ' > .wc':
+                        d: margin:-15px 0 0 0;padding:0 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: ed3fb75
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0;align-content:center
+                    t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/06/Descide-the-workplace-access.webp
+                    alt: Descide-the-workplace-access-in-survey-forms
+                    id: b28494e
+                    css:
+                      ' > .wc':
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: f552477
+    css:
+      self:
+        d: padding:0 0 0 0;margin:60px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 8d06437
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Comprehensive-reports-for-decision-making.webp
+            alt: Comprehensive-reports-for-decision-making-in-survey-forms
+            id: 22e5dd9
+            css:
+              ' > .wc':
+                t: margin:0 0 0 0;padding:0 15px 0 0
+      - type: column
+        id: 2a76d9c
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0
+            t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Comprehensive reports for decision making
+            id: 1dcbf11
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:60px 0 10px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px;line-height:40px
+                m: font-size:18px;line-height:30px
+          - type: text
+            html: >-
+              <p>Gain insights into workplace occupancy, employee logs and employee survey results through our
+              centralised dashboard.</p>
+            id: '9242514'
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:-15px -15px -15px -15px;padding:0 50px 0 15px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 62ed781
+    css:
+      self:
+        d: padding:0 0 0 0;margin:60px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 34422c0
+        css:
+          self:
+            d: width:49.559%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Get quick employees feedback
+            id: fa5e96c
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:40px 50px 10px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: text
+            html: >-
+              <p>Our Forms can be used as polls on getting quick feedback on new employee policies or schemes. Take
+              corrective actions based on feedback.</p>
+            id: 607e375
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:-15px 0 0 0;padding:0 50px 0 0
+                t: margin:0 0 0 0;padding:0 15px 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 9a5085a
+        css:
+          self:
+            d: width:50.137%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;align-content:center
+            t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Get-quick-employees-feedback.webp
+            alt: Get-quick-employees-feedback
+            id: 8d1957f
+            css:
+              ' > .wc':
+                t: margin:0 0 0 0;padding:0 0 0 0
+          - type: button
+            text: Make Your Survey Form Now
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: e77bd6f
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:10px 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#2EBCF0;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+  - type: section
+    id: 51b3cd8
+    css:
+      self:
+        d: padding:080px 0 0 0
+        t: padding:15px 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:030px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: d675164
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h5
+            text: More about the latest trends and what we have to offer
+            id: c657d08
+            css:
+              self:
+                d: text-align:center
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 32px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+  - type: section
+    id: 2b39c36
+    css:
+      self:
+        d: background-color:#FFFFFF;margin:0 0 50px 0
+        t: padding:0 30px 0 30px;margin:0 0 050px 0
+        m: padding:0 15px 0 15px;margin:0 0 50px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: b9d7dba
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: posts
+            count: 3
+            id: 96e12e0

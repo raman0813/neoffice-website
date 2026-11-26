@@ -1,0 +1,1148 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Integrations | Google Calendar, Outlook, Slack | NeOffice
+description: >-
+  Quick & easy Integrations with platforms like Microsoft Outlook, Google Meet, Teams, Slack and much more with NeOffice
+  hybrid work solution.
+url: /solutions/integrations/
+sections:
+  - type: section
+    id: d86e5b4
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/Integration.webp);background-position:center
+          center;background-size:cover;padding:30px 0 30px 0;margin:0 0 0 0
+        t: padding:30px 30px 40px 30px
+        m: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: f73ac24
+        css:
+          self:
+            d: width:50.789%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;--gap:0px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:0px
+            m: padding:0 0 0 0;margin:20px 0 0 0
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 3ce9282
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+          - type: heading
+            tag: h1
+            text: Make Most of your system with easy integrations
+            id: 81b53fe
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: padding:0 0 0 0
+                m: margin:0 25px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>NeOffice easily merges with your existing ecosystem to deliver a well-connected workplace experience
+              for your employees.</p>
+            id: ddfbcbd
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 075px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo/
+            size: sm
+            id: 54919cb
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#976EE8;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-play
+            id: d76f9c4
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 30px 16px 30px
+      - type: column
+        id: 762b3f4
+        css:
+          self:
+            d: width:49.167%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Easy-Integration.webp
+            alt: Easy-Integrations
+            id: 700a47f
+            css:
+              ' > .wc':
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:15px 0 0 0;padding:20px 0 0 0
+  - type: section
+    id: 53235de
+    css:
+      self:
+        d: background-position:center center;background-repeat:no-repeat;margin:60px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 8c1d064
+        css:
+          self:
+            d: width:82.719%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: '--gap:10px'
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Create a connected workplace
+            id: de3e804
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+          - type: text
+            html: >-
+              <p>Using NeOffice, shape the workplace of the future by partnering with leading business platforms and
+              choose the way you integrate</p>
+            id: 2951da9
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: d12d01c
+        css:
+          self:
+            d: width:17.063%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: 176a068
+    css:
+      self:
+        d: padding:0 0 2px 0;margin:35px 0 28px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 1c445b3
+        css:
+          self:
+            d: width:26.929%
+            t: width:35%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Actionable-Data-Insights.webp
+            alt: Actionable-Data-Insights-in-integrations
+            id: cb2e951
+            css:
+              self:
+                m: text-align:left
+              ' .w-el':
+                m: width:100%
+      - type: column
+        id: 50734c0
+        css:
+          self:
+            d: width:73.071%
+            t: width:65%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:15px 0 0 0
+            t: padding:0 0 0 15px;margin:0 0 0 0;--gap:20px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: Calendar integration
+            id: '5945981'
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:30px
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>You can book your space using MS Outlook or Google through Smart Calendar. Search for a space, check
+              its details and book, then relax as Smart Calendar automatically keeps meeting information up-to-date ,
+              even when changes are made.</p>
+            id: 7830ffc
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 0
+                m: padding:0 20px 0 0
+  - type: section
+    id: 3d41c9a
+    css:
+      self:
+        t: padding:0 30px 0 30px
+        m: padding:05px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 09b0e62
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: ac297c5
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: f362510
+    css:
+      self:
+        d: padding:0 0 0 0;margin:28px 0 28px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+    columns:
+      - type: column
+        id: ef9ff1d
+        css:
+          self:
+            d: width:73.071%
+            t: width:65%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 15px 0 0;--gap:20px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Secure Login
+            id: c49e4b8
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:020px 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:30px
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>NeOffice <a href="https://en.wikipedia.org/wiki/Digital_integration">integrates</a> with Active
+              Directory/ SSO to make user login and account management even easier Sync with Active Directory to keep
+              employee details up-to-date. Automatically update your employee directory when you update Active
+              Directory.</p>
+            id: de3de9e
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0;padding:0 20px 0 0
+      - type: column
+        id: ea27fd0
+        css:
+          self:
+            d: width:26.929%
+            t: width:35%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Secure-Login.webp
+            alt: Secure-Login-in-integrations
+            id: eeb34fe
+            css:
+              self:
+                m: text-align:left
+              ' .w-el':
+                m: width:100%
+  - type: section
+    id: d905cb6
+    css:
+      self:
+        m: padding:5px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: '66591e2'
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: '9014345'
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: c3905b6
+    css:
+      self:
+        d: padding:0 0 0 0;margin:31px 0 31px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 7ef83ed
+        css:
+          self:
+            d: width:26.929%
+            t: width:35%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Instant-Notifications.webp
+            alt: Instant-Notifications-in-integrations
+            id: 5a6ae9c
+            css:
+              self:
+                m: text-align:left
+              ' .w-el':
+                m: width:100%
+      - type: column
+        id: b53c0b2
+        css:
+          self:
+            d: width:73.071%
+            t: width:65%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0
+            t: padding:0 0 0 15px;margin:0 0 0 0;--gap:20px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Instant Notifications
+            id: ddced26
+            css:
+              ' > .wc':
+                d: margin:20px 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:30px
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>Automatically send real-time notifications to employee in case of any updates on communication channels
+              like Mail , SMS , Inapp Notifications .</p>
+            id: 71efbc3
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 0
+                m: margin:0 0 0 0;padding:0 20px 0 0
+  - type: section
+    id: 4bae100
+    css:
+      self:
+        m: padding:5px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4c4f5e5
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: 191c503
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: e18b45f
+    css:
+      self:
+        d: padding:0 0 0 0;margin:15px 0 15px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+    columns:
+      - type: column
+        id: 6a86ff0
+        css:
+          self:
+            d: width:73.071%
+            t: width:65%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;margin:0 0 0 0
+            t: padding:0 30px 0 0;margin:0 0 0 0;--gap:15px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:5px
+        items:
+          - type: heading
+            tag: h3
+            text: Develop Customized Workflows
+            id: 6f4db5c
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:25px 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:30px;line-height:40px
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>Our API (Application Program Interface) can be used to integrate our cloud-based services in a way that
+              will deliver a better workplace experience. Using our software, Companies can create their own workflows
+              that suits their specific needs.</p>
+            id: cb6cfb9
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 20px 0 0
+      - type: column
+        id: 552be7e
+        css:
+          self:
+            d: width:26.929%
+            t: width:35%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Develop-Customized-Workflows.webp
+            alt: Develop-Customized-Workflows-in-integrations
+            id: 692c75e
+            css:
+              self:
+                m: text-align:left
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                m: width:100%
+  - type: section
+    id: f5dbb5c
+    css:
+      self:
+        m: padding:5px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 529d075
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: c5ba68c
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: 2d1f9a8
+    css:
+      self:
+        d: padding:0 0 00 0;margin:30px 0 50px 0
+        t: padding:0 30px 0 30px;margin:35px 0 50px 0
+        m: padding:0 15px 0 15px;margin:0 0 50px 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 76a3aac
+        css:
+          self:
+            d: width:26.929%
+            t: width:35%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;margin:0 0 0 0
+            m: padding:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Calendar-integration.webp
+            alt: Calendar-integration-in-integrations
+            id: 990da58
+            css:
+              self:
+                m: text-align:left
+              ' .w-el':
+                m: width:100%
+          - type: button
+            text: Book a free demo
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: '8590677'
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:015px 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#976EE8;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+      - type: column
+        id: 7ad8a52
+        css:
+          self:
+            d: width:73.071%
+            t: width:65%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0
+            t: padding:0 0 0 30px;margin:0 0 0 0;--gap:15px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:5px
+        items:
+          - type: heading
+            tag: h3
+            text: Actionable Data Insights
+            id: a39a568
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:030px 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:30px;line-height:40px
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>Our workplace scheduling platform provide data that track workspace use and utilization across your
+              business. this enables you to take more informed decisions about your workspace.</p>
+            id: 7f6fa74
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0;padding:0 20px 0 0
+  - type: section
+    id: a252da5
+    css:
+      self:
+        d: background-position:center center;background-repeat:no-repeat;margin:60px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:-17px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 28f0f13
+        css:
+          self:
+            d: width:82.719%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: '--gap:10px'
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Multiple Platform Integrations
+            id: 93a10e3
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+          - type: text
+            html: >-
+              <p>Our Solution helps powering your workplace with multiple integrations . We can integrate with any cloud
+              based Solution with a API .</p>
+            id: d5ab1ad
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: d930fb3
+        css:
+          self:
+            d: width:17.063%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: 405b3e7
+    css:
+      self:
+        d: margin:25px 0 0 0
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4edf9ec
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 015px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:0 0 020px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Google-Calender-1.webp
+            alt: Google-Calender-Integrations
+            id: cb7f492
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Google Calendar
+            id: 2d46f80
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: 657d344
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Microsoft-Outlook-1.webp
+            alt: Microsoft-Outlook-integrations
+            id: '2135981'
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Microsoft Outlook
+            id: 0a2f9e9
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: 9557d78
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Microsoft-Teams-1.webp
+            alt: Microsoft-Teams-integrations
+            id: 036ea55
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Microsoft Teams
+            id: 612165e
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: bd17259
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Slack-1.webp
+            alt: Slack-Integrations
+            id: 76c1378
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Slack
+            id: da505e2
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+  - type: section
+    id: 5f00e7e
+    css:
+      self:
+        d: margin:25px 0 0 0
+        t: padding:0 30px 0 30px;margin:30px 0 0 0
+        m: margin:025px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4e41d2b
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Key-Cloak-1.webp
+            alt: Keycloak
+            id: c96d07b
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Keycloak
+            id: fbfdbaf
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: 6a44cab
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Okta-1.webp
+            alt: Okta
+            id: d041c08
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Okta
+            id: ed9438a
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: b235891
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:2px 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Onelogin-1.webp
+            alt: Onelogin
+            id: 58a7fc0
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Onelogin
+            id: 01ace1d
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: b7e5f9d
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/SAML-1.webp
+            alt: SAML
+            id: 799ed59
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: SAML
+            id: 1fca97a
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+  - type: section
+    id: 4f546d9
+    css:
+      self:
+        d: margin:25px 0 030px 0
+        t: padding:0 30px 0 30px;margin:30px 0 030px 0
+        m: margin:0 0 30px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 5acce51
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Oracle-Peoplesoft-1.webp
+            alt: Oracle-Peoplesoft
+            id: '1103100'
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Oracle People Soft
+            id: 4d1dd20
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: 35cb00d
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/People-Works-1.webp
+            alt: People-Works
+            id: 30d4ce9
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Peopleworks
+            id: f23b69e
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: 619fa34
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Workday-1.webp
+            alt: Workday
+            id: 698caff
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Workday
+            id: 7f8f3ce
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: 1ef4661
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;border-style:solid;border-width:2px 2px 2px
+              2px;border-radius:15px 15px 15px 15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Drawinbox-1.webp
+            alt: ''
+            id: 949c7de
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Darwinbox
+            id: 99ab822
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px

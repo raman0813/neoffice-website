@@ -1,0 +1,1368 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Back to work | Hybrid Work Solutions | Agiledge NeOffice
+description: >-
+  Back to work tools that assist your employees to efficiently use the office space in the new hybrid environment.
+  Flexible work solutions.
+url: /solutions/back-to-work/
+sections:
+  - type: section
+    id: 8e3f615
+    css:
+      self:
+        d: >-
+          background-color:#43DF94;background-image:url(/wp-content/uploads/2022/06/Back-to-work.-.webp);background-position:center
+          center;background-size:cover;padding:30px 0 30px 0;margin:0 0 0 0
+        t: padding:040px 30px 40px 30px
+        m: background-image:url(/wp-content/uploads/2022/03/Rectangle-5591-1.png);padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: d19e3f5
+        css:
+          self:
+            d: width:50.789%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:flex-start;--gap:0px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:0px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:0px
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 8ce72da
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+          - type: heading
+            tag: h1
+            text: Back To Work made Simple
+            id: e9bde3a
+            css:
+              ' > .wc':
+                m: margin:20px 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:48px;font-weight:700
+                t: font-size:35px
+                m: font-size:20px
+          - type: text
+            html: "<p data-pm-slice=\"1 1 []\">Automation solutions such as neoffice help in making back to work a simple process and help companies adopt a flexible working model with ease.\_</p>"
+            id: 225380f
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:8px 0 0 0;padding:0 35px 0 0
+                t: margin:0 0 0 0;padding:0 10px 0 0
+                m: margin:10px 0 0 0;padding:0 30px 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo/
+            size: sm
+            id: 3aaf200
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE70;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-play
+            id: 4eace44
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 30px 16px 30px
+      - type: column
+        id: be60ce6
+        css:
+          self:
+            d: width:49.167%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Back-to-Work.webp
+            alt: Back-to-Work
+            id: 6534c48
+            css:
+              ' > .wc':
+                m: margin:25px 0 25px 0;padding:0 0 0 0
+              ' .w-el':
+                d: width:80%
+  - type: section
+    id: '7845077'
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+        t: padding:0 35px 0 35px;margin:35px 0 0 0
+        m: padding:0 0 0 0;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: d344d68
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 510cfeb
+            css:
+              self:
+                d: padding:0 0 0 0
+                t: padding:0 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 6c18408
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: >-
+                      padding:10px;padding:50px 0 50px 0;margin:0 0 0
+                      0;background-image:url(/wp-content/uploads/2022/03/Group-6146-1.png)
+                    t: padding:50px 50px 50px 50px;background-position:center right;align-content:center;--gap:15px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h2
+                    text: |-
+                      Tools that help employees  <br>
+                      coming back to work at office <br>
+                      easy and hassle-free
+                    id: fe0740f
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 82px
+                        t: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:25px 15px 0 15px
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:50px;font-weight:700;line-height:75px
+                        t: font-size:30px;line-height:40px
+                        m: font-size:20px;line-height:25px
+                  - type: text
+                    html: >-
+                      <p>With Workplace Flexibility now becoming the future of work, where employees are given the
+                      flexibility to choose to work ,from home or office where could meet &amp; collaborate with their
+                      colleagues or clients. Hence, a workspace management solutions can help ensure spaces are socially
+                      distanced and safe thereby giving employees the confidence needed to return to the office.</p>
+                    id: 972a521
+                    css:
+                      self:
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                        t: font-size:15px;line-height:30px
+                      ' > .wc':
+                        d: margin:0 0 26px 82px;padding:0 120px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 15px 0 15px
+          - type: section
+            id: 25a8827
+            css:
+              self:
+                d: padding:0 0 0 0;margin:0 0 0 0
+                t: padding:0 0 0 0
+                m: padding:0 0 0 0;margin:0 0 0 0
+            columns:
+              - type: column
+                id: 51ab5ae
+                css:
+                  self:
+                    d: width:100%
+                    t: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: padding:0 0 0 0;margin:0 0 0 0
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/06/Hybrid-Work-Environment.webp
+                    alt: Hybrid-Work-Environment
+                    id: 2d51c7b
+                    css:
+                      ' > .wc':
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        t: width:100%
+  - type: section
+    id: 45cc338
+    css:
+      self:
+        d: padding:50px 0 50px 0
+        t: padding:0 0 0 0;margin:50px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 7e6a813
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: '--gap:10px'
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: 1. Workspace management system
+            id: c584ff8
+            css:
+              ' > .wc':
+                d: margin:30px 0 0 0
+                t: margin:0 0 0 0;padding:0 30px 0 030px
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Provide employees the flexibility to search and manage their seats and meeting room when they are back
+              to work at office. Devise a seating strategy that works for all your stakeholders with the help of your
+              office floor plan (i.e. flexible desks, fixed desks or a blend of both. )</p>
+            id: 9d318bf
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:00 0 0 0;padding:0 250px 0 0
+                t: margin:0 0 0 0;padding:0 30px 0 030px
+                m: margin:0 0 0 0;padding:0 25px 0 0
+  - type: section
+    id: e53d263
+    css:
+      self:
+        d: background-color:#FFFFFF;background-repeat:no-repeat;padding:0 0 0 0;margin:0 0 9px 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:20px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 1c1d714
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-image:url(/wp-content/uploads/2022/02/Rectangle-5362.png)
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: >-
+              padding:0 0 0 0;margin:0 0 0
+              0;background-image:url(/wp-content/uploads/2022/03/Untitled-design-51.png);--gap:0px
+        items:
+          - type: section
+            id: 5551a35
+            css:
+              self:
+                d: padding:0 0 0 0;margin:45px 0 -15px 0
+                t: padding:30px 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 5f94362
+                css:
+                  self:
+                    d: width:11.962%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5748.svg
+                    id: 7a8e5ee
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: '0744284'
+                css:
+                  self:
+                    d: width:88.038%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Reserve a space on-demand
+                    id: bf5ac18
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Easily find and book available desk or meeting rooms at your nearby workplace on NeOffice
+                      App.</p>
+                    id: 9d070e4
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:-16px 20px 4px 0;padding:0 130px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 35px 0 0
+          - type: section
+            id: 5b166a7
+            css:
+              self:
+                d: padding:0 0 0 0;margin:35px 0 -15px 0
+                t: padding:30px 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 2090e5b
+                css:
+                  self:
+                    d: width:12.05%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5747.svg
+                    id: ee7bb52
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: 1c6e53a
+                css:
+                  self:
+                    d: width:87.95%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Streamline collaboration
+                    id: c069966
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Find out in advance on our Team Planner feature colleagues working on-site so you can plan your
+                      schedule with your colleagues. Make the most of your workplace by syncing your calendars and
+                      collaborating for meetings easily.</p>
+                    id: cde0c82
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:-16px 0 4px 0;padding:0 160px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+          - type: section
+            id: 7e302ac
+            css:
+              self:
+                d: margin:35px 0 0 0
+                t: padding:30px 0 30px 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 5ff205e
+                css:
+                  self:
+                    d: width:11.962%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5746.svg
+                    id: cf181fd
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+              - type: column
+                id: '8154102'
+                css:
+                  self:
+                    d: width:88.038%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Plan to co-work with your team
+                    id: 0be4b68
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Plan the seating of your team who are coming back to work at office on our scheduling tool or
+                      book a seat closer to your colleague in a few clicks our mobile app.&nbsp;</p>
+                    id: 5b4395a
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:0 0 4px 0;padding:0 160px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 35px 0 0
+                  - type: button
+                    text: Manage Your Seats
+                    link: /schedule-demo/
+                    size: sm
+                    icon: fas fa-arrow-right
+                    iconAlign: right
+                    id: a9d7a03
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                        dd: display:none
+                        to: display:none
+                      ' > .wc':
+                        d: margin:0 020px 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#61CE70;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                          22px 20px 20px
+                        t: font-size:14px
+                        m: font-size:12px;padding:015px 020px 015px 20px
+  - type: section
+    id: 176a068
+    css:
+      self:
+        d: padding:50px 0 50px 0;margin:10px 0 0 0
+        t: padding:0 0 0 0;margin:50px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 1c445b3
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 30px 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: 2. Workplace Health & Safety
+            id: 63bb15e
+            css:
+              ' > .wc':
+                d: margin:40px 0 0 -10px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+          - type: text
+            html: >-
+              <p>Bring employees safely back to work by conducting health surveys and vaccination verifications prior to
+              them come to office</p>
+            id: 4e33c2f
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 -10px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 70e9875
+    css:
+      self:
+        d: background-repeat:no-repeat;padding:0 0 0 0;margin:0 0 9px 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:30px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 8dad2fa
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-image:url(/wp-content/uploads/2022/02/Rectangle-5362.png)
+            t: padding:0 030px 0 10px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0;background-image:url(/wp-content/uploads/2022/03/Untitled-design-51.png)
+        items:
+          - type: section
+            id: dc8ec04
+            css:
+              self:
+                d: padding:0 0 0 0;margin:45px 0 -15px 0
+                t: padding:30px 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 522d040
+                css:
+                  self:
+                    d: width:11.962%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5781.svg
+                    id: eec8b6c
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: 27c56f3
+                css:
+                  self:
+                    d: width:88.038%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Perform health checks
+                    id: 8d49788
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Screen employees using questionnaires to determine their health status and to check if they
+                      have been in contact with someone who is unwell. You can also ask employees to upload their
+                      vaccination status before they come to work.</p>
+                    id: 1cd11d6
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:-16px 20px 4px 0;padding:0 130px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+          - type: section
+            id: 11ffdf0
+            css:
+              self:
+                d: padding:0 0 0 0;margin:35px 0 -15px 0
+                t: padding:30px 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: a3e3ad5
+                css:
+                  self:
+                    d: width:12.05%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5782.svg
+                    id: e95e6a2
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: 5c2d15e
+                css:
+                  self:
+                    d: width:87.95%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Avoid overcrowding
+                    id: abba5a3
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Set capacity limits of how many employee can come to office at one time and avoid over crowding
+                      of employees and visitors at the office.</p>
+                    id: 0d362df
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:-16px 0 4px 0;padding:0 150px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+          - type: section
+            id: c4d164c
+            css:
+              self:
+                d: margin:35px 0 0 0
+                t: padding:30px 0 30px 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: d767243
+                css:
+                  self:
+                    d: width:11.962%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5749.svg
+                    id: f08861c
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: b2eab72
+                css:
+                  self:
+                    d: width:88.038%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Contact tracing of employees​
+                    id: 1b2354b
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Using the Mobile phone bluetooth, real time alerts can be given to employee of close proximity
+                      interactions. These are also captured in a employee interaction network map which enables contact
+                      tracing if any employee becomes covid positive. Employee who have had close interaction with
+                      infected employee can be informed to take precaution measures.</p>
+                    id: '2034411'
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: text-align:left;font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:0 0 4px 0;padding:0 150px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                  - type: button
+                    text: Conduct Health Survey
+                    link: /schedule-demo/
+                    size: sm
+                    icon: fas fa-arrow-right
+                    iconAlign: right
+                    id: 6522d26
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                        dd: display:none
+                        to: display:none
+                      ' > .wc':
+                        d: margin:0 020px 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#61CE70;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                          22px 20px 20px
+                        t: font-size:14px
+                        m: font-size:12px;padding:015px 020px 015px 20px
+  - type: section
+    id: 7c348e5
+    css:
+      self:
+        d: padding:50px 0 50px 0
+        t: padding:0 30px 0 30px;margin:50px 0 35px 0
+        m: padding:0 0 0 0;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: d8abea9
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:35px 15px 20px 15px;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: 3. Workspace Analytics
+            id: 234e870
+            css:
+              ' > .wc':
+                d: margin:40px 0 0 -10px
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+          - type: text
+            html: <p>Get analytics on office occupancy and gain insights how to improve space utilisation.</p>
+            id: 230f37b
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:20px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 -10px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 60e74a0
+    css:
+      self:
+        d: background-repeat:no-repeat;padding:0 0 0 0;margin:0 0 9px 0
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4d9d32a
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-image:url(/wp-content/uploads/2022/02/Rectangle-5362.png)
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0;background-image:url(/wp-content/uploads/2022/03/Untitled-design-51.png)
+        items:
+          - type: section
+            id: 10cd307
+            css:
+              self:
+                d: padding:0 0 0 0;margin:45px 0 -15px 0
+                t: padding:30px 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:15px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: c78b6b3
+                css:
+                  self:
+                    d: width:11.962%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/02/Group-5754-1.svg
+                    id: 11b6738
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: 619ed16
+                css:
+                  self:
+                    d: width:88.038%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Upscale or downsize resources
+                    id: 0e39daf
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>As employees get back to work at office get insights into employee footprint and space
+                      utilization and take decisions to improve efficiencies of workspaces, sanitization, tech support
+                      and food resources.</p>
+                    id: e0d8f51
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:-16px 20px 4px 0;padding:0 130px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+          - type: section
+            id: 0550a5d
+            css:
+              self:
+                d: padding:0 0 0 0;margin:35px 0 -15px 0
+                t: padding:30px 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:15px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 35ed01a
+                css:
+                  self:
+                    d: width:12.05%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: padding:0 0 0 0
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5782.svg
+                    id: d1b14bc
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: 55579b6
+                css:
+                  self:
+                    d: width:87.95%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Regulate employee traffic
+                    id: eddb84d
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Identify the days and timings which are busy so you can modify team schedules or client
+                      meetings in a way that moderates traffic.</p>
+                    id: '3315351'
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:-16px 0 4px 0;padding:0 130px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+          - type: section
+            id: 63a7b37
+            css:
+              self:
+                d: margin:35px 0 0 0
+                t: padding:30px 0 30px 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:15px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 7df5085
+                css:
+                  self:
+                    d: width:11.962%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/02/Group-5796-1.svg
+                    id: 8eec1b2
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: 141455c
+                css:
+                  self:
+                    d: width:88.038%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Plan to co-work with your team
+                    id: d7a77c9
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Analyze which workspaces are utilized the most, track occupancy and make informed decisions on
+                      how to improve workplace experience for employees.</p>
+                    id: 4051c90
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:0 0 4px 0;padding:0 130px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                  - type: button
+                    text: Get Your Space Analytics
+                    link: /schedule-demo/
+                    size: sm
+                    icon: fas fa-arrow-right
+                    iconAlign: right
+                    id: 22448f7
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                        dd: display:none
+                        to: display:none
+                      ' > .wc':
+                        d: margin:0 020px 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#61CE70;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                          22px 20px 20px
+                        t: font-size:14px
+                        m: font-size:12px;padding:015px 020px 015px 20px
+  - type: section
+    id: 955243c
+    css:
+      self:
+        d: padding:50px 0 50px 0
+        t: padding:0 30px 0 30px;margin:050px 0 35px 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: cca509e
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: 4. Workspace Integration
+            id: cc9b2b2
+            css:
+              ' > .wc':
+                d: margin:40px 0 0 -10px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+          - type: text
+            html: >-
+              <p>Enhance your <a href="https://en.wikipedia.org/wiki/Workspace">workplace</a> by syncing NeOffice App
+              with your existing platforms and enjoy a seamless working experience.</p>
+            id: c3231d8
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 -10px;padding:0 100px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: fe29ed1
+    css:
+      self:
+        d: background-repeat:no-repeat;padding:0 0 0 0;margin:0 0 50px 0
+        t: padding:0 30px 0 30px;margin:0 0 50px 0
+        m: padding:20px 0 15px 0;margin:0 0 50px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: '4744800'
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-image:url(/wp-content/uploads/2022/02/Rectangle-5362.png)
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0;background-image:url(/wp-content/uploads/2022/03/Untitled-design-51.png)
+        items:
+          - type: section
+            id: 496601e
+            css:
+              self:
+                d: padding:0 0 0 0;margin:45px 0 -15px 0
+                t: padding:0 0 0 0;margin:30px 0 0 0
+                m: padding:0 15px 0 15px;margin:15px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 6311b0d
+                css:
+                  self:
+                    d: width:11.962%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/02/Group-5757.svg
+                    id: '3013923'
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: bffde1d
+                css:
+                  self:
+                    d: width:88.038%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Notify employees instantly​
+                    id: 793c99e
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Automatically send notifications to employees using messaging channels like Slack or Microsoft
+                      Teams in case of any update.</p>
+                    id: 1f455db
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:-16px 20px 4px 0;padding:0 130px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+          - type: section
+            id: 2f9f2e9
+            css:
+              self:
+                d: padding:0 0 0 0;margin:35px 0 -15px 0
+                t: padding:0 0 0 0;margin:30px 0 0 0
+                m: padding:0 15px 0 15px;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 3feac01
+                css:
+                  self:
+                    d: width:12.05%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/02/Group-5756.svg
+                    id: 0e7e223
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: 9cb4bd1
+                css:
+                  self:
+                    d: width:87.95%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Invite via e-mail
+                    id: c687573
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: <p>Create meeting invites through Neoffice using Google Calendar or Microsoft Outlook.</p>
+                    id: 53878a1
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:-16px 0 4px 0;padding:0 150px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+          - type: section
+            id: ebd6caf
+            css:
+              self:
+                d: margin:35px 0 50px 0
+                t: padding:30px 0 0 0;margin:0 0 0 0
+                m: padding:0 15px 0 15px;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: d6ef2ad
+                css:
+                  self:
+                    d: width:11.962%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/02/Group-5755.svg
+                    id: 522312d
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: '95691e2'
+                css:
+                  self:
+                    d: width:88.038%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: '--gap:10px'
+                    m: '--gap:10px'
+                items:
+                  - type: heading
+                    tag: h4
+                    text: Active Directory services
+                    id: 3b211bf
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                        t: font-size:20px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Authenticate login using SSO, SAML ,Active Directory or LDAP and keep employee details
+                      up-to-date through auto-sync.</p>
+                    id: 2d611d0
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                        t: font-size:16px;line-height:30px
+                        m: font-size:12px;line-height:18px
+                      ' > .wc':
+                        d: margin:0 0 4px 0;padding:0 130px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0

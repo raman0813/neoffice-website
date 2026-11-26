@@ -1,0 +1,1696 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Desk Booking System
+description: >-
+  Our Desk booking software system helps you book your workspace via hot desking anytime, anywhere by using our
+  mobile/desktop application.
+url: /desk-booking-system/
+sections:
+  - type: section
+    id: 12e8aeb
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/03/Group-6141.png);background-position:center
+          center;background-size:cover;background-repeat:no-repeat;padding:30px 0 30px 0;margin:0 0 0 0
+        t: padding:15px 30px 40px 30px
+        m: background-image:url(/wp-content/uploads/2022/03/Rectangle-5591.png);padding:0 15px 15px 15px
+      ' > .row':
+        d: min-height:100vh;max-width:1140px
+    columns:
+      - type: column
+        id: 8832f21
+        css:
+          self:
+            d: width:50.789%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center;--gap:0px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:0px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:-4px
+        items:
+          - type: heading
+            tag: h1
+            text: <span style="color:#43DF94;">Booking and Managing Desks</span> Has Never Been This Simple
+            id: 45a9f4e
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: padding:0 0 0 0
+                m: margin:025px 25px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:45px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: <p>Schedule a demo and find out now !</p>
+            id: cb8e066
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:16px;line-height:25px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:10px 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 015px 0
+                m: margin:10px 0 20px 0;padding:0 35px 0 0
+          - type: section
+            id: 1c31341
+            css:
+              self:
+                d: padding:0 0 0 0;margin:025px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 4994bd7
+                css:
+                  self:
+                    d: width:47.85%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;--gap:0px
+                    t: align-content:center;--gap:15px
+                    m: padding:0 0 0 0;margin:10px 0 0 0;align-content:center;--gap:5px
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/09/Group-5641.svg
+                    id: ebc4eb7
+                    css:
+                      self:
+                        d: text-align:left
+                      ' > .wc':
+                        d: padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41
+                        m: font-size:50px
+                  - type: text
+                    html: <p>Search for Your Preferred Desk and Check Its Availability.</p>
+                    id: f58b777
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;line-height:22px
+                        t: font-size:12px;line-height:18px
+                        m: font-size:12px
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 30px 0 0
+                        t: padding:0 10px 0 0
+                        m: margin:0 0 0 0;padding:0 15px 0 0
+              - type: column
+                id: ce0c6b3
+                css:
+                  self:
+                    d: width:52.058%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;--gap:0px
+                    t: align-content:center;--gap:15px
+                    m: padding:0 0 0 0;margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/09/Group-5642.svg
+                    id: 98e3ad4
+                    css:
+                      self:
+                        d: text-align:left
+                      ' > .wc':
+                        d: padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        m: font-size:50px
+                  - type: text
+                    html: <p>Select and book your desk, check in and start working.</p>
+                    id: 4af4ffc
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;line-height:22px
+                        t: font-size:12px
+                        m: font-size:12px
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 30px 0 0
+                        m: margin:0 0 0 0
+      - type: column
+        id: '3806456'
+        css:
+          self:
+            d: width:49.167%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:50px 50px 50px 50px;margin:030px 75px 30px
+              75px;background-color:#E2FFF0;border-radius:15px 15px 15px 15px;align-content:center
+            t: padding:030px 30px 30px 30px;margin:0 30px 0 30px;align-content:center
+            m: padding:30px 30px 30px 30px;margin:0 20px 030px 20px
+        items:
+          - type: anchor
+            anchor: demo
+            id: c457253
+          - type: heading
+            tag: h2
+            text: Schedule a Demo
+            id: '3413482'
+            css:
+              self:
+                d: text-align:left
+              ' .w-el':
+                d: color:#43DF94;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                t: font-size:18px
+          - type: form
+            name: New Form
+            button: Schedule a Demo
+            fields:
+              - name: name
+                type: text
+                label: Company Name
+                placeholder: Name
+              - name: email
+                type: email
+                label: Email Id
+                placeholder: Email
+                required: true
+              - name: field_8e4d9df
+                type: tel
+                label: Phone Number
+                placeholder: Phone Number
+                required: true
+            id: 82f0fdf
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:15px 15px 15px 15px
+                t: margin:0 0 0 0
+  - type: section
+    id: 49b7046
+    css:
+      self:
+        d: margin:050px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 40cfcbc
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: heading
+            tag: h2
+            text: Clients who have trusted us for their Desk Management Automation
+            id: 0e561ab
+            css:
+              self:
+                d: text-align:center
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 200px 10px 200px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+  - type: section
+    id: be00604
+    css:
+      self:
+        d: margin:020px 0 0 0
+        t: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 35cb69f
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/hybrid-worplace-solution-client-indusindbank.webp
+            alt: hybrid-workplace-solution-indusindbank
+            id: 7366b38
+            css:
+              ' .w-el':
+                d: width:100%;max-width:100%;height:81px
+                t: height:55px
+      - type: column
+        id: da122b5
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/03/Kotak_Mahindra_Bank_logo-new.jpg
+            alt: Kotak-Mahindra-Bank-logo-new
+            id: '3367431'
+      - type: column
+        id: 198840c
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/hybrid-worplace-solution-nayara.webp
+            alt: hybrid workplace solution nayara
+            id: 092ac4f
+      - type: column
+        id: 1e9f98f
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/India-First-1.webp
+            alt: ''
+            id: 0f68fcc
+  - type: section
+    id: 6f9f6fb
+    css:
+      self:
+        d: margin:30px 0 0 0
+        t: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: a90ac93
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/09/BDO.webp
+            alt: ''
+            id: b19f23d
+            css:
+              ' .w-el':
+                d: width:85%
+      - type: column
+        id: 68d0ab8
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/hybrid-worplace-solution-alcon.webp
+            alt: hybrid-worplace-solution-alcon
+            id: 4486a61
+      - type: column
+        id: 03c87d8
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/09/Wunderman-Thompson.webp
+            alt: ''
+            id: 1c5ae26
+      - type: column
+        id: 1ada62e
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/hybrid-worplace-solution-tesco.webp
+            alt: hybrid-worplace-solution-tesco
+            id: b755a44
+  - type: section
+    id: d0a4ff7
+    css:
+      self:
+        d: margin:50px 0 0 0
+        m: margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 543b9a7
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: section
+            id: 66abe4a
+            css:
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: d880f7b
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center;justify-content:center
+                items:
+                  - type: button
+                    text: Schedule a Demo
+                    link: '#demo'
+                    size: sm
+                    icon: fas fa-arrow-right
+                    iconAlign: right
+                    id: cc983bf
+                    css:
+                      self:
+                        d: text-align:center
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 15px 10px
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF0;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;padding:20px
+                          30px 20px 30px
+  - type: section
+    id: e47cc48
+    css:
+      self:
+        d: background-color:#FAFBFC;padding:80px 0 0 0
+        t: padding:0 30px 0 015px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:20px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 7ae1b19
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;--gap:0px
+            t: padding:0 0 0 015px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: Neoffice Helps You with Technology to Manage Your Desk Inventory Management
+            id: f1218ed
+            css:
+              self:
+                d: text-align:left
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 90px 0 0;padding:0 0 25px 0
+                t: padding:25px 0 25px 0
+                m: margin:0 0 0 0;padding:0 0 25px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Book a demo, and discover how Neoffice can elevate your employee experience for your workspace
+              bookings.</p>
+            id: 5516dd8
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:18px;line-height:32px
+                m: text-align:left;font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 250px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 32fa9e4
+    css:
+      self:
+        d: background-color:#FAFBFC
+        t: padding:0 015px 0 015px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 004d096
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:20px 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/09/Group-6162.svg
+            alt: ''
+            id: 99f2d35
+            css:
+              self:
+                d: text-align:left
+              ' .w-el':
+                d: width:13%
+                m: width:18%
+          - type: icon-box
+            title: Visually Interactive floorplan
+            html: >-
+              Search for a desk availability at the Office Location of your choice on our interactive floor plan in the
+              Mobile / Web App.
+            tag: h5
+            position: top
+            id: 0c34e72
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 100px 0 0
+                m: margin:0 0 0 0
+              ' .ib-icon':
+                d: color:#9C0E0E;font-size:138px
+              ' .ib-title':
+                d: color:#000000;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                t: font-size:16px
+              ' .ib-desc':
+                d: color:#000000;font-family:'Poppins',sans-serif;font-weight:400
+      - type: column
+        id: 7f9fa9d
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:20px 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/09/Group-5638.svg
+            alt: ''
+            id: 996a29d
+            css:
+              self:
+                d: text-align:left
+              ' .w-el':
+                d: width:13%
+                m: width:18%
+          - type: icon-box
+            title: Find a  Colleague
+            html: >-
+              Need to collaborate with a colleague? Just search where they have have booked their seat and block your
+              seat close to them.
+            tag: h5
+            position: top
+            id: b39128a
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 100px 0 0
+                m: margin:0 0 0 0
+              ' .ib-title':
+                d: color:#000000;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                t: font-size:16px
+              ' .ib-desc':
+                d: color:#000000;font-family:'Poppins',sans-serif;font-weight:400
+  - type: section
+    id: a9f93e8
+    css:
+      self:
+        d: background-color:#FAFBFC
+        t: padding:0 015px 0 015px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 80e9f6c
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:20px 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/09/Group-5640.svg
+            alt: ''
+            id: 7be6a8a
+            css:
+              self:
+                d: text-align:left
+              ' .w-el':
+                d: width:13%
+                m: width:18%
+          - type: icon-box
+            title: Occupancy tracker
+            html: >-
+              Our analytics help to optimize space usage, plan ahead, make informed decisions  and reduce costs by
+              better utilisation.
+            tag: h5
+            position: top
+            id: 34df779
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 100px 0 0
+                m: margin:0 0 0 0
+              ' .ib-icon':
+                d: color:#9C0E0E;font-size:138px
+              ' .ib-title':
+                d: color:#000000;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                t: font-size:16px
+              ' .ib-desc':
+                d: color:#000000;font-family:'Poppins',sans-serif;font-weight:400
+          - type: button
+            text: Schedule a Demo
+            link: '#demo'
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: '1706845'
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 030px 0
+                t: margin:0 0 0 0;padding:0 0 15px 020px
+                m: padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#2EBCF0;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;padding:20px
+                  30px 20px 30px
+      - type: column
+        id: 070d9c9
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:20px 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/09/Group-5639.svg
+            alt: ''
+            id: 488748f
+            css:
+              self:
+                d: text-align:left
+              ' .w-el':
+                d: width:13%
+                m: width:18%
+          - type: icon-box
+            title: Avoid Ghost Booking
+            html: >-
+              Login to your desk with our QR code scanner. In case of a no show, the seat gets auto cancelled and seat
+              goes back for bookings by other users.
+            tag: h5
+            position: top
+            id: 3e4068e
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 100px 0 0
+                m: margin:0 0 0 0
+              ' .ib-title':
+                d: color:#000000;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                t: font-size:16px
+              ' .ib-desc':
+                d: color:#000000;font-family:'Poppins',sans-serif;font-weight:400
+  - type: section
+    id: 451f100
+    css:
+      self:
+        d: padding:80px 0 0 0
+        t: padding:0 030px 0 25px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:20px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: f68c035
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;--gap:0px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: Many ways to manage your seat inventory
+            id: af9f9e3
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 90px 0 0;padding:0 0 25px 0
+                t: padding:25px 0 25px 0
+                m: margin:0 0 0 0;padding:0 0 25px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p><span style="white-space: pre-wrap;">Neoffice offers you 3 ways you can manage your seat inventory
+              planning and booking</span></p>
+            id: 517fcc6
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:18px;line-height:32px
+                m: text-align:left;font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 250px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 049aa7d
+    css:
+      self:
+        t: padding:0 15px 0 015px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 3e61acd
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 9e82440
+            css:
+              self:
+                d: background-color:#FFFFFF
+                t: padding:0 0 0 0;margin:0 0 0 0
+                m: padding:0 10px 0 10px;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 8f762f8
+                css:
+                  self:
+                    d: width:33%
+                    m: width:100%
+                  ' > .wrap':
+                    d: >-
+                      padding:10px;padding:0 0 0 0;margin:0 010px 0 010px;border-style:solid;border-width:1px 1px 1px
+                      1px;border-color:#F0F0F0;border-radius:10px 10px 10px 10px
+                    t: '--gap:15px'
+                    m: padding:0 0 0 0;margin:0 0 25px 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/09/Group-6156.svg
+                    alt: ''
+                    id: bea2335
+                    css:
+                      ' > .wc':
+                        d: margin:15px 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        t: width:90%
+                        m: width:100%
+                  - type: heading
+                    tag: h4
+                    text: Hot desking
+                    id: c56a1fe
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 25px
+                        t: margin:0 0 0 0;padding:0 10px 0 10px
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                        t: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Your employee can in a jiffy book a hot desk of their choice from our mobile or webapp. 3
+                      clicks and the booking gets done. Checkin from the QR code scanner and you are all set for a
+                      productive day.</p>
+                    id: 988141c
+                    css:
+                      self:
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:14px;font-weight:400;line-height:22px
+                      ' > .wc':
+                        d: margin:0 0 0 25px;padding:0 35px 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 9px
+                  - type: button
+                    text: Read More
+                    link: '#demo'
+                    size: sm
+                    icon: fas fa-arrow-right
+                    iconAlign: right
+                    id: 1d06ec8
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 25px 25px
+                        t: margin:0 0 0 0;padding:0 0 15px 10px
+                      ' .w-el':
+                        d: background-color:#43DF94;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500
+              - type: column
+                id: 9f471e3
+                css:
+                  self:
+                    d: width:33%
+                    m: width:100%
+                  ' > .wrap':
+                    d: >-
+                      padding:10px;padding:0 0 0 0;margin:0 010px 0 010px;border-style:solid;border-width:1px 1px 1px
+                      1px;border-color:#F0F0F0;border-radius:10px 10px 10px 10px
+                    t: '--gap:15px'
+                    m: padding:0 0 0 0;margin:0 0 25px 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/09/Group-5818.svg
+                    alt: ''
+                    id: '3701916'
+                    css:
+                      ' > .wc':
+                        d: margin:15px 0 0 0;padding:0 0 0 0
+                        t: margin:10px 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        t: width:91%
+                        m: width:100%
+                  - type: heading
+                    tag: h4
+                    text: Hoteling
+                    id: '8461e65'
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 25px
+                        t: margin:0 0 0 0;padding:0 0 0 10px
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                        t: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Employee can request a desk for a specific time interval .Workplace team can check availability
+                      and reserve the same. Booking info pops up on the Digital pass of the employee app</p>
+                    id: 073ee56
+                    css:
+                      self:
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:14px;font-weight:400;line-height:22px
+                      ' > .wc':
+                        d: margin:0 0 0 25px;padding:0 35px 0 0
+                        t: margin:0 0 0 0;padding:0 25px 0 10px
+                  - type: button
+                    text: Read More
+                    link: '#demo'
+                    size: sm
+                    icon: fas fa-arrow-right
+                    iconAlign: right
+                    id: 38760f7
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 25px 25px
+                        t: margin:0 0 0 0;padding:0 0 15px 10px
+                      ' .w-el':
+                        d: background-color:#43DF94;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500
+              - type: column
+                id: 92badf5
+                css:
+                  self:
+                    d: width:33%
+                    m: width:100%
+                  ' > .wrap':
+                    d: >-
+                      padding:10px;padding:0 0 0 0;margin:0 010px 0 010px;border-style:solid;border-width:1px 1px 1px
+                      1px;border-color:#F0F0F0;border-radius:10px 10px 10px 10px
+                    t: '--gap:15px'
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/09/Group-5824.svg
+                    alt: ''
+                    id: 8057a25
+                    css:
+                      ' > .wc':
+                        d: margin:015px 0 0 0;padding:0 0 0 0
+                        t: margin:010px 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        t: width:90%
+                        m: width:100%
+                  - type: heading
+                    tag: h4
+                    text: Seat Scheduling
+                    id: febb5bd
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 25px
+                        t: margin:0 0 0 0;padding:0 0 0 10px
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                        t: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Automate your entire workforce seat allocation by scheduling employees to specific desks based
+                      on their rosters – daywise or different shifts. Saves you time and effort.</p>
+                    id: 76e7d41
+                    css:
+                      self:
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:14px;font-weight:400;line-height:22px
+                      ' > .wc':
+                        d: margin:0 0 0 25px;padding:0 35px 0 0
+                        t: margin:0 0 0 0;padding:0 30px 0 10px
+                  - type: button
+                    text: Read More
+                    link: '#demo'
+                    size: sm
+                    icon: fas fa-arrow-right
+                    iconAlign: right
+                    id: f268f2f
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 25px 25px
+                        t: margin:0 0 0 0;padding:0 0 0 10px
+                        m: padding:0 0 15px 10px
+                      ' .w-el':
+                        d: background-color:#43DF94;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500
+  - type: section
+    id: 18bea7e
+    css:
+      self:
+        d: padding:80px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:20px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: ae85d18
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: We have also built these insightful features for your convenience
+            id: 94e19a4
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 90px 0 0;padding:0 0 25px 0
+                t: padding:25px 0 25px 0
+                m: margin:0 0 0 0;padding:0 0 25px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+  - type: section
+    id: cd96f26
+    css:
+      self:
+        d: padding:0 0 0 0;margin:28px 0 28px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:20px 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+    columns:
+      - type: column
+        id: 6f91a9b
+        css:
+          self:
+            d: width:73.071%
+            t: width:65%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 15px 0 0;--gap:20px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Create Exclusive Team Spaces
+            id: 972d666
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:020px 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:30px
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>Block high-impact work spaces for members of a team. This feature allows you to create a space where
+              your team members can come , wokr together and collaborate on projects and share resources. These spaces
+              can only be booked by team managers , so you can have many dedicated areas for specific teams. </p>
+            id: f055f81
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:400;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: text-align:justify;font-size:14px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0;padding:0 30px 0 0
+      - type: column
+        id: eab8cb1
+        css:
+          self:
+            d: width:26.929%
+            t: width:35%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Meeting-room-booking-1.webp
+            alt: Meeting-room-booking
+            id: eda19be
+            css:
+              self:
+                m: text-align:left
+              ' .w-el':
+                m: width:100%
+  - type: section
+    id: 4547ce9
+    css:
+      self:
+        t: padding:0 30px 0 30px
+        m: padding:05px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: cb7414d
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: 14351d3
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: e40031f
+    css:
+      self:
+        d: padding:0 0 2px 0;margin:35px 0 28px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 7a35b06
+        css:
+          self:
+            d: width:26.929%
+            t: width:35%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Secure-Login.webp
+            alt: Secure-Login-in-integrations
+            id: 09a1112
+            css:
+              self:
+                m: text-align:left
+              ' .w-el':
+                m: width:100%
+      - type: column
+        id: '3129468'
+        css:
+          self:
+            d: width:73.071%
+            t: width:65%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:15px 0 0 0
+            t: padding:0 0 0 15px;margin:0 0 0 0;--gap:20px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h4
+            text: Contactless log in
+            id: 3e239a0
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:30px
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>Employee can check-in and check-out from their desk using the QR Code scanner on app.Avoid ghost
+              bookings and manage seat availability in our interactive dashboards and heat maps</p>
+            id: 8683a71
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:400;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: text-align:justify;font-size:14px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 0
+                m: margin:0 0 0 0;padding:0 30px 0 0
+  - type: section
+    id: 7cbc1a5
+    css:
+      self:
+        t: padding:0 30px 0 30px
+        m: padding:05px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 94e6333
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: a2823e9
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: 30060f7
+    css:
+      self:
+        d: padding:0 0 0 0;margin:28px 0 28px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+    columns:
+      - type: column
+        id: 84ddf2f
+        css:
+          self:
+            d: width:73.071%
+            t: width:65%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 15px 0 0;--gap:20px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Digital Office Pass
+            id: f1c8d48
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:020px 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:30px
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>When a employee books a desk, a digital pass gets generated on the app which has all information
+              pertaining to the booking . Employee can reschedule the time or cancel the booking from the office pass
+              section .</p>
+            id: 1ec4b4d
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:400;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: text-align:justify;font-size:14px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0;padding:0 30px 0 0
+      - type: column
+        id: 67226d1
+        css:
+          self:
+            d: width:26.929%
+            t: width:35%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/09/Group-6163.svg
+            alt: ''
+            id: fd90310
+            css:
+              self:
+                m: text-align:left
+              ' .w-el':
+                m: width:100%
+  - type: section
+    id: 0360b4e
+    css:
+      self:
+        t: padding:0 30px 0 30px
+        m: padding:05px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 06c247a
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: 464cb68
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: 86fa930
+    css:
+      self:
+        d: padding:0 0 2px 0;margin:35px 0 28px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: dd57db5
+        css:
+          self:
+            d: width:26.929%
+            t: width:35%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/09/Group-6161.svg
+            alt: ''
+            id: f0346d5
+            css:
+              self:
+                m: text-align:left
+              ' .w-el':
+                m: width:100%
+      - type: column
+        id: fd8505a
+        css:
+          self:
+            d: width:73.071%
+            t: width:65%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:15px 0 0 0
+            t: padding:0 0 0 15px;margin:0 0 0 0;--gap:20px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h4
+            text: Team planner
+            id: 9f1f272
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:30px
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>Hybird work is all about collaboration. Employee can plan their month schedule and mark days they are
+              WFH ,WFO , on travel etc on the team planner . The team can view each other schedule and can plan in
+              person collaboration meeting at office or virtual based on this. Managers can access this tool to review
+              and also smart schedule for allocating seats for his team members.</p>
+            id: '2582e08'
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:400;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: text-align:justify;font-size:14px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 0
+                m: margin:0 0 0 0;padding:0 30px 0 0
+  - type: section
+    id: 95f3201
+    css:
+      self:
+        d: padding:80px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:050px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 42614f1
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;--gap:-12px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: Multiple Platform Integrations
+            id: 71ea2f4
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 25px 0
+                t: padding:25px 0 25px 0
+                m: margin:0 0 0 0;padding:0 0 25px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Our Solution helps powering your workplace with multiple integrations . We can integrate with any cloud
+              based Solution with a API.</p>
+            id: 2e5bc4d
+            css:
+              self:
+                d: >-
+                  text-align:center;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:18px;line-height:32px
+                m: text-align:center;font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 3e69404
+    css:
+      self:
+        d: margin:25px 0 0 0
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+        m: margin:015px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4a7538f
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 015px 0 15px;background-color:#F6F8FA;border-radius:15px 15px 15px
+              15px
+            m: margin:0 0 020px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Google-Calender-1.webp
+            alt: Google-Calender-Integrations
+            id: cab8037
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Google Calendar
+            id: e67d6cc
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: 1333b87
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;background-color:#F6F8FA;border-radius:15px 15px 15px
+              15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Microsoft-Outlook-1.webp
+            alt: Microsoft-Outlook-integrations
+            id: 1ce64bd
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Microsoft Outlook
+            id: 96f0c93
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: 14de811
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;background-color:#F6F8FA;border-radius:15px 15px 15px
+              15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Oracle-Peoplesoft-1.webp
+            alt: Oracle-Peoplesoft
+            id: 6bc680b
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Oracle People Soft
+            id: 08ff18e
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: cf52a9a
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;background-color:#F6F8FA;border-radius:15px 15px 15px
+              15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Workday-1.webp
+            alt: Workday
+            id: ba8d9cc
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Workday
+            id: '3584728'
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+  - type: section
+    id: 037c065
+    css:
+      self:
+        d: margin:25px 0 50px 0
+        t: padding:0 30px 0 30px;margin:30px 0 0 0
+        m: margin:025px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 6f6c757
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;background-color:#F6F8FA;border-radius:15px 15px 15px
+              15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Key-Cloak-1.webp
+            alt: Keycloak
+            id: 319158b
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Keycloak
+            id: 415fd83
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: '6380382'
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;background-color:#F6F8FA;border-radius:15px 15px 15px
+              15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Okta-1.webp
+            alt: Okta
+            id: e57ff78
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Okta
+            id: 7b118ff
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: 9d86940
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;background-color:#F6F8FA;border-radius:15px 15px 15px
+              15px
+            m: margin:2px 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/Onelogin-1.webp
+            alt: Onelogin
+            id: d296be6
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: Onelogin
+            id: ff399b6
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+      - type: column
+        id: 4eb7b8c
+        css:
+          self:
+            d: width:25%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 15px 0 15px;background-color:#F6F8FA;border-radius:15px 15px 15px
+              15px
+            m: margin:0 0 20px 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/07/SAML-1.webp
+            alt: SAML
+            id: 10538d4
+            css:
+              ' .w-el':
+                d: width:80%
+          - type: heading
+            tag: h2
+            text: SAML
+            id: 0ac5eaa
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                t: font-size:15px;line-height:40px
+                m: font-size:16px
+  - type: section
+    id: fc2647e
+    css:
+      self:
+        d: background-image:url(/wp-content/uploads/2022/06/Back-to-work.-.webp);margin:50px 0 0 0
+        m: margin:0 0 0 0
+      ' > .row':
+        d: min-height:400px;max-width:1140px
+    columns:
+      - type: column
+        id: 53a1d52
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: section
+            id: 9cfc626
+            css:
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: e9c7724
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center;justify-content:center
+                items:
+                  - type: heading
+                    tag: h3
+                    text: Want to Optimize Your Desk Utilization ?
+                    id: 347ad28
+                    css:
+                      self:
+                        d: text-align:center
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 25px 0
+                        t: padding:25px 0 25px 0
+                        m: margin:0 0 0 0;padding:0 0 25px 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                        t: font-size:30px;line-height:40px
+                        m: font-size:20px;line-height:30px
+                  - type: button
+                    text: Schedule a Demo
+                    link: '#demo'
+                    size: sm
+                    iconAlign: right
+                    id: 6ee6623
+                    css:
+                      self:
+                        d: text-align:center
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 15px 10px
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF0;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;padding:20px
+                          30px 20px 30px

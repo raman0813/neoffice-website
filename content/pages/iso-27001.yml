@@ -1,0 +1,250 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: ISO 27001
+description: ''
+url: /iso-27001/
+sections:
+  - type: section
+    id: '5186e25'
+    css:
+      self:
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 7305fb2
+        css:
+          self:
+            d: width:12.456%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/11/approve-file.svg
+            alt: ISO-27001
+            id: d6cfefe
+            css:
+              self:
+                d: text-align:left
+              ' .w-el':
+                d: width:50%
+                t: width:80%
+                m: width:20%
+      - type: column
+        id: 6554b78
+        css:
+          self:
+            d: width:87.544%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: dcd33a5
+    css:
+      self:
+        d: margin:0 0 30px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 8a86e98
+        css:
+          self:
+            d: width:72.368%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: heading
+            tag: h2
+            text: ISO 27001
+            id: 323a52c
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+      - type: column
+        id: 22c6193
+        css:
+          self:
+            d: width:27.068%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: d419a16
+    css:
+      self:
+        d: margin:0 0 50px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 35px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: dd5b781
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-color:#FAFAFB
+            t: padding:20px 20px 20px 20px
+            m: padding:10px 10px 10px 10px
+        items:
+          - type: heading
+            tag: h2
+            text: >-
+              At Agiledge Solutions we take the data security of all our stakeholders, customers and partners very
+              seriously. To ensure we comply with the
+
+              highest level of data security possible, Agiledge Solutions has obtained the
+
+              international ISO 27001- 2013 accreditation, in November 2022.<br><br>ISO 27001 certification is an
+              auditable international standard that defines
+
+              the requirements and compliance to an information security management
+
+              system (ISMS).<br><br>An ISMS is a set of policies, procedures, processes, and systems that manage
+              information risks, including but not limited to data privacy,
+
+              customer confidentiality and organisational preparedness to ensure
+
+              compliance to international cyber security standards.
+            id: fdd1dde
+            css:
+              ' > .wc':
+                t: padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: |-
+              <b>An ISMS aligned to ISO 27001 brings about many organisational benefits,
+              such as:</b><br><br><b>
+            id: f61edda
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: |-
+              <b>1.Convincing Evidence<br></b>The ability to provide convincing evidence that the necessary
+              measures have been taken to comply with the data security requirements.
+            id: 22dc375
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: |-
+              <b>  2. Protection of Info<br></b>The protection of all corporate information and intellectual property –
+              not just personal data.
+            id: 44f38a3
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: |-
+              <b> 3.  Risk Management<br></b>The ability to reduce, monitor and review risks as well as keep up
+              with constantly evolving data security threat.
+            id: 2a640be
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: |-
+              <b>4. Awareness of Info Security<br></b>A company-wide culture of awareness surrounding information
+              security.
+            id: 131d2e2
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              When we deal with the information of our client companies and other
+
+              stakeholders, we ensure we comply with all business, legal, contractual and
+
+              regulatory requirements. We are not just another company handling your
+
+              data, you can rely on us to do our utmost to protect your data.<br><br>Certification to ISO/IEC 27001
+              demonstrates that our organisation has
+
+              defined and put in place best-practice information security processes that
+
+              are continually audited and updated.
+            id: 051b1ed
+            css:
+              ' > .wc':
+                t: padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+  - type: section
+    id: 5db7ec4
+    css:
+      self:
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 6fdad22
+        css:
+          self:
+            d: width:33%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/11/ISO27001.webp
+            alt: ''
+            id: 62ad2ee
+          - type: heading
+            tag: h2
+            text: <b>ISO 27001 Certificate</b>
+            link: /wp-content/uploads/2022/11/GIS1135_Agiledge_Process_Solutions_Pvt._Ltd-1.webp
+            id: 7718f2d
+            css:
+              self:
+                m: text-align:center
+              ' .w-el':
+                d: color:#FF455B;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:15px;line-height:18px
+      - type: column
+        id: cae1d14
+        css:
+          self:
+            d: width:33%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: align-content:center
+        items: []
+      - type: column
+        id: '0113695'
+        css:
+          self:
+            d: width:33%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []

@@ -1,0 +1,1092 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Most Admired Visitor Management System | Neoffice
+description: >-
+  Enhance your guest experience with Neoffice's Visitor Management System. Gain real-time insights into visitor data and
+  user analytics.
+url: /workspace/visitor-management-system/
+sections:
+  - type: section
+    id: 4610b2d
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/Visitor-management.webp);background-position:center
+          center;background-size:cover;background-repeat:no-repeat;padding:20px 0 30px 0;margin:0 0 0 0
+        t: padding:030px 30px 30px 30px;margin:0 0 0 0
+        m: background-image:url(/wp-content/uploads/2022/03/Group-6144-1.png);padding:10px 15px 15px 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: f2de4d5
+        css:
+          self:
+            d: width:50.789%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center;--gap:0px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:0px
+            m: padding:20px 0 0 0;margin:0 0 0 0;--gap:-4px
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: e8924cb
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+                t: margin:0 15px 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+                t: font-size:14px
+          - type: heading
+            tag: h1
+            text: Create delightful experiences with our <span style="color:#FFB61F;">visitor management system </span>
+            id: 7e5ce27
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:50px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+          - type: text
+            html: >-
+              <p>Enhance your visitor experience from entry to exit while keeping everyone safe with our visitor
+              management system. Leverage the latest technology to improve efficiency and security by welcoming
+              visitors, capturing identification and credentials, tracking appointments and scanning badges with our
+              single entry point solution.&nbsp;</p>
+            id: 625692b
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:16px;line-height:25px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:10px 0 0 0;padding:0 25px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:15px 0 0 0;padding:0 35px 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo/
+            size: sm
+            id: 5d78969
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFB51F;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-play
+            id: bda5893
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 30px 16px 30px
+      - type: column
+        id: 122b2c7
+        css:
+          self:
+            d: width:49.167%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/03/IMG_4931Cropped-1-1.gif
+            alt: Visitor-management
+            id: e9de46a
+            css:
+              ' > .wc':
+                m: margin:10px 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: width:100%
+                t: width:100%
+  - type: section
+    id: fd85f96
+    css:
+      self:
+        d: padding:80px 0 0 20px
+        m: padding:0 15px 0 15px;margin:30px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: f1373dc
+        css:
+          self:
+            d: width:67.192%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 20px 0;margin:0 0 0 0;border-style:solid;border-width:0 0 1px
+              0;border-color:#E6EAEF
+            t: padding:0 0 0 10px;--gap:10px
+            m: padding:0 0 25px 0;align-content:center;--gap:20px
+        items:
+          - type: heading
+            tag: h2
+            text: Explore our features
+            id: 36ebb22
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Our visitor management system combines all aspects of the guest experience on one platform for easy
+              maintenance, control, and data analysis.</p>
+            id: 959d938
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                t: font-size:16px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 60px 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 7c4a359
+        css:
+          self:
+            d: width:32.721%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: 50f7f69
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:25px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: d830a10
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 15px 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Multiple-Checkin-Available.webp
+            alt: Multiple-Checkin-Available-Visitor-Management-System
+            id: c6cdc5e
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 072ba31
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0;align-content:center;--gap:10px
+            t: padding:0 0 0 15px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Multiple check-in <br>workflows available
+            id: 9652f36
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Pre-registered visitors can fill in their details and upload Identity proof via SMS/Email links sent to
+              them by their hosts. Walk-in visitors can submit their documents at front desk.</p>
+            id: 5abfa21
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 60px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 7f49b10
+    css:
+      self:
+        d: padding:0 0 0 20px;margin:60px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4308f0d
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 00 0 0;margin:0 0 0 0;align-content:center;--gap:10px
+            t: padding:0 15px 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Strengthened security
+            id: 38b7d4c
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Monitor guest visits to office. Ensure complete security on the premises and restrict unwarranted
+              visitors through the customized visitor management system that acts as a single face for all guest
+              visits</p>
+            id: 21e065b
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 80px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 690ba2a
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Strengthened-security.webp
+            alt: Strengthened-security-visitor-management-system
+            id: e0d5c2b
+            css:
+              ' > .wc':
+                d: margin:0 0 0 20px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 8ab8c90
+    css:
+      self:
+        d: padding:0 0 0 0;margin:60px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 16f90cc
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0
+            t: padding:0 15px 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Health-screening.webp
+            alt: Health-screening-visitor-management-system
+            id: e240377
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:20px 0 0 0;padding:0 0 0 0
+      - type: column
+        id: dc328a8
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 15px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Health screening for visitors
+            id: e0af8e7
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              Promote a safe workplace by setting criteria for visitors to come on-site through health declaration.
+              Vaccination status of visitors can also be integrated based on their consent.
+            id: 2ef3e47
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                t: font-size:16px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 70px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 22ec96d
+    css:
+      self:
+        d: padding:0 0 0 20px;margin:60px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 6e91a59
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 00 0 0;margin:0 0 0 0;align-content:center;--gap:10px
+            t: padding:0 15px 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Auto-alert hosts on visitor's entry
+            id: 87d0064
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              Using the visitor management system your employees will be automatically notified by email or other
+              messaging channels when their guests check-in to office.
+            id: acd0e36
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                t: font-size:16px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 075px 0 0
+                t: margin:0 0 0 0;padding:0 30px 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+          - type: button
+            text: make Your Office Auto Alert
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: 8d382bd
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 0 020px 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFB61F;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+      - type: column
+        id: f539817
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Auto-alert-on-entry.webp
+            alt: Auto-alert-on-entry-visitor-management-system
+            id: c28dd18
+            css:
+              ' > .wc':
+                d: margin:0 0 0 040px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 161182e
+    css:
+      self:
+        d: padding:0 0 0 0;margin:60px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: '6483171'
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 15px 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Simplified-check-for-repeaters.webp
+            alt: Simplified-check-for-repeaters
+            id: 9e28f81
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 5d69c65
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0;align-content:center;--gap:10px
+            t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Simplified check-in for repeat visitors
+            id: 6ea01f8
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Re-registering of repeat visitors is now made easy. Recurring guests only need to enter their name or
+              contact details and the data will be auto-populated.</p>
+            id: 14ae6e4
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 90px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+  - type: section
+    id: f642bbb
+    css:
+      self:
+        d: padding:0 0 0 20px;margin:60px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: e3c06e2
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 00 0 0;margin:0 0 0 0;align-content:center;--gap:10px
+            t: padding:0 15px 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Customized badges for visitors
+            id: 24d141b
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: <p>Visit pass/badges can be printed at front desk with necessary details and photograph.</p>
+            id: 3b1c696
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 50px 0 0
+                t: margin:0 0 0 0;padding:0 30px 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 03c2542
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Customized-badges-.webp
+            alt: Customized-badges
+            id: d404b04
+            css:
+              ' > .wc':
+                d: margin:0 0 0 040px
+                t: margin:0 0 0 0;padding:0 0 0 15px
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: cc1ba88
+    css:
+      self:
+        d: padding:0 0 0 0;margin:60px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: a6f9a18
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 15px 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Digital-records-for-analysis.webp
+            alt: Digital-records-for-analysis
+            id: 723c154
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0
+      - type: column
+        id: '4745145'
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0;align-content:center;--gap:10px
+            t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Digital records for easy analysis
+            id: 81424fb
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>We optimize your visitor management system by giving insight into visitor logs, which visitors are most
+              frequent, who hosts mosts visitor, visitor volume and much more. You can also export reports and store
+              them offline.</p>
+            id: '0121775'
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 60px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 584319e
+    css:
+      self:
+        d: padding:80px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:20px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4ebb4c9
+        css:
+          self:
+            d: width:75.657%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:15px
+        items:
+          - type: heading
+            tag: h2
+            text: Enhance guest experience across the enterprise with our visitor management system
+            id: faa3b7d
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 1px 0;border-color:#E6EAEF
+                t: padding:25px 0 25px 0
+                m: margin:0 0 0 0;padding:0 0 25px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>You can manage a spectrum of visitors across all of your organization's locations with an efficient
+              workplace visitor policy. It is crucial for facility managers to adopt best practices &amp; tools to
+              provide the perfect <a href="https://en.wikipedia.org/wiki/Visitor_management" target="_blank"
+              rel="noopener">visitor management</a> system.</p>
+            id: f79e868
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:32px
+                t: font-size:18px;line-height:32px
+                m: text-align:left;font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0
+                t: margin:0 0 0 0;padding:0 50px 0 50px
+                m: margin:0 0 0 0;padding:0 0 0 0
+          - type: button
+            text: Enhance Guest Experience
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: f1d0ac4
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFB61F;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+      - type: column
+        id: 1c7c162
+        css:
+          self:
+            d: width:23.952%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: '1772588'
+    css:
+      self:
+        d: margin:15px 0 0 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: c0b5233
+        css:
+          self:
+            d: width:44.033%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:15px 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Ways-of-desk-booking-system.webp
+            alt: Ways-of-desk-booking-system
+            id: d29b1e0
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: padding:1px 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: b9903d5
+        css:
+          self:
+            d: width:55.967%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 931cabf
+            css:
+              self:
+                d: padding:60px 0 0 30px
+                m: padding:0 0 0 0;margin:25px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: ed8f938
+                css:
+                  self:
+                    d: width:47.85%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 10px 0 10px
+                    t: align-content:center;--gap:15px
+                    m: padding:0 0 0 0;margin:10px 0 0 0;align-content:center;--gap:5px
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/07/Understanding-guest-policy​.svg
+                    alt: Understanding-guest-policy​
+                    id: c31c681
+                    css:
+                      self:
+                        d: text-align:left
+                      ' .w-el':
+                        d: width:25%
+                        m: width:15%
+                  - type: heading
+                    tag: h5
+                    text: Understanding guest policy
+                    id: 682a88f
+                    css:
+                      ' > .wc':
+                        d: margin:-10px 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Ensure that employees understand the specifics of your visitor policy. Include a review of the
+                      policy, case studies, and a Q&amp;A session. as part of staff onboarding and make it available
+                      on-demand.</p>
+                    id: '3269994'
+                    css:
+                      self:
+                        d: >-
+                          text-align:justify;color:#1D3444;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;line-height:22px
+                        t: text-align:justify;font-size:14px;line-height:18px
+                        m: font-size:12px
+                      ' > .wc':
+                        d: margin:-10px 0 0 0;padding:0 0 0 0
+                        t: padding:0 10px 0 0
+                        m: margin:0 0 0 0;padding:0 15px 0 0
+              - type: column
+                id: c7b0a33
+                css:
+                  self:
+                    d: width:52.058%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 10px 0 10px
+                    t: align-content:flex-start;--gap:15px
+                    m: padding:0 0 0 0;margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/07/Keep-the-staff-updated.svg
+                    alt: Keep-the-staff-updated
+                    id: 873e2e4
+                    css:
+                      self:
+                        d: text-align:left
+                      ' .w-el':
+                        d: width:22%
+                        m: width:15%
+                  - type: heading
+                    tag: h5
+                    text: Keep the staff updated
+                    id: 34abc75
+                    css:
+                      ' > .wc':
+                        d: margin:-10px 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:15px
+                  - type: text
+                    html: >-
+                      <p>Whilst making modifications to the policy, ensure to notify everyone via your company's
+                      communication channels. Keeping your workforce informed reduces the number of errors they make
+                      when bringing guests on-site.</p>
+                    id: 98b8c5e
+                    css:
+                      self:
+                        d: >-
+                          text-align:justify;color:#1D3444;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;line-height:22px
+                        t: text-align:justify;line-height:18px
+                        m: font-size:12px
+                      ' > .wc':
+                        d: margin:-10px 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0
+          - type: section
+            id: 2af9370
+            css:
+              self:
+                d: padding:0 0 0 30px;margin:20px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: c6e8c8e
+                css:
+                  self:
+                    d: width:47.571%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 10px 0 10px
+                    t: align-content:flex-start;--gap:15px
+                    m: padding:0 0 0 0;margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/07/Set-the-right-first-impression.svg
+                    alt: Set-the-right-first-impression
+                    id: 94cd117
+                    css:
+                      self:
+                        d: text-align:left
+                      ' .w-el':
+                        d: width:25%
+                        m: width:15%
+                  - type: heading
+                    tag: h5
+                    text: Set the right first impression
+                    id: 5e29d5e
+                    css:
+                      ' > .wc':
+                        d: margin:-10px 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Redesign your lobby area for visitors to provide comfortable seating, offer refreshments and
+                      display your company booklets or magazines to get them better acquainted about your
+                      organisation</p>
+                    id: f331fd8
+                    css:
+                      self:
+                        d: >-
+                          text-align:justify;color:#1D3444;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;line-height:22px
+                        t: line-height:18px
+                        m: font-size:12px
+                      ' > .wc':
+                        d: margin:-10px 10px 0 0;padding:0 4px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: f1b90eb
+                css:
+                  self:
+                    d: width:52.058%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 10px 0 10px
+                    t: align-content:flex-start;--gap:15px
+                    m: padding:0 0 0 0;margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/07/Improve-overall-experience.svg
+                    alt: Improve-overall-experience
+                    id: 483d159
+                    css:
+                      self:
+                        d: text-align:left
+                      ' .w-el':
+                        d: width:23%
+                        m: width:15%
+                  - type: heading
+                    tag: h5
+                    text: Improve overall experience
+                    id: f1526f4
+                    css:
+                      ' > .wc':
+                        d: margin:-10px 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: "<p>Closing a visit on a positive note will reflect well on your team, organisation, and brand, Take feedback to ensure a better experience\_</p>"
+                    id: acc71df
+                    css:
+                      self:
+                        d: >-
+                          text-align:justify;color:#1D3444;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;line-height:22px
+                        t: line-height:18px
+                        m: font-size:12px
+                      ' > .wc':
+                        d: margin:-10px 0 0 0
+                        m: margin:0 0 0 0
+  - type: section
+    id: '4943997'
+    css:
+      self:
+        d: padding:080px 0 0 0
+        t: padding:15px 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 5px;margin:50px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 2ab94a5
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h6
+            text: More about the latest trends and what we have to offer
+            id: 249ce08
+            css:
+              self:
+                d: text-align:center
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 32px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+  - type: section
+    id: 7d608fb
+    css:
+      self:
+        d: background-color:#FFFFFF;margin:0 0 50px 0
+        t: padding:0 30px 0 30px;margin:0 0 50px 0
+        m: padding:0 5px 0 5px;margin:0 0 50px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 45e9f2f
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: posts
+            count: 3
+            id: f030cd9

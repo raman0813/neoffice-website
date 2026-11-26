@@ -1,0 +1,1608 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: On-Demand Corporate Travel Booking | NeOffice
+description: >-
+  Neoffice corporate on-demand booking is a sophisticated and efficient travel management service tailored specifically
+  for businesses
+url: /on-demand-travel/
+sections:
+  - type: section
+    id: f98e530
+    css:
+      self:
+        d: >-
+          background-color:#F6F1FF;background-image:url(/wp-content/uploads/2023/08/Group-5953-1.png);background-position:center
+          center;background-size:cover;background-repeat:no-repeat;padding:30px 0 30px 0;margin:0 0 130px 0
+        t: padding:15px 30px 40px 30px
+        m: background-image:url(/wp-content/uploads/2023/08/Group-5953-1.png);padding:0 15px 15px 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4c0941f
+        css:
+          self:
+            d: width:49.998%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center;--gap:0px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:0px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:-4px
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 3eaa0f1
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+                t: margin:0 15px 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+                t: font-size:14px
+          - type: heading
+            tag: h1
+            text: Smart, Seamless, <span style="color:#976EE8";>On-Demand </span> Travel
+            id: 0a006ef
+            css:
+              ' > .wc':
+                d: margin:0 13px 10px 0;padding:0 0 0 0
+                t: padding:0 0 0 0
+                m: margin:025px 25px 10px 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:48px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: <p>Simple Solution for a effortless On-Call Corporate Travel</p>
+            id: c15c9ff
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:16px;line-height:30px
+                m: font-size:15px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 30px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo-ets/
+            size: sm
+            id: 3cf098d
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 20px 0 0;padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#976EE8;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: '#vid'
+            size: sm
+            icon: fas fa-play
+            id: aec65d7
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 30px 16px 30px
+      - type: column
+        id: 15f9062
+        css:
+          self:
+            d: width:49.958%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/08/on-demand-travel.png
+            alt: on-demand travel
+            id: b9441d8
+  - type: section
+    id: 659ec15
+    css:
+      self:
+        d: padding:0 0 0 0;margin:0 0 100px 0
+        t: padding:0 0 0 0;margin:20px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: a3e7e75
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;--gap:0px
+            t: padding:0 30px 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 -13px 0
+        items:
+          - type: heading
+            tag: h2
+            text: What is corporate On-call travel ?
+            id: 43a4c50
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              Corporate on-call booking is a sophisticated and efficient travel management service tailored specifically
+              for businesses. It allows companies to arrange on-demand transportation for their employees, executives,
+              and clients, ensuring a seamless and timely travel experience. With corporate on-call booking,
+              organizations can access a reliable fleet of cabs or chauffeur-driven vehicles at their disposal, ready to
+              be summoned at any time.
+            id: 7ded1fb
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:16px;line-height:30px
+                m: font-size:15px;line-height:23px
+              ' > .wc':
+                d: margin:0 0 30px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 6b32f97
+    css:
+      self:
+        d: padding:0 0 0 0;margin:0 0 10px 0
+        t: padding:0 0 0 0;margin:20px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: e80de48
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;--gap:0px
+            t: padding:0 30px 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 15px 0
+        items:
+          - type: heading
+            tag: h2
+            text: Challenges faced by organizations
+            id: d54348a
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+  - type: container
+    id: a611608
+    css:
+      self:
+        d: padding:10px;margin:0 0 50px 0
+        m: margin:0 0 0 0
+      ' > .inner':
+        d: flex-direction:row;gap:0px;max-width:1140px
+    items:
+      - type: container
+        id: 52011cd
+        css:
+          self:
+            d: padding:10px;width:50%
+            m: margin:0 0 15px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Setting.png
+            alt: Setting
+            id: 1d48952
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 16px 0
+          - type: heading
+            tag: h3
+            text: Meeting Demands
+            id: a884694
+            css:
+              ' > .wc':
+                d: margin:0 0 9px 0
+                m: margin:0 0 2px 0
+              ' .w-el':
+                d: color:#976EE8;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700;line-height:30px
+                m: font-size:18px
+          - type: text
+            html: <p>Managing vehicle availability during peak hours is challenging.</p>
+            id: abd634c
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:27px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+      - type: container
+        id: 3468fa9
+        css:
+          self:
+            d: padding:10px;width:50%
+            m: margin:0 0 15px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Time.png
+            alt: Time
+            id: 3e5eed5
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 16px 0
+          - type: heading
+            tag: h3
+            text: Timely Arrivals
+            id: b8e5bd6
+            css:
+              ' > .wc':
+                d: margin:0 0 9px 0
+                m: margin:0 0 2px 0
+              ' .w-el':
+                d: color:#38DF8F;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700;line-height:30px
+                m: font-size:18px
+          - type: text
+            html: <p>Availability of timely Cabs services for optimized transport operations.</p>
+            id: ab083c5
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:27px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+      - type: container
+        id: 2a7d565
+        css:
+          self:
+            d: padding:10px;width:50%
+            m: margin:0 0 15px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Download-Arrow.png
+            alt: Download Arrow
+            id: 6ab247d
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 16px 0
+          - type: heading
+            tag: h3
+            text: Scaling Efforts
+            id: 83dcbd8
+            css:
+              ' > .wc':
+                d: margin:0 0 9px 0
+                m: margin:0 0 2px 0
+              ' .w-el':
+                d: color:#2EBCF0;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700;line-height:30px
+                m: font-size:18px
+          - type: text
+            html: <p>Balancing growth with scalability is vital to meet rising demand.</p>
+            id: 8c5882c
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:27px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+  - type: container
+    id: 8035c4d
+    css:
+      self:
+        d: padding:10px;margin:0 0 50px 0
+        m: margin:0 0 0 0
+      ' > .inner':
+        d: flex-direction:row;gap:0px;max-width:1140px
+    items:
+      - type: container
+        id: 2259cbe
+        css:
+          self:
+            d: padding:10px;width:50%
+            m: margin:0 0 15px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Dollar-Coin-1.png
+            alt: Dollar Coin-1
+            id: 19558f7
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 16px 0
+          - type: heading
+            tag: h3
+            text: Cost-Quality Balance
+            id: f611d39
+            css:
+              ' > .wc':
+                d: margin:0 0 9px 0
+                m: margin:0 0 2px 0
+              ' .w-el':
+                d: color:#976EE8;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700;line-height:30px
+                m: font-size:18px
+          - type: text
+            html: Juggling cost efficiency & high-quality services is an ongoing challenge.
+            id: ea8e160
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:27px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+      - type: container
+        id: e8df87e
+        css:
+          self:
+            d: padding:10px;width:50%
+            m: margin:0 0 15px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/3dicons.png
+            alt: 3dicons
+            id: 83512d0
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 16px 0
+          - type: heading
+            tag: h3
+            text: Integration Complexity
+            id: 61a7881
+            css:
+              ' > .wc':
+                d: margin:0 0 9px 0
+                m: margin:0 0 2px 0
+              ' .w-el':
+                d: color:#38DF8F;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700;line-height:30px
+                m: font-size:18px
+          - type: text
+            html: Integrating transport with legacy  systems poses  tech challenge.
+            id: 865b12c
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:27px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+      - type: container
+        id: c5c1da4
+        css:
+          self:
+            d: padding:10px;width:50%
+            m: margin:0 0 15px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Account.png
+            alt: Account
+            id: 86a63b8
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 16px 0
+          - type: heading
+            tag: h3
+            text: User-Friendly Experience
+            id: 824fb18
+            css:
+              ' > .wc':
+                d: margin:0 0 9px 0
+                m: margin:0 0 2px 0
+              ' .w-el':
+                d: color:#2EBCF0;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700;line-height:30px
+                m: font-size:18px
+          - type: text
+            html: User-friendly experience with dedicated support enhances Csat.
+            id: 2f804a5
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:27px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+  - type: container
+    id: a72b533
+    css:
+      self:
+        d: padding:10px;margin:0 0 60px 0
+      ' > .inner':
+        d: flex-direction:row;gap:0px;max-width:1140px
+    items:
+      - type: container
+        id: b167d8a
+        css:
+          self:
+            d: padding:10px;width:50%
+            m: margin:0 0 15px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Group-6126.png
+            alt: note pad
+            id: 26a98a6
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 16px 0
+          - type: heading
+            tag: h3
+            text: Regulatory Compliance
+            id: aebbc47
+            css:
+              ' > .wc':
+                d: margin:0 0 9px 0
+                m: margin:0 0 2px 0
+              ' .w-el':
+                d: color:#976EE8;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700;line-height:30px
+                m: font-size:18px
+          - type: text
+            html: <p>Complying with regulations is vital for corporate transport.</p>
+            id: '324e297'
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:27px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+      - type: container
+        id: bdec444
+        css:
+          self:
+            d: padding:10px;width:50%
+            m: margin:0 0 15px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Dollar-Coin-2.png
+            alt: Dollar Coin
+            id: 88c4540
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 16px 0
+          - type: heading
+            tag: h3
+            text: Transport expenses
+            id: abcfa73
+            css:
+              ' > .wc':
+                d: margin:0 0 9px 0
+                m: margin:0 0 2px 0
+              ' .w-el':
+                d: color:#38DF8F;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700;line-height:30px
+                m: font-size:18px
+          - type: text
+            html: <p>Tracking transport expenses is essential for financial efficiency.</p>
+            id: 1e61227
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:27px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+      - type: container
+        id: 34b6730
+        css:
+          self:
+            d: padding:10px;width:50%
+            m: margin:0 0 15px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/3dicons-1.png
+            alt: 3dicons-1
+            id: e12ce19
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 16px 0
+          - type: heading
+            tag: h3
+            text: Competitive Edge
+            id: 6c9e757
+            css:
+              ' > .wc':
+                d: margin:0 0 9px 0
+                m: margin:0 0 2px 0
+              ' .w-el':
+                d: color:#2EBCF0;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700;line-height:30px
+                m: font-size:18px
+          - type: text
+            html: <p>Competitive markets need innovative transport solutions.</p>
+            id: 72e3fdf
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:27px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+  - type: container
+    id: '9601695'
+    css:
+      self:
+        d: background-color:#FBF9FF;padding:10px
+      ' > .inner':
+        d: flex-direction:column;max-width:1140px
+    items:
+      - type: spacer
+        id: 95ad03a
+        css:
+          self:
+            d: height:240px;height:240px
+            m: height:60px
+  - type: container
+    id: 87f7203
+    css:
+      self:
+        d: background-color:#FBF9FF;padding:10px;margin:0 0 0 0
+      ' > .inner':
+        d: flex-direction:column;gap:0px;max-width:1140px
+    items:
+      - type: heading
+        tag: h2
+        text: 'Neoffice: Your choice for on-demand travel'
+        id: c1400de
+        css:
+          self:
+            d: text-align:center
+          ' > .wc':
+            d: margin:0 0 6px 0
+            t: margin:0 0 0 0;padding:0 0 0 0
+            m: margin:0 0 8px 0;padding:0 0 0 0
+          ' .w-el':
+            d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+            t: font-size:30px
+            m: font-size:20px;line-height:1.5em
+      - type: text
+        html: <p>At Neoffice, we pride ourselves on delivering cutting-edge solutions for your corporate travel needs</p>
+        id: 9f5ad31
+        css:
+          self:
+            d: >-
+              text-align:center;color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:27px
+            m: text-align:center;font-size:14px
+          ' > .wc':
+            d: margin:0 0 0 0
+      - type: text
+        html: 'Here''s why you should choose us for your on-demand travel automation:'
+        id: 01459b6
+        css:
+          self:
+            d: >-
+              text-align:center;color:#49465C;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:27px
+            m: text-align:center;font-size:14px
+          ' > .wc':
+            d: margin:0 0 20px 0
+  - type: container
+    id: 46f83cc
+    css:
+      self:
+        d: background-color:#FBF9FF;padding:10px
+      ' > .inner':
+        d: flex-direction:row;gap:30px;max-width:1140px
+    items:
+      - type: container
+        id: 1b889fd
+        css:
+          self:
+            d: >-
+              background-color:#FFFFFF;border-radius:20px 20px 20px 20px;padding:10px;padding:30px 40px 30px
+              30px;margin:0 0 26px 0;width:50%
+            m: margin:0 0 14px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Locked-1.png
+            alt: Locked
+            id: 0b54d80
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 5px 0
+          - type: heading
+            tag: h3
+            text: BPMS-Empowered Operations Solution
+            id: a9762bd
+            css:
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:24px;font-weight:800;line-height:60px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>We offer a unique BPMS designed platform to configure and customize complex functions by integrating
+              safety, security, compliance, and controls for an efficient travel experience.</p>
+            id: 6bd20f1
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+      - type: container
+        id: 635b655
+        css:
+          self:
+            d: >-
+              background-color:#FFFFFF;border-radius:20px 20px 20px 20px;padding:10px;padding:30px 40px 30px
+              30px;margin:0 0 26px 0;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Hammer-And-Pick-1.png
+            alt: Hammer And Pick
+            id: bfea766
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 5px 0
+          - type: heading
+            tag: h3
+            text: Minimize Risks, Maximize Confidence
+            id: dec45a0
+            css:
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:24px;font-weight:800;line-height:60px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Automation helps minimize errors, ensures strict process adherence ensuring employee confidence,
+              particularly among women, for a safe and secure travel experience.</p>
+            id: f8b5af3
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+  - type: container
+    id: 41c7584
+    css:
+      self:
+        d: background-color:#FBF9FF;padding:10px;margin:-10px 0 0 0
+      ' > .inner':
+        d: flex-direction:row;gap:30px;max-width:1140px
+    items:
+      - type: container
+        id: 004e24c
+        css:
+          self:
+            d: >-
+              background-color:#FFFFFF;border-radius:20px 20px 20px 20px;padding:10px;padding:30px 40px 30px
+              30px;margin:0 0 26px 0;width:50%
+            m: margin:0 0 14px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Money-With-Wings-1.png
+            alt: Money With Wings
+            id: aca455d
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 5px 0
+          - type: heading
+            tag: h3
+            text: Discover cost optimization's impact
+            id: cbdeb6c
+            css:
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:24px;font-weight:800;line-height:60px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              Unlock cost-efficient success with our cutting-edge automation, streamlining operations for significant
+              savings and enhanced efficiency.
+            id: 3e3778b
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+      - type: container
+        id: 1b4d43d
+        css:
+          self:
+            d: >-
+              background-color:#FFFFFF;border-radius:20px 20px 20px 20px;padding:10px;padding:30px 40px 30px
+              30px;margin:0 0 26px 0;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Beaming-Face-With-Smiling-Eyes-1.png
+            alt: Beaming Face With Smiling Eyes
+            id: c9e96bd
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 5px 0
+          - type: heading
+            tag: h3
+            text: Improve employee satisfaction
+            id: f073404
+            css:
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:24px;font-weight:800;line-height:60px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              Prioritize your  employee satisfaction through our on-demand travel automation, offering real-time ride
+              info, efficient routing, and safety features.
+            id: acaf072
+            css:
+              self:
+                d: color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+  - type: container
+    id: 0fd8964
+    css:
+      self:
+        d: background-color:#FBF9FF;padding:10px;margin:0 0 90px 0
+        m: padding:20px 0 0 0
+      ' > .inner':
+        d: flex-direction:column;gap:0px;max-width:1140px
+    items:
+      - type: button
+        text: Book a Demo
+        link: /schedule-demo-ets/
+        size: xs
+        id: 0d98596
+        css:
+          self:
+            d: width:auto;text-align:center
+            m: text-align:center
+          ' > .wc':
+            d: margin:60px 0 10px 0;padding:0 0 0 0
+            m: margin:0 8px 0 0;padding:0 0 0 0
+          ' .w-el':
+            d: >-
+              background-color:#976EE8;color:#FFFFFF;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;line-height:24px;border-radius:12px
+              12px 12px 12px;padding:15px 30px 15px 30px
+            t: font-size:14px
+            m: font-size:12px;padding:20px 25px 20px 25px
+      - type: spacer
+        id: b353167
+        css:
+          self:
+            d: height:150px;height:150px
+            m: height:40px
+  - type: section
+    id: 4e46ed8
+    css:
+      self:
+        d: padding:0 0 0 0;margin:0 0 130px 0;z-index:0
+        t: padding:15px 30px 15px 30px;margin:20px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 5acb627
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Clients who have chosen Neoffice
+            id: c9c78d6
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 15px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: carousel
+            images:
+              - src: /wp-content/uploads/2023/04/Group-5373.svg
+                alt: ''
+              - src: /wp-content/uploads/2023/04/Group-6235.svg
+                alt: ''
+              - src: /wp-content/uploads/2023/04/Group-5371.svg
+                alt: ''
+              - src: /wp-content/uploads/2023/04/Group-5374.svg
+                alt: ''
+              - src: /wp-content/uploads/2023/04/Group-5373-1.svg
+                alt: siemens
+              - src: /wp-content/uploads/2023/04/Group-5372-1.svg
+                alt: ''
+              - src: /wp-content/uploads/2023/04/Group-5371-1.svg
+                alt: ''
+            perView: 4
+            id: 16013ee
+            css:
+              self:
+                d: z-index:0
+              ' > .wc':
+                d: margin:0 0 20px 0
+  - type: container
+    id: e59b4ca
+    css:
+      self:
+        d: padding:10px;margin:0 0 10px 0
+      ' > .inner':
+        d: flex-direction:column;gap:0px;max-width:1140px
+    items:
+      - type: heading
+        tag: h2
+        text: Features of Neoffice’s On Demand Travel
+        id: 20433f1
+        css:
+          self:
+            d: text-align:center
+          ' > .wc':
+            d: margin:0 0 6px 0
+            t: margin:0 0 0 0;padding:0 0 0 0
+            m: margin:0 0 8px 0;padding:0 0 0 0
+          ' .w-el':
+            d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+            t: font-size:30px
+            m: font-size:20px;line-height:1.5em
+  - type: container
+    id: bb7a05a
+    css:
+      self:
+        d: background-color:#FFFFFF;padding:10px;margin:0 0 20px 0
+      ' > .inner':
+        d: flex-direction:row;gap:30px;max-width:1140px
+    items:
+      - type: container
+        id: f85be5c
+        css:
+          self:
+            d: >-
+              background-color:#F8FAFF;border-radius:20px 20px 20px 20px;padding:10px;padding:33px 33px 33px
+              33px;margin:0 0 0 0;width:50%
+            m: margin:0 0 5px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/08/Laptop.png
+            alt: Laptop
+            id: 3cffc0f
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:19px 0 15px 0
+          - type: heading
+            tag: h3
+            text: Single Interface for All
+            id: 73f61d6
+            css:
+              self:
+                d: text-align:center
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:600;line-height:33px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              simplifies on call cab booking  with a user-friendly ride booking and tracking interface for swift and
+              efficient operations.
+            id: 26d5a0d
+            css:
+              self:
+                d: >-
+                  text-align:center;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:center;font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+                m: margin:0 20px 18px 20px
+      - type: container
+        id: a0402d0
+        css:
+          self:
+            d: >-
+              background-color:#F8FAFF;border-radius:20px 20px 20px 20px;padding:10px;padding:33px 33px 33px
+              33px;margin:0 0 0 0;width:50%
+            m: margin:0 0 5px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/08/User-Shield.png
+            alt: User Shield
+            id: '7474508'
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:19px 0 15px 0
+          - type: heading
+            tag: h3
+            text: Improved Safety
+            id: 11a5a58
+            css:
+              self:
+                d: text-align:center
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:600;line-height:33px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              Enhanced safety with a soft SOS button and live-tracking feature, with quick alerts and real-time
+              monitoring to keep all users secure.
+            id: 52cfac6
+            css:
+              self:
+                d: >-
+                  text-align:center;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:center;font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+                m: margin:0 20px 18px 20px
+  - type: container
+    id: 54d554f
+    css:
+      self:
+        d: background-color:#FFFFFF;padding:10px;margin:0 0 20px 0
+      ' > .inner':
+        d: flex-direction:row;gap:30px;max-width:1140px
+    items:
+      - type: container
+        id: 489c0f8
+        css:
+          self:
+            d: >-
+              background-color:#F8FAFF;border-radius:20px 20px 20px 20px;padding:10px;padding:33px 33px 33px
+              33px;margin:0 0 0 0;width:50%
+            m: margin:0 0 5px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/08/Group-5495.png
+            alt: cab booking
+            id: db23fb8
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:19px 0 15px 0
+          - type: heading
+            tag: h3
+            text: Seamless Cab Booking
+            id: fff354d
+            css:
+              self:
+                d: text-align:center
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:600;line-height:33px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Our integrated manager approval matrix expedites ride booking, ensuring hassle-free and timely
+              approvals for employee travel.</p>
+            id: 2bcd101
+            css:
+              self:
+                d: >-
+                  text-align:center;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:center;font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+                m: margin:0 20px 18px 20px
+      - type: container
+        id: c75c3c2
+        css:
+          self:
+            d: >-
+              background-color:#F8FAFF;border-radius:20px 20px 20px 20px;padding:10px;padding:33px 33px 33px
+              33px;margin:0 0 0 0;width:50%
+            m: margin:0 0 5px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/08/Dashboard-Growth.png
+            alt: Dashboard Growth
+            id: cbbe324
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:19px 0 15px 0
+          - type: heading
+            tag: h3
+            text: Automated Dashboards
+            id: 2ebe7e4
+            css:
+              self:
+                d: text-align:center
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:600;line-height:33px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Gain real-time insights with Neoffice's automated dashboards, empowering data-driven decisions and
+              progress tracking.</p>
+            id: 5b358f7
+            css:
+              self:
+                d: >-
+                  text-align:center;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:center;font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+                m: margin:0 20px 18px 20px
+  - type: container
+    id: efd15c9
+    css:
+      self:
+        d: background-color:#FFFFFF;padding:10px;margin:0 0 20px 0
+      ' > .inner':
+        d: flex-direction:row;gap:30px;max-width:1140px
+    items:
+      - type: container
+        id: 9686a87
+        css:
+          self:
+            d: >-
+              background-color:#F8FAFF;border-radius:20px 20px 20px 20px;padding:10px;padding:33px 33px 33px
+              33px;margin:0 0 0 0;width:50%
+            m: margin:0 0 5px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/08/Business-communication-via-online-messages.png
+            alt: Business communication via online messages
+            id: 9add2dc
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:19px 0 15px 0
+          - type: heading
+            tag: h3
+            text: Vendor Synergy
+            id: edcf09c
+            css:
+              self:
+                d: text-align:center
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:600;line-height:33px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Experience transparent operations, fixed fares, and real-time communication for minimized conflicts and
+              faster dispute resolution.</p>
+            id: 12723cc
+            css:
+              self:
+                d: >-
+                  text-align:center;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:center;font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+                m: margin:0 20px 18px 20px
+      - type: container
+        id: a091d0b
+        css:
+          self:
+            d: >-
+              background-color:#F8FAFF;border-radius:20px 20px 20px 20px;padding:10px;padding:33px 33px 33px
+              33px;margin:0 0 0 0;width:50%
+            m: margin:0 0 5px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/08/task-management.png
+            alt: task management
+            id: 0bc37d7
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:19px 0 15px 0
+          - type: heading
+            tag: h3
+            text: Reimagine transport operations
+            id: a4621c1
+            css:
+              self:
+                d: text-align:center
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:600;line-height:33px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              Manage all oncall operations effortlessly with centralized console, providing a comprehensive view for
+              efficient scheduling and issue resolution.
+            id: 4f27f2c
+            css:
+              self:
+                d: >-
+                  text-align:center;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:center;font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+                m: margin:0 20px 18px 20px
+  - type: container
+    id: 26ad7f5
+    css:
+      self:
+        d: background-color:#FFFFFF;padding:10px;margin:0 0 130px 0
+        m: margin:0 0 100px 0
+      ' > .inner':
+        d: flex-direction:row;gap:30px;max-width:1140px
+    items:
+      - type: container
+        id: 074bac6
+        css:
+          self:
+            d: >-
+              background-color:#F8FAFF;border-radius:20px 20px 20px 20px;padding:10px;padding:33px 33px 33px
+              33px;margin:0 0 0 0;width:50%
+            m: margin:0 0 5px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/08/red-clock.png
+            alt: red clock
+            id: 634b6e8
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:19px 0 15px 0
+          - type: heading
+            tag: h3
+            text: Minimize Travel Time
+            id: 27b0c48
+            css:
+              self:
+                d: text-align:center
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:600;line-height:33px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              Our AI-powered routing algorithm optimizes routes in real-time, considering traffic and road closures for
+              the quickest and safest journeys.
+            id: 6db1145
+            css:
+              self:
+                d: >-
+                  text-align:center;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:center;font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+                m: margin:0 20px 18px 20px
+      - type: container
+        id: 0d00cc8
+        css:
+          self:
+            d: >-
+              background-color:#F8FAFF;border-radius:20px 20px 20px 20px;padding:10px;padding:33px 33px 33px
+              33px;margin:0 0 0 0;width:50%
+            m: margin:0 0 5px 0
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/08/Secure-Shield.png
+            alt: Secure Shield
+            id: bdd4f5b
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:19px 0 15px 0
+          - type: heading
+            tag: h3
+            text: Night Travel Now Safer
+            id: 5cc3c7d
+            css:
+              self:
+                d: text-align:center
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:600;line-height:33px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              <p>Ensure 24/7 safety with Neoffice: instant booking, tracking, SOS alerts, and secure drops for
+              employees.</p>
+            id: e7153e0
+            css:
+              self:
+                d: >-
+                  text-align:center;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:center;font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+                m: margin:0 20px 18px 20px
+  - type: container
+    id: 1f6948a
+    css:
+      self:
+        d: padding:10px;margin:0 0 30px 0
+      ' > .inner':
+        d: flex-direction:column;gap:0px;max-width:1140px
+    items:
+      - type: heading
+        tag: h2
+        text: Empowering Employees and Organizations
+        id: 3bef8af
+        css:
+          self:
+            d: text-align:center
+          ' > .wc':
+            d: margin:0 0 6px 0
+            t: margin:0 0 0 0;padding:0 0 0 0
+            m: margin:0 0 0 0;padding:0 0 0 0
+          ' .w-el':
+            d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+            t: font-size:30px
+            m: font-size:20px;line-height:1.5em
+  - type: container
+    id: e507de6
+    css:
+      self:
+        d: padding:10px;margin:0 0 130px 0
+        m: margin:0 0 50px 0
+      ' > .inner':
+        d: flex-direction:row;gap:60px;max-width:1140px
+    items:
+      - type: container
+        id: c663288
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Group-6145.jpg
+            alt: Group 6145
+            id: 9b0262a
+      - type: container
+        id: b6c7af2
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: heading
+            tag: h3
+            text: Management
+            id: f39f7ab
+            css:
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:32px;font-weight:700;line-height:48px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              Neoffice provides unrivaled transparency in commute operations, enabling informed decisions for superior
+              efficiency. Embrace the future of hassle-free corporate travel management, achieving cost-effective and
+              secure travel with our data-driven solution
+            id: d976af1
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:left;font-size:14px
+              ' > .wc':
+                d: margin:0 0 50px 0
+                m: margin:0 0 20px 0
+          - type: heading
+            tag: h3
+            text: Transport Team
+            id: 8f4627e
+            css:
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:32px;font-weight:700;line-height:48px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              Simplify transport operations with Neoffice, enhancing visibility and control while automating compliance
+              for cost-efficient, effortless employee commuting.
+            id: 1ed090d
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:left;font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+                m: margin:0 0 0 0
+  - type: container
+    id: 0d51893
+    css:
+      self:
+        d: padding:10px;margin:0 0 130px 0
+      ' > .inner':
+        d: flex-direction:row;gap:60px;max-width:1140px
+    items:
+      - type: container
+        id: 80902ba
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;gap:0px
+        items:
+          - type: heading
+            tag: h3
+            text: Employee
+            id: f93a420
+            css:
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:32px;font-weight:700;line-height:48px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              Neoffice ensures employee safety through geofencing, panic alarms, safe drop-offs, and escorts, providing
+              a secure commute. Our user-friendly app offers real-time ride tracking, and we continually improve based
+              on employee feedback for an enhanced travel experience
+            id: 5eca465
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:left;font-size:14px
+              ' > .wc':
+                d: margin:0 0 50px 0
+                m: margin:0 0 20px 0
+          - type: heading
+            tag: h3
+            text: Data Security
+            id: 6aec0e8
+            css:
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:32px;font-weight:700;line-height:48px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+          - type: text
+            html: >-
+              Our cloud-hosted app, powered by AWS, guarantees the protection of sensitive information, backed by GDPR
+              and ISO 27001 certifications Regular VAPT assessments provides proactive defense against threats.
+            id: d4449c8
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#49465C;font-family:'Poppins',sans-serif;font-size:16px;font-weight:500;line-height:30px
+                m: text-align:left;font-size:14px
+              ' > .wc':
+                d: margin:0 0 0 0
+                m: margin:0 0 0 0
+      - type: container
+        id: 69abd3c
+        css:
+          self:
+            d: padding:10px;margin:0 0 0 0;width:50%
+          ' > .inner':
+            d: flex-direction:column
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/09/Group-6125-1.png
+            alt: Group 6125 (1)
+            id: d0cb386
+  - type: section
+    id: 06a05c0
+    css:
+      self:
+        d: margin:0 0 16px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: e31d17e
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: More about the latest trends and what we have to offer
+            id: 728b4f2
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 6px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 8px 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+                t: font-size:30px
+                m: font-size:20px;line-height:1.5em
+  - type: section
+    id: 0c329bc
+    css:
+      self:
+        d: background-color:#FFFFFF;padding:0 0 0 0;margin:0 0 130px 0
+        t: padding:0 30px 0 30px;margin:0 0 50px 0
+        m: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 6492abe
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: posts
+            count: 3
+            id: fbb25f1

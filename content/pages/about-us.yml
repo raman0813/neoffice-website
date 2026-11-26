@@ -1,0 +1,1316 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: About us | NeOffice | Hybrid Workplace Management Solution
+description: >-
+  Employee transportation system and automated booking app for hybrid workplace management. Book at anytime, anywhere.
+  Available on both Android/iOS.
+url: /about-us/
+sections:
+  - type: section
+    id: 61b0da8
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/Our-Mission.webp);background-position:center
+          center;background-size:contain;background-repeat:no-repeat;margin:20px 0 20px 0
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px
+      ' > .row':
+        d: min-height:362px;max-width:1140px
+    columns:
+      - type: column
+        id: f18082a
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;background-image:url(/wp-content/uploads/2022/01/Group-6024.png);background-position:center
+              center;background-size:contain;background-repeat:no-repeat
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h1
+            text: '<u style="color: #ff455b;">Our Mission</u> is to create a better way of getting work done !'
+            id: 989178b
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 0;padding:50px 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:58px;font-weight:700
+          - type: text
+            html: <p>From Anywhere, At Anytime</p>
+            id: da83da3
+            css:
+              self:
+                d: text-align:center;color:#041D41;font-family:'Poppins',sans-serif;font-size:35px;font-weight:700
+                t: font-size:30px
+              ' > .wc':
+                d: margin:75px 0 26px 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+          - type: divider
+            id: 9d009c6
+            css:
+              ' > .wc':
+                d: margin:-50px 0 0 0
+              ' hr':
+                d: 'border-top:3px solid #43DF94;width:38%'
+  - type: section
+    id: ecf7468
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/From-Anywhere-to-Anytime.webp);background-position:center
+          center;background-size:contain;background-repeat:no-repeat;padding:50px 0 50px 0;margin:0 0 0 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 052b248
+        css:
+          self:
+            d: width:33%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-color:#02010100
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/About-Us-1.webp
+            alt: About-Us
+            id: e7cd989
+      - type: column
+        id: 33b2196
+        css:
+          self:
+            d: width:33%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-color:#02010100
+            m: padding:30px 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/About-Us.webp
+            alt: About-Us
+            id: fabea98
+      - type: column
+        id: 1c5d1ad
+        css:
+          self:
+            d: width:33%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-color:#02010100
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Aboutus.webp
+            alt: Aboutus
+            id: 8a53c00
+            css:
+              ' > .wc':
+                m: margin:30px 0 0 0;padding:0 0 0 0
+  - type: section
+    id: dd421b5
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/Coolest-customer-review.webp);background-position:center
+          center;background-repeat:no-repeat;padding:120px 0 120px 0;margin:50px 0 50px 0
+        t: padding:50px 30px 050px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: min-height:0px;max-width:1140px
+    columns:
+      - type: column
+        id: 893ab92
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;background-color:#02010100
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Coolest customer review
+            id: b49fe59
+            css:
+              self:
+                d: text-align:center
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:28px;font-weight:600
+          - type: heading
+            tag: h2
+            text: Wow , you made my workday better
+            id: 40e0a0c
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#FF455B;font-family:'Poppins',sans-serif;font-size:45px;font-weight:700
+                m: font-size:30px;line-height:40px
+  - type: section
+    id: a9b13cb
+    css:
+      self:
+        t: padding:0 0 0 0;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: ca22a29
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: heading
+            tag: h2
+            text: |-
+              Our Journey<br>
+              ....It all Started with a Lockdown
+            id: a75d9a6
+            css:
+              self:
+                d: text-align:center
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:45px;font-weight:700
+                t: font-size:30px;line-height:30px
+                m: line-height:40px
+  - type: section
+    id: b1f5a81
+    css:
+      self:
+        t: padding:35px 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 34dcc93
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Our-Journey.webp
+            alt: ''
+            id: 944eaea
+  - type: container
+    id: 8c37786
+    css:
+      self:
+        d: padding:10px;margin:50px 0 0 0
+      ' > .inner':
+        d: flex-direction:row;gap:0px;max-width:1140px
+    items:
+      - type: container
+        id: 10062b4
+        css:
+          self:
+            d: padding:10px;width:57.662%
+          ' > .inner':
+            d: flex-direction:column
+        items:
+          - type: carousel
+            images:
+              - src: /wp-content/uploads/2023/08/Best-MSME-Neoffice-2.png
+                alt: ''
+              - src: /wp-content/uploads/2023/08/India-MSME-2.png
+                alt: ''
+              - src: /wp-content/uploads/2023/08/Alcon-facility-partners-meet-2.png
+                alt: ''
+            perView: 1
+            id: d3f6ca6
+      - type: container
+        id: 184d7d0
+        css:
+          self:
+            d: padding:10px;padding:15px 15px 15px 15px;width:50%
+          ' > .inner':
+            d: flex-direction:column
+        items:
+          - type: heading
+            tag: h2
+            text: Our Success Stories
+            id: 3380c06
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+          - type: container
+            id: eb35f9b
+            css:
+              self:
+                d: padding:10px
+              ' > .inner':
+                d: flex-direction:column;max-width:1140px
+            items:
+              - type: text
+                html: >-
+                  <p>Recognized as the <span style="color: #976ee8;">Best MSE Exporter by The Economic Times,</span>our
+                  achievements are further highlighted by the accolades received from our esteemed partner Alcon.</p>
+                id: 8e0b715
+                css:
+                  self:
+                    d: color:#1B1C31;font-family:'Poppins',sans-serif;font-size:21px;font-weight:500;line-height:36px
+  - type: section
+    id: 9c6656f
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: f36c90d
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: section
+            id: e46df46
+            css:
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: db1092c
+                css:
+                  self:
+                    d: width:16%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                items: []
+              - type: column
+                id: '7041178'
+                css:
+                  self:
+                    d: width:20.504%
+                    t: width:17%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                items: []
+              - type: column
+                id: a2ddd05
+                css:
+                  self:
+                    d: width:8.139%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/06/Neo-office-Team.webp
+                    alt: ''
+                    id: 9f60d64
+              - type: column
+                id: 3a9c207
+                css:
+                  self:
+                    d: width:20.022%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                items:
+                  - type: heading
+                    tag: h2
+                    text: Team
+                    id: 9da1a4b
+                    css:
+                      self:
+                        m: text-align:center
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:56px;font-weight:700
+                        t: font-size:40px
+              - type: column
+                id: 5ff87a9
+                css:
+                  self:
+                    d: width:16%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                items: []
+              - type: column
+                id: c23293f
+                css:
+                  self:
+                    d: width:16%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                items: []
+  - type: section
+    id: b6082b7
+    css:
+      self:
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: a6d2ab7
+        css:
+          self:
+            d: width:33%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: '--gap:5px'
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Raman-Kutty.webp
+            alt: Raman-Kutty
+            link: https://www.linkedin.com/in/raman-kutty-07709612/
+            id: d0a0221
+          - type: heading
+            tag: h2
+            text: Raman Kutty
+            id: e581f1c
+            css:
+              self:
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 18px
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Roboto',sans-serif;font-size:24px;font-weight:600
+                t: font-size:20px;line-height:30px
+          - type: heading
+            tag: h2
+            text: Founder
+            id: 8ebb1b1
+            css:
+              self:
+                m: text-align:center
+              ' > .wc':
+                d: margin:-12px 0 0 18px
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: color:#FF455B;font-family:'Roboto',sans-serif;font-size:18px;font-weight:500
+                t: font-size:16px
+      - type: column
+        id: 066f422
+        css:
+          self:
+            d: width:33%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: '--gap:5px'
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Premraj-Menon.webp
+            alt: Premraj-Menon
+            link: https://www.linkedin.com/in/premraj/
+            id: 641aec9
+          - type: heading
+            tag: h2
+            text: Premraj Menon
+            id: 4069ae4
+            css:
+              self:
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 018px
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Roboto',sans-serif;font-size:24px;font-weight:600
+                t: font-size:20px
+          - type: heading
+            tag: h2
+            text: Growth & Products
+            id: fe7445b
+            css:
+              self:
+                m: text-align:center
+              ' > .wc':
+                d: margin:-12px 0 0 18px
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: color:#43DF94;font-family:'Roboto',sans-serif;font-size:18px;font-weight:500
+                t: font-size:16px
+      - type: column
+        id: 4b6f890
+        css:
+          self:
+            d: width:33%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: '--gap:5px'
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Sujesh-Seetharam.webp
+            alt: Sujesh-Seetharam
+            link: https://www.linkedin.com/in/sujeshseetharam/
+            id: e19904a
+          - type: heading
+            tag: h2
+            text: Sujesh Seetharam
+            id: 51d97df
+            css:
+              self:
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 18px;padding:0 0 0 0
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Roboto',sans-serif;font-size:24px;font-weight:600
+                t: font-size:20px
+          - type: heading
+            tag: h2
+            text: Customer Success & Operations
+            id: 3fed391
+            css:
+              self:
+                m: text-align:center
+              ' > .wc':
+                d: margin:-12px 0 0 18px
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#976EE8;font-family:'Roboto',sans-serif;font-size:18px;font-weight:500
+                t: font-size:16px
+  - type: section
+    id: 5cdb033
+    css:
+      self:
+        d: margin:150px 0 40px 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:30px 0 30px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 464cdbb
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h2
+            text: Values
+            id: 0ee8412
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:58px;font-weight:700
+                t: font-size:30px
+          - type: text
+            html: "<p>Our values give us a framework for leadership and daily decisions, and help us enjoy our time at work. Sounds simple, but too often companies get caught up in politics, ivory-tower attitudes, and market mania instead of focusing on the things that probably made them successful in the first place. Customer and people values detailed below is what defines us at Agiledge.\_</p>"
+            id: 7d206b0
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500
+                t: font-size:16px;line-height:30px
+              ' > .wc':
+                d: padding:0 30px 0 0
+                t: padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 18c2b4f
+    css:
+      self:
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: d7d7e99
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Think-Customer.webp
+            alt: Think-Customer
+            id: 956f6fa
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                t: width:100%
+      - type: column
+        id: '3069e27'
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:75px 0 0 0;margin:0 075px 0 50px;align-content:center
+            t: padding:0 0 0 10px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:30px 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Think Customer
+            id: 4158ffd
+            css:
+              ' > .wc':
+                t: margin:0 0 0 0;padding:0 15px 0 15px
+                m: padding:0 0 0 0
+              ' .w-el':
+                d: color:#43DF94;font-family:'Poppins',sans-serif;font-size:37px;font-weight:700
+                t: font-size:30px
+          - type: section
+            id: 620bf02
+            css:
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 8aea5f5
+                css:
+                  self:
+                    d: width:9.805%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/02/check-2.svg
+                    id: 6b120d0
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:30px
+              - type: column
+                id: bce558b
+                css:
+                  self:
+                    d: width:90.195%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: text
+                    html: >-
+                      <p>Imagine the user journey with our product, solutions to improve their experience will
+                      follow.</p>
+                    id: 53e8a30
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500;line-height:30px
+                        t: font-size:16px
+          - type: section
+            id: 7c33772
+            css:
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 15943c7
+                css:
+                  self:
+                    d: width:9.805%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/02/check-2.svg
+                    id: bcd05da
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:30px
+              - type: column
+                id: 72d6b7b
+                css:
+                  self:
+                    d: width:90.195%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: text
+                    html: >-
+                      <p>We believe that Customer service is not a department, its everyone's job to delight and ensure
+                      a wow experience for our clients.</p>
+                    id: 16333bb
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500;line-height:30px
+                        t: font-size:16px
+  - type: section
+    id: f191a2d
+    css:
+      self:
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: cc32052
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:75px 0 0 0;margin:0 075px 0 50px;align-content:center
+            t: padding:0 10px 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:30px 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h2
+            text: Think People
+            id: b4fb12f
+            css:
+              ' .w-el':
+                d: color:#FFB51F;font-family:'Poppins',sans-serif;font-size:37px;font-weight:700
+          - type: section
+            id: b16c962
+            css:
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: f6e332a
+                css:
+                  self:
+                    d: width:9.805%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/02/check-3.svg
+                    id: 41199c0
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:30px
+              - type: column
+                id: dac266d
+                css:
+                  self:
+                    d: width:90.195%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: text
+                    html: <p>Alone you can do little, together we can do so much more.</p>
+                    id: 80a6f03
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500;line-height:30px
+          - type: section
+            id: aa50080
+            css:
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 87f8c20
+                css:
+                  self:
+                    d: width:9.805%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/02/check-3.svg
+                    id: a573dd1
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:30px
+              - type: column
+                id: 0e3aac5
+                css:
+                  self:
+                    d: width:90.195%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: text
+                    html: <p>Encourage curiosity, foster innovation. Do work that makes you and your colleagues proud.</p>
+                    id: 01b6a95
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500;line-height:30px
+          - type: section
+            id: dc37b76
+            css:
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 1cdb515
+                css:
+                  self:
+                    d: width:9.805%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/02/check-3.svg
+                    id: f165e86
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:30px
+              - type: column
+                id: c5119e5
+                css:
+                  self:
+                    d: width:90.195%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: text
+                    html: <p>'Keeping it Simple' is our way of work life.</p>
+                    id: 3e642e1
+                    css:
+                      self:
+                        d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500;line-height:30px
+      - type: column
+        id: 6d208a1
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Think-People.webp
+            alt: Think-People
+            id: d737be9
+            css:
+              ' > .wc':
+                t: padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                t: width:100%
+  - type: container
+    id: f803614
+    css:
+      self:
+        d: padding:10px
+      ' > .inner':
+        d: flex-direction:column;max-width:1140px
+    items:
+      - type: anchor
+        anchor: joinourteam
+        id: 14602b0
+  - type: section
+    id: 4a1cf9b
+    css:
+      self:
+        d: background-color:#FEEBED;padding:30px 0 30px 0;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 16545cc
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Neo-Office.webp
+            alt: Neooffice
+            id: 3b18fd6
+            css:
+              self:
+                m: text-align:center
+      - type: column
+        id: 5e28bc0
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            m: justify-content:center;--gap:10px
+        items:
+          - type: heading
+            tag: h2
+            text: Interested in joining the team?
+            id: 759be8d
+            css:
+              self:
+                d: text-align:left
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 70px 0 0
+                m: padding:0 0 0 0
+              ' .w-el':
+                d: color:#FF455B;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:30px;line-height:40px
+                m: font-size:16px;line-height:30px
+          - type: text
+            html: "<p>We are always lookout for talented folks. so feel free to\_ E-mail us at <span style=\"color: #ff455b;\"><strong>recruiter@agiledgesolutions.com</strong></span></p>"
+            id: 86ff6c9
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:400
+                t: font-size:16px
+                m: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 50px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+  - type: container
+    id: 6eb735a
+    css:
+      self:
+        d: padding:10px
+      ' > .inner':
+        d: flex-direction:column;max-width:1140px
+    items:
+      - type: heading
+        tag: h2
+        text: Join our team
+        id: 1aee3b3
+        css:
+          self:
+            m: display:none
+            to: display:none
+          ' .w-el':
+            d: color:#263035;font-family:'Poppins',sans-serif;font-size:35px;font-weight:700
+  - type: container
+    id: 855715a
+    css:
+      self:
+        d: padding:10px
+      ' > .inner':
+        d: flex-direction:row;gap:0px;max-width:1140px
+    items:
+      - type: container
+        id: '3702776'
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column
+        items:
+          - type: container
+            id: 5d15c52
+            css:
+              self:
+                d: padding:10px
+              ' > .inner':
+                d: flex-direction:column;max-width:1140px
+            items:
+              - type: heading
+                tag: h3
+                text: Flutter Developer
+                id: b3eba38
+                css:
+                  ' .w-el':
+                    d: color:#1D3843;font-family:'Poppins',sans-serif;font-weight:500
+              - type: heading
+                tag: h4
+                text: Bangalore
+                id: 9a3d7da
+                css:
+                  ' .w-el':
+                    d: color:#516168;font-family:'Poppins',sans-serif;font-size:16px;font-weight:400
+      - type: container
+        id: 11aca34
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;justify-content:center
+        items:
+          - type: button
+            text: Apply Now
+            link: /schedule-demo/
+            size: md
+            id: 420589d
+            css:
+              self:
+                d: text-align:right
+              ' .w-el':
+                d: background-color:#FF455B;border-radius:25px 25px 25px 25px
+  - type: container
+    id: 50a5973
+    css:
+      self:
+        d: padding:10px;padding:0 0 0 0
+      ' > .inner':
+        d: flex-direction:column;max-width:1140px
+    items:
+      - type: container
+        id: ed5ceff
+        css:
+          self:
+            d: padding:10px
+          ' > .inner':
+            d: flex-direction:column;max-width:1140px
+        items:
+          - type: divider
+            id: f6bf907
+            css:
+              ' hr':
+                d: 'border-top:1px solid #ddd;width:100%'
+  - type: container
+    id: '4370318'
+    css:
+      self:
+        d: padding:10px
+      ' > .inner':
+        d: flex-direction:row;gap:0px;max-width:1140px
+    items:
+      - type: container
+        id: 05a1220
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column
+        items:
+          - type: container
+            id: 5b47143
+            css:
+              self:
+                d: padding:10px
+              ' > .inner':
+                d: flex-direction:column;max-width:1140px
+            items:
+              - type: heading
+                tag: h3
+                text: Front End - Angular Developer
+                id: '4232243'
+                css:
+                  ' .w-el':
+                    d: color:#1D3843;font-family:'Poppins',sans-serif;font-weight:500
+              - type: heading
+                tag: h4
+                text: Bangalore
+                id: c2c54bb
+                css:
+                  ' .w-el':
+                    d: color:#516168;font-family:'Poppins',sans-serif;font-size:16px;font-weight:400
+      - type: container
+        id: 5fde3db
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;justify-content:center
+        items:
+          - type: button
+            text: Apply Now
+            link: /schedule-demo/
+            size: md
+            id: d6563e9
+            css:
+              self:
+                d: text-align:right
+              ' .w-el':
+                d: background-color:#FF455B;border-radius:25px 25px 25px 25px
+  - type: container
+    id: 7db70eb
+    css:
+      self:
+        d: padding:10px;padding:0 0 0 0
+      ' > .inner':
+        d: flex-direction:column;max-width:1140px
+    items:
+      - type: container
+        id: fb58ff0
+        css:
+          self:
+            d: padding:10px
+          ' > .inner':
+            d: flex-direction:column;max-width:1140px
+        items:
+          - type: divider
+            id: 38a9517
+            css:
+              ' hr':
+                d: 'border-top:1px solid #ddd;width:100%'
+  - type: container
+    id: 7d5f9db
+    css:
+      self:
+        d: padding:10px
+      ' > .inner':
+        d: flex-direction:row;gap:0px;max-width:1140px
+    items:
+      - type: container
+        id: e854405
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column
+        items:
+          - type: container
+            id: c8b65eb
+            css:
+              self:
+                d: padding:10px
+              ' > .inner':
+                d: flex-direction:column;max-width:1140px
+            items:
+              - type: heading
+                tag: h3
+                text: Full Stack - Java Developer
+                id: 72cf04a
+                css:
+                  ' .w-el':
+                    d: color:#1D3843;font-family:'Poppins',sans-serif;font-weight:500
+              - type: heading
+                tag: h4
+                text: Bangalore
+                id: 7ab7eb8
+                css:
+                  ' .w-el':
+                    d: color:#516168;font-family:'Poppins',sans-serif;font-size:16px;font-weight:400
+      - type: container
+        id: 89e9310
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;justify-content:center
+        items:
+          - type: button
+            text: Apply Now
+            link: /schedule-demo/
+            size: md
+            id: cb4ab07
+            css:
+              self:
+                d: text-align:right
+              ' .w-el':
+                d: background-color:#FF455B;border-radius:25px 25px 25px 25px
+  - type: container
+    id: 7d3cb41
+    css:
+      self:
+        d: padding:10px;padding:0 0 0 0
+      ' > .inner':
+        d: flex-direction:column;max-width:1140px
+    items:
+      - type: container
+        id: 388db8b
+        css:
+          self:
+            d: padding:10px
+          ' > .inner':
+            d: flex-direction:column;max-width:1140px
+        items:
+          - type: divider
+            id: da25f93
+            css:
+              ' hr':
+                d: 'border-top:1px solid #ddd;width:100%'
+  - type: container
+    id: 61e9ed0
+    css:
+      self:
+        d: padding:10px
+      ' > .inner':
+        d: flex-direction:row;gap:0px;max-width:1140px
+    items:
+      - type: container
+        id: 4340bf0
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column
+        items:
+          - type: container
+            id: db8ff9f
+            css:
+              self:
+                d: padding:10px
+              ' > .inner':
+                d: flex-direction:column;max-width:1140px
+            items:
+              - type: heading
+                tag: h3
+                text: Head of Product Engineering
+                id: 3826eb4
+                css:
+                  ' .w-el':
+                    d: color:#1D3843;font-family:'Poppins',sans-serif;font-weight:500
+              - type: heading
+                tag: h4
+                text: Bangalore
+                id: 6e9fbf1
+                css:
+                  ' .w-el':
+                    d: color:#516168;font-family:'Poppins',sans-serif;font-size:16px;font-weight:400
+      - type: container
+        id: 76f8324
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;justify-content:center
+        items:
+          - type: button
+            text: Apply Now
+            link: /schedule-demo/
+            size: md
+            id: 83a20b3
+            css:
+              self:
+                d: text-align:right
+              ' .w-el':
+                d: background-color:#FF455B;border-radius:25px 25px 25px 25px
+  - type: container
+    id: 25b79e8
+    css:
+      self:
+        d: padding:10px;padding:0 0 0 0
+      ' > .inner':
+        d: flex-direction:column;max-width:1140px
+    items:
+      - type: container
+        id: c3d6d33
+        css:
+          self:
+            d: padding:10px
+          ' > .inner':
+            d: flex-direction:column;max-width:1140px
+        items:
+          - type: divider
+            id: 62d5df0
+            css:
+              ' hr':
+                d: 'border-top:1px solid #ddd;width:100%'
+  - type: container
+    id: 51f4b93
+    css:
+      self:
+        d: padding:10px
+      ' > .inner':
+        d: flex-direction:row;gap:0px;max-width:1140px
+    items:
+      - type: container
+        id: 2b58cda
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column
+        items:
+          - type: container
+            id: d6b19b5
+            css:
+              self:
+                d: padding:10px
+              ' > .inner':
+                d: flex-direction:column;max-width:1140px
+            items:
+              - type: heading
+                tag: h3
+                text: Technical Lead
+                id: 47b45d7
+                css:
+                  ' .w-el':
+                    d: color:#1D3843;font-family:'Poppins',sans-serif;font-weight:500
+              - type: heading
+                tag: h4
+                text: Bangalore
+                id: 072a4d2
+                css:
+                  ' .w-el':
+                    d: color:#516168;font-family:'Poppins',sans-serif;font-size:16px;font-weight:400
+      - type: container
+        id: 3274cae
+        css:
+          self:
+            d: padding:10px;width:50%
+          ' > .inner':
+            d: flex-direction:column;justify-content:center
+        items:
+          - type: button
+            text: Apply Now
+            link: /schedule-demo/
+            size: md
+            id: d51ae7c
+            css:
+              self:
+                d: text-align:right
+              ' .w-el':
+                d: background-color:#FF455B;border-radius:25px 25px 25px 25px
+  - type: container
+    id: 7ea609d
+    css:
+      self:
+        d: padding:10px;padding:0 0 0 0
+      ' > .inner':
+        d: flex-direction:column;max-width:1140px
+    items:
+      - type: container
+        id: 95532f8
+        css:
+          self:
+            d: padding:10px
+          ' > .inner':
+            d: flex-direction:column;max-width:1140px
+        items:
+          - type: divider
+            id: '2236039'
+            css:
+              ' hr':
+                d: 'border-top:1px solid #ddd;width:100%'

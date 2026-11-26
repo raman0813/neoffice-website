@@ -1,0 +1,696 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Compliance Management | Workplace Experience | NeOffice
+description: >-
+  NeOffice's compliance management offer enhanced security & privacy features for all industries and regional
+  requirements of our clients.
+url: /solutions/compliance-management/
+sections:
+  - type: section
+    id: 5812f5c
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/Complience-management.webp);background-position:center
+          center;background-size:cover;padding:30px 0 30px 0
+        t: padding:30px 30px 40px 30px
+        m: background-image:url(/wp-content/uploads/2022/03/Rectangle-5591-2.png);padding:0 15px 20px 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 9bce2f1
+        css:
+          self:
+            d: width:50.789%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center;--gap:0px
+            t: padding:0 0 0 0;margin:0 0 0 0;--gap:0px
+            m: padding:0 0 0 0;margin:20px 0 0 0
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 3e6559f
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+          - type: heading
+            tag: h1
+            text: |-
+              Guaranteed Workplace Security
+              & Compliance Management
+            id: e187ef3
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 25px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>NeOffice offers enhanced security, advanced privacy features, and built-in compliance management
+              options for industry and regional requirements, allowing you to securely meet and collaborate.</p>
+            id: 73af601
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:20px 45px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:10px 0 0 0;padding:0 35px 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo/
+            size: sm
+            id: f7fd52a
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                t: margin:0 10px 0 0;padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FF455B;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-play
+            id: '4234045'
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 16px 25px
+      - type: column
+        id: 8b4f79f
+        css:
+          self:
+            d: width:49.167%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Workplace-complience-and-security.webp
+            alt: Workplace-complience-Management-and-security
+            id: b35f3f4
+            css:
+              ' > .wc':
+                m: padding:30px 0 0 0
+  - type: section
+    id: 5c2a6e0
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/01/Untitled-design-51.png);background-position:center
+          right;background-size:contain;background-repeat:no-repeat;padding:120px 0 60px 0;margin:0 0 0 0
+        m: padding:0 0 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: min-height:221px;max-width:1140px
+    columns:
+      - type: column
+        id: ef5131c
+        css:
+          self:
+            d: width:81.226%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:25px 0 25px 25px;margin:0 0 0
+              0;background-image:url(/wp-content/uploads/2022/01/Group-6010.png);background-size:cover;border-style:solid;border-width:0
+              0 0 08px;border-color:#976EE8
+            m: padding:15px 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: Safeguarding your privacy
+            id: fe9b111
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 0 0 15px
+              ' .w-el':
+                d: color:#976EE8;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:20px
+                m: font-size:16px
+          - type: text
+            html: >-
+              We follow strict privacy policies and encryption standards, and we go to great lengths to keep customer
+              information safe. This includes using single sign-on (SSO) authentication, logging administrator actions,
+              tracking access grants using verified policies for compliance management and a consistent and safe
+              customer experience.
+            id: 4a1b0b5
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 55px 0 0
+                m: padding:0 35px 15px 15px
+      - type: column
+        id: ca9ab6f
+        css:
+          self:
+            d: width:18.687%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: 350939a
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/01/Untitled-design-52.png);background-position:center
+          left;background-size:contain;background-repeat:no-repeat;padding:0 0 0 0;margin:0 0 0 0
+        m: padding:0 15px 0 0;margin:0 0 0 0
+      ' > .row':
+        d: min-height:221px;max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 4b27fef
+        css:
+          self:
+            d: width:18.687%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+      - type: column
+        id: a398b28
+        css:
+          self:
+            d: width:81.226%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:50px 0 50px 25px;margin:0 0 0
+              0;background-image:url(/wp-content/uploads/2022/01/Group-6013.png);background-size:cover;border-style:solid;border-width:0
+              0 0 08px;border-color:#43DF94
+            m: padding:15px 15px 0 15px;margin:0 0 0 0;border-width:0 8px 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: Data Security
+            id: 6b150bf
+            css:
+              ' .w-el':
+                d: color:#43DF94;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:20px
+                m: font-size:16px
+          - type: text
+            html: >-
+              Our secure-at-source infrastructure, commitment to reliability, and third-party testing ensures that your
+              data is completely protected.
+            id: 5a5f032
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 45px 0 0
+                m: padding:0 035px 015px 0
+  - type: section
+    id: 0093b77
+    css:
+      self:
+        d: >-
+          background-position:center right;background-size:contain;background-repeat:no-repeat;padding:060px 0 150px
+          0;margin:0 0 0 0
+        t: padding:60px 0 80px 0
+        m: padding:0 0 0 15px;margin:-25px 0 0 0
+      ' > .row':
+        d: min-height:221px;max-width:1140px
+    columns:
+      - type: column
+        id: b424435
+        css:
+          self:
+            d: width:81.226%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:50px 0 50px 25px;margin:0 0 0
+              0;background-image:url(/wp-content/uploads/2022/01/Group-6014.png);background-size:cover;border-style:solid;border-width:0
+              0 0 08px;border-color:#FFB51F
+            m: padding:15px 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Fulfilling your compliance management requirements
+            id: 623389a
+            css:
+              ' .w-el':
+                d: color:#FFB51F;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:20px
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>In addition to enhancing our own body of certifications, we're committed to assisting you with your
+              compliance management strategies.</p>
+            id: d1e73c0
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 45px 0 0
+                m: padding:0 35px 0 0
+      - type: column
+        id: db5eeed
+        css:
+          self:
+            d: width:18.687%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: 70ab653
+    css:
+      self:
+        d: padding:0 0 50px 0;margin:0 0 0 0
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:035px 0 35px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 7e3a8fa
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: A Workplace Management<br>Solution that you can rely on
+            id: 4892d20
+            css:
+              self:
+                d: text-align:left
+                m: text-align:left
+              ' > .wc':
+                d: padding:0 0 0 150px
+                t: margin:0 0 0 0;padding:0 0 0 8px
+                m: padding:0 025px 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:56px;font-weight:700
+                t: font-size:30px;line-height:40px
+                m: font-size:20px
+  - type: section
+    id: 4d34e4b
+    css:
+      self:
+        d: margin:10px 0 10px 0
+        t: padding:0 30px 0 30px;margin:50px 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:890px
+    columns:
+      - type: column
+        id: 788e836
+        css:
+          self:
+            d: width:9.551%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/01/Group-6016.svg
+            id: f9a4cee
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 24px;padding:0 0 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: font-size:60px
+                m: font-size:50px
+      - type: column
+        id: d875db4
+        css:
+          self:
+            d: width:90.449%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 30px
+            t: align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <p>We ensure that we are in compliance with the General Data Protection Regulation (GDPR) to provide
+              strengthened security &amp; confidentiality.</p>
+            id: 64cbd91
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:3px 0100px 24px 0
+                t: padding:0 0 0 0
+                m: padding:0 0 0 0
+  - type: section
+    id: c290220
+    css:
+      self:
+        d: margin:10px 0 10px 0
+        t: padding:0 30px 0 30px;margin:20px 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:890px
+    columns:
+      - type: column
+        id: fc35773
+        css:
+          self:
+            d: width:9.551%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: align-content:flex-start
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/01/Group-6017.svg
+            id: 12542cf
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 24px;padding:0 0 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: font-size:60px
+                m: font-size:50px
+      - type: column
+        id: 45804c6
+        css:
+          self:
+            d: width:90.449%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 30px
+            t: align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <p>NeOffice is hosted on AWS as a secure cloud service with the highest level of certifications including
+              <a href="https://d1.awsstatic.com/certifications/iso_27001_global_certification.pdf">ISO 27001</a> and <a
+              href="https://aws.amazon.com/compliance/soc-faqs/">SOC</a> security standards.</p>
+            id: '1827949'
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:3px 75px 24px 0
+                t: padding:0 0 0 0
+                m: padding:0 0 0 0
+  - type: section
+    id: f5728f8
+    css:
+      self:
+        d: margin:10px 0 10px 0
+        t: padding:0 30px 0 30px;margin:20px 0 0 0
+        m: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:890px
+    columns:
+      - type: column
+        id: 868a5d3
+        css:
+          self:
+            d: width:9.551%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/01/Group-6018.svg
+            id: 0ef1c6f
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 24px;padding:0 0 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: font-size:60px
+                m: font-size:50px
+      - type: column
+        id: 1d25732
+        css:
+          self:
+            d: width:90.449%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 30px
+            t: align-content:center
+            m: margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <p>Reduce the risk of data loss through regular backups and get issues resolved quickly &amp; efficiently
+              with the help of our team.</p>
+            id: 28171c7
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:3px 0 24px 0
+                t: padding:0 0 0 0
+                m: padding:0 0 0 0
+  - type: section
+    id: 7fe5099
+    css:
+      self:
+        d: margin:10px 0 10px 0
+        t: padding:0 30px 0 30px;margin:20px 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:890px
+    columns:
+      - type: column
+        id: 5acd84f
+        css:
+          self:
+            d: width:9.551%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/01/Group-6020.svg
+            id: 08c6a45
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 24px;padding:0 0 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: font-size:60px
+                m: font-size:50px
+      - type: column
+        id: '55365e0'
+        css:
+          self:
+            d: width:90.449%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 30px
+            t: align-content:center
+            m: margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <p>Scheduled app updates, bug fixes, performance improvements are automatically deployed to ensure that
+              our customers always gets the best.</p>
+            id: fcdf1d4
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:3px 0 24px 0
+                t: margin:0 0 0 0;padding:0 00 0 0
+                m: padding:0 0 0 0
+  - type: section
+    id: 55d9f4f
+    css:
+      self:
+        d: margin:10px 0 10px 0
+        t: padding:0 30px 0 30px;margin:20px 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:890px
+    columns:
+      - type: column
+        id: e4c0b4d
+        css:
+          self:
+            d: width:9.551%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/01/Group-6021.svg
+            id: 10706b4
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 24px;padding:0 0 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: font-size:60px
+                m: font-size:50px
+      - type: column
+        id: 0d748ff
+        css:
+          self:
+            d: width:90.449%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 30px
+            t: align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <p>We do not retain sensitive customer information. Our customer data access is governed by our documented
+              security policies, and limited to a small set of employees as required for support and maintenance.</p>
+            id: 03cfae3
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:3px 0 24px 0
+                t: padding:0 0 0 0
+                m: padding:0 0 0 0
+  - type: section
+    id: e6a0ade
+    css:
+      self:
+        d: margin:10px 0 50px 0
+        t: padding:0 30px 0 30px;margin:20px 0 50px 0
+        m: padding:0 15px 0 15px;margin:0 0 50px 0
+      ' > .row':
+        d: max-width:890px
+    columns:
+      - type: column
+        id: c2b66b1
+        css:
+          self:
+            d: width:9.551%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/01/Group-6022.svg
+            id: 714810a
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 24px;padding:0 0 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: font-size:60px
+                m: font-size:50px
+      - type: column
+        id: 28ca9d3
+        css:
+          self:
+            d: width:90.449%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 30px
+            t: align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <p>We are committed to helping our customers every step of the way. Our customer relationship team will
+              oversee every aspect, right from technical deployment to product training for you. We offer full support
+              and assistance to promptly resolve any issues that you may have efficiently.</p>
+            id: 5096dc1
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:3px 0 24px 0
+                t: padding:0 0 0 0
+                m: padding:0 0 0 0

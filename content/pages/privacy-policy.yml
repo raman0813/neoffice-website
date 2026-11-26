@@ -1,0 +1,578 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Privacy Policy | NeOffice | Hybrid Workplace Management Solution
+description: streamline workplace booking with our automated app. Book at anytime, anywhere. Available on both Android/iOS.
+url: /privacy-policy/
+sections:
+  - type: section
+    id: '3945012'
+    css:
+      self:
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: '5600555'
+        css:
+          self:
+            d: width:12.456%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/02/protected-file.png
+            alt: ''
+            id: e87a810
+            css:
+              self:
+                d: text-align:left
+              ' .w-el':
+                d: width:50%
+                t: width:80%
+                m: width:20%
+      - type: column
+        id: 141b835
+        css:
+          self:
+            d: width:87.544%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: '6826260'
+    css:
+      self:
+        d: margin:0 0 30px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: cb5b79b
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: heading
+            tag: h1
+            text: Privacy Policy
+            id: 0314a94
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px;line-height:30px
+      - type: column
+        id: f4a2587
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: 929660f
+    css:
+      self:
+        d: padding:0 0 0 0;margin:0 0 0 0
+        t: padding:0 30px 0 30px;margin:0 0 35px 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 9c7d082
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: p
+            text: >-
+              Agiledge Process Solutions &amp; Agiledge Neoffice are committed to protecting and respecting your
+              privacy.<br><br>This policy, together with any other documents referred to in it, sets out the basis on
+              which any personal data we collect from you, or that you provide to us, will be processed by us.&nbsp;
+              Please read the following carefully to understand our views and practices regarding your personal data and
+              how we will treat it.<br><br>By visiting this website neoffice.ai , you are accepting and consenting to
+              the
+
+              practices described in this policy.
+            id: 9b798d2
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: <b>1. Information we collect from you</b>
+            id: adffed5
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:26px
+                m: font-size:20px;line-height:30px
+          - type: heading
+            tag: h3
+            text: 'We will collect and process the following categories of data about you:'
+            id: 1732ca4
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: p
+            text: >-
+              <b>Information you give us.</b>&nbsp;This is information about you that you give us by filling in forms on
+              the website (Site), interacting with the Site or by corresponding with us by phone, e-mail or otherwise.
+              It includes information you provide when you sign up to our newsletter service, make an enquiry about our
+              products and services or log a support ticket.
+            id: caa1a4e
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: p
+            text: >-
+              The information you give us will include your name, address, e-mail address and phone number, as well as
+              preliminary information about your business, interest on our product , services etc.
+            id: 4ca64d2
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: p
+            text: >-
+              <b>Information we collect about you.</b>&nbsp;This is information that we collect automatically about your
+              visit in our website (Site).&nbsp; It typically involves technical information and is often collected
+              using small data files called “cookies”.&nbsp; This information helps us to provide you with a good
+              experience when you browse the Site and also to indicate where the site requires improvement. More
+              information on how cookies work, what cookies we use and why can be found in our Cookie Policy which is
+              part of this page below .
+            id: 831f840
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: p
+            text: >-
+              <b>Information we receive from other sources.</b><br>This is information that we receive about you if you
+              use any of the other websites we operate. &nbsp;This
+
+              also includes information that we receive from third parties, such as business partners, sub-
+
+              contractors in technical services, advertising networks, analytics providers, search information
+
+              providers and so on. &nbsp;We will notify you when we receive information about you from them and the
+
+              purposes for which we intend to use that information.
+            id: bd30c8e
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: p
+            text: >-
+              <b>Social Media platforms</b><br>We operate social media platforms. It is our process and protocol that
+              any personally identifiable
+
+              data gathered on these platforms is only in response to users interacting out of their own volition
+
+              with our marketing pages. The contact is deemed as a&nbsp;legitimate business enquiry. The personal
+
+              contact data is removed from the site once the enquiry is processed or the user has requested so.
+            id: d7e777d
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: p
+            text: >-
+              <b>Analytics</b><br>Our website uses Google Analytics to collect information about how visitors use our
+              website. We anonymise this data at the point of collection and automatically delete user and event data
+              that is older than two years.
+            id: 2efbfc8
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+  - type: section
+    id: ac6ca51
+    css:
+      self:
+        d: margin:0 0 50px 0
+        t: padding:0 30px 0 30px;margin:0 0 50px 0
+        m: padding:0 15px 0 15px;margin:0 0 35px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: b73f7fc
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: |-
+              <b>2. Uses made of the information
+              </b>
+            id: c3a0062
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:26px
+                m: font-size:20px;line-height:30px
+          - type: heading
+            tag: span
+            text: >-
+              All information about you that we collect or receive, whether of a personal or technical nature, may be
+              used by us in the following ways:<li>To carry out our obligations arising from any contracts entered into
+              between you and us and to provide you with the information, products and services that you request from
+              us.</li><li>To provide you with information about other services that we, offer that are similar or
+              relevant to those that you have already purchased or enquired about, such contact will only be made by
+              email or phone from which you can opt out at any time, to notify you about changes to our
+              services.</li><li>To administer the Site and for internal operations, including troubleshooting, system
+              and security updates, data analysis, testing, research, statistical and survey purposes.</li><li>To
+              improve the Site to ensure that content is presented in the most effective manner for you and for your
+              computer.</li><li>To allow you to participate in interactive features of our service, when you choose to
+              do so. As part of our efforts to keep the Site safe and secure.</li><li>To measure or understand the
+              effectiveness of advertising we serve to you and others, and to deliver relevant promotional content to
+              you.</li>
+            id: d4c030e
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: |-
+              <b>3. Disclosure of your information 
+              </b>
+            id: 794c78c
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:26px
+                m: font-size:20px;line-height:30px
+          - type: heading
+            tag: span
+            text: >-
+              We may share your information with:
+
+              <li>Business partners, suppliers and sub-contractors for the performance of any contract we enter into
+              with them.
+
+              </li><li>Analytics and search engine providers that assist us in the improvement and optimisation of the
+              site.</li>
+
+              <li>Third party support services, such as, but not limited to project management tools, accounting systems
+              and hosting data centre.</li><br>We will disclose your personal information to third parties:<br>
+
+              <br>In the event that we sell or buy any business or assets, in which case we will disclose your personal
+              data to the prospective seller or buyer of such business or assets.
+
+              <br>If we, or substantially all of our assets, are acquired by a third party, in which case personal data
+              held by us about our clients will be one of the transferred assets.
+
+              <br>If we are under a duty to disclose or share your personal data in order to comply with any legal
+              obligation, or in order to enforce or apply our terms of use and other agreements or To protect our
+              rights, property or safety, or those of our clients or others.
+            id: e26b5d7
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: |-
+              <b>4. Where we store your personal data
+              </b>
+            id: 3f9a93e
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:26px
+                m: font-size:20px;line-height:30px
+          - type: heading
+            tag: span
+            text: >-
+              All information that you provide to us is stored on our, or our selected business partners’, secure
+              servers, and we will take reasonable steps to protect your information in accordance with this
+              policy,including (without limitation):
+
+              <li>Installing a secure firewall</li>
+
+              <li>Using anti-virus protection software</li>
+
+              <li>Encrypting data; and</li>
+
+              <li>Carrying out regular back-ups.</li><br>
+
+              Unfortunately, the transmission of information via the internet is not completely secure. Although we will
+              do our best to protect your personal data, we cannot guarantee the security of any data transmitted to the
+              site and any such transmission is at your own risk. &nbsp;Once we have received your information, we will
+              use strict procedures and security features to try to prevent unauthorised
+            id: aabfda7
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: |-
+              <b>5. Your rights
+              </b>
+            id: d1e8ec3
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:26px
+                m: font-size:20px;line-height:30px
+          - type: heading
+            tag: span
+            text: >-
+              You have the following rights under law in respect of your personal information:
+
+              <li>The right to be informed about the collection and use of your personal information</li>
+
+              <li>The right of access to your information to verify the legality of our use of it</li>
+
+              <li>The right to request that inaccurate or incomplete information about you is rectified</li>
+
+              <li>The right to request the deletion or removal of your information where there is no further reason for
+              us to use it</li>
+
+              <li>The right to restrict the use of your information</li>
+
+              <li>The right to obtain and reuse the information that we have about you for your own purposes</li>
+
+              <li>The right to object to certain uses (such as for marketing purposes)</li>
+
+              <li>The right not to be subject to a decision that has a legal effect on you that has been based on an
+              automated decision.</li><br>Should you wish to exercise any of these rights, you may do so at any time by
+              writing to us at the address given below.&nbsp; In some cases, we are permitted to charge a small fee of
+              no more than $ 10 in respect of our administrative costs.
+
+              <br>If you would like to request the information we hold about you please mail us with your details to
+              sales@neoffice.ai
+
+              <br>The Site may, from time to time, contain links to and from the websites of our partner networks,
+              advertisers and affiliates.&nbsp;If you follow a link to any of these websites, please note that these
+              websites have their own privacy policies and that we do not accept any responsibility or liability for
+              these policies.&nbsp;Please check these policies before you submit any personal data to these websites.
+            id: '2792952'
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: |-
+              <b>6. Changes to our privacy policy
+              </b>
+            id: 1fb326a
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:26px
+                m: font-size:20px;line-height:30px
+          - type: heading
+            tag: span
+            text: >-
+              Any changes we make to our privacy policy in the future will be posted on this page. &nbsp;Please check
+              back frequently to see any updates or changes to our privacy policy.
+            id: 7294b75
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: |-
+              <b>7. Contact
+              </b>
+            id: 5123cbc
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:26px
+                m: font-size:20px;line-height:30px
+          - type: heading
+            tag: span
+            text: >-
+              Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to
+              sales@neoffice.ai
+            id: c31c79f
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: span
+            text: "<br><b>Cookie Policy</b><br><br><br><b>Information about Our Use of Cookies</b><br>Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our website. \_Privacy laws in the European Economic Area (EEA), including the General Data Protection Regulation, or GDPR, require websites to obtain consent using or storing some cookies (or similar technologies) on your computers or mobile devices. \_By indicating your consent to the use of cookies, you agree that we can place cookies and other similar technology on your device, including a mobile device. This cookie policy provides you with clear and comprehensive information about the cookies we use and the purposes for using those cookies. To review the general privacy policies that apply to users, please read our\_above Privacy Policy."
+            id: 5263a00
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: span
+            text: "<br><b>How to Delete and Block our Cookies</b><br> By indicating your consent to the use of cookies, you agree that we can place cookies on your device. If you do not consent, no cookies will be placed on your device, and no data will be collected.\_ You may also block or delete cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, please note that if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our website.<br><br>For more information on how to delete or block cookies, See\_\nhttp://www.aboutcookies.org/\_<br>or\_http://w w.cookiecentral.com/faq/"
+            id: e7afa31
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: span
+            text: >-
+              <b>What Cookies Do We Use and Why?</b><br> To find out about specific cookies we use on this website,
+              please see below for details. However, please note that not all cookies may be used in all jurisdictions
+              or websites.
+
+              <br>The cookies used on our website are categorized as follows:
+
+              <li>Strictly Necessary</li>
+
+              <li>Preferences</li>
+
+              <li>Statistics</li>
+
+              <li>Marketing</li>
+
+              <li>Third Party</li>
+            id: 567c757
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: span
+            text: >-
+              <b>Strictly Necessary</b><br>Strictly necessary cookies let you move around the website and use essential
+              features like accessing your profile and posting feedback. Without these cookies, these services cannot be
+              provided. Please note that these cookies do not gather any information about you that could be used for
+              marketing or remembering where you have been on the internet.<br>We use these strictly necessary cookies
+              to:<li>Identify you as being logged in to our website; and</li><li>Enable you to submit information via
+              online forms such as registration and feedback forms.</li><br>Accepting these cookies is a condition of
+              using the website, so if you prevent these cookies we cannot guarantee your use of our website or how the
+              security on our website will perform during your visit.
+            id: 3473c2d
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: span
+            text: >-
+              <b>Preferences</b><br>“Preference” cookies enable a website to remember information that changes the way
+              the website behaves or looks, like your preferred language or the region that you are in. We use cookies
+              that collect information about your choices and preferences. These cookies allow us to remember language
+              or other local settings and customize the sites accordingly. We may store settings and preferences of our
+              logged in users.
+            id: 2c06f8e
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: span
+            text: >-
+              <b>Statistic</b><br>“Statistic” cookies help website owners understand how visitors interact with websites
+              by collecting and reporting information anonymously. We use cookies to create anonymous statistics to
+              understand which pages are popular or less popular at our website. This information enables us to improve
+              the website for all visitors without storing personal data.
+            id: a9c9a4c
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: span
+            text: >-
+              <b>“Marketing” </b><br>cookies are used to track visitors across websites. The intention is to display
+              advertisements that are relevant and engaging for the individual user and thereby more valuable for
+              publishers and third party advertisers. We use cookies to deliver many types of digital marketing. They
+              store user data and behaviour information, which allows advertising agencies to target audience groups
+              according to different variables, like age, gender, location, interests.
+            id: 44e2d51
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: span
+            text: >-
+              <b>Third Party Cookies“</b><br>Third Party” cookies are used within our services which are set by other
+              organizations. We use cookies served by third parties in order to improve our website; personalize your
+              experience; and understand how our website is used. <br>While accessing our website, some cookies may be
+              sent from other websites like Face book, Twitter, etc. These Third Party cookies are responsible for
+              having their own cookie and privacy policies. They are not under our control and are not monitored or
+              reviewed by us. <br>Before using Third Party cookies, please read and understand their cookie and privacy
+              policies to ensure you agree to their terms.
+            id: b3259dc
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: span
+            text: "<b>More Information About Cookies</b><br>More information about cookies can be found at:\_http://www.allaboutcookies.org"
+            id: 589f472
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: span
+            text: <b>GDPR Policy</b><br> If you are interested to view our GDPR Policy, you may access it here.
+            id: 48cdb2f
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px

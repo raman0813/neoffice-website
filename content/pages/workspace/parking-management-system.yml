@@ -1,0 +1,523 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Facilities Booking | Parking Slot Booking | NeOffice
+description: >-
+  Facilities booking like parking slots, cafeteria seats can be reserved prior to your arrival at office. Hassle-free,
+  QR code available.
+url: /workspace/parking-management-system/
+sections:
+  - type: section
+    id: 7e7c042
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2023/10/bg-image-parking-1.png);background-position:center
+          center;background-size:cover;padding:30px 0 30px 0
+        t: padding:015px 30px 40px 30px
+        m: background-image:url(/wp-content/uploads/2023/10/bg-image-parking-1.png);padding:0 15px 15px 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: ccf767d
+        css:
+          self:
+            d: width:50.789%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;--gap:0px
+            t: align-content:center;--gap:0px
+            m: padding:0 0 0 0;margin:020px 0 0 0;--gap:-4px
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 37b9a10
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+          - type: heading
+            tag: h1
+            text: Simple Workplace <span style="color:#2EBCF0;">parking management</span> system
+            id: f4acd74
+            css:
+              ' > .wc':
+                d: margin:0 0 16px 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 25px 14px 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:48px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Parking management system that's flexible, efficient &amp; stress-free. Reduce car park admin cost
+              significantly.</p>
+            id: 36ccea8
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 26px 0;padding:0 35px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 18px 0;padding:0 35px 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo/
+            size: sm
+            id: 84b8000
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#2EBCF0;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-play
+            id: f5ed7c6
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 30px 16px 30px
+      - type: column
+        id: eff62fb
+        css:
+          self:
+            d: width:49.167%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/10/parking-image.png
+            alt: parking image
+            id: 7a19b13
+            css:
+              ' > .wc':
+                m: padding:20px 0 0 0
+              ' .w-el':
+                d: width:90%
+                t: width:100%
+  - type: container
+    id: 16c4f1c
+    css:
+      self:
+        d: padding:10px;margin:130px 0 46px 0
+      ' > .inner':
+        d: flex-direction:column;max-width:1140px
+    items:
+      - type: heading
+        tag: h3
+        text: Customers who chose Neoffice as their workplace partner
+        id: 22baf97
+        css:
+          self:
+            d: text-align:center
+          ' .w-el':
+            d: color:#041D41;font-family:'Poppins',sans-serif;font-size:38px;font-weight:700;line-height:57px
+  - type: container
+    id: 15ead81
+    css:
+      self:
+        d: padding:10px;padding:0 0 0 0;margin:0 0 130px 0
+      ' > .inner':
+        d: flex-direction:column;max-width:1140px
+    items:
+      - type: image
+        src: /wp-content/uploads/2023/10/customers.png
+        alt: customers
+        id: 5156cfa
+  - type: section
+    id: f8615b2
+    css:
+      self:
+        d: background-color:#FAFBFC;padding:130px 0 130px 0;margin:0 0 0 0
+        t: padding:0 30px 0 30px;margin:50px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: ac69c2e
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/10/easy-parking.png
+            alt: easy parking
+            id: 681fee9
+            css:
+              ' .w-el':
+                d: width:100%
+      - type: column
+        id: be85a41
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:30px 0 0 30px;margin:0 0 0 0;align-content:center;--gap:0px
+            t: padding:0 0 0 0;--gap:-5px
+            m: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:15px
+        items:
+          - type: heading
+            tag: h2
+            text: <span style="color:#FF455B;">Easy  </span>Parking Solutions for Everyone
+            id: 2cc8c22
+            css:
+              ' > .wc':
+                d: margin:0 0 15px 0;padding:0 0 0 0
+                m: margin:0 25px 0 0;padding:0 0 10px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:54px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <ul><li><div>Pre-booking helps employees arrive on time stress-free, for a productive
+              day.</div></li><li>Flexible Booking: Tomorrow or Week Ahead</li><li>Auto-Cancellation for
+              No-Shows</li></ul>
+            id: 823ac65
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 050px 0 0
+                m: margin:-20px 0 0 0;padding:0 35px 0 0
+  - type: section
+    id: 3cdeb7e
+    css:
+      self:
+        d: padding:100px 0 100px 0;margin:0 0 0 0
+        t: padding:0 30px 0 30px;margin:50px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 43a4304
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:30px 0 0 30px;margin:0 0 0 0;align-content:center;--gap:0px
+            t: padding:0 0 0 0;--gap:-5px
+            m: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:15px
+        items:
+          - type: heading
+            tag: h2
+            text: <span style="color:#FF455B;">Reduce </span>parking management <span style="color:#FF455B;"> opex</span>
+            id: 196089a
+            css:
+              ' > .wc':
+                d: margin:0 0 15px 0;padding:0 0 0 0
+                m: margin:0 25px 0 0;padding:0 0 10px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Elevate your parking experience with our innovative platform, simplifying parking
+              administration.</p><ul><li>Effortless issue resolution through automation.</li><li>Simplified
+              multi-location management.</li><li>Instant parking availability and usage report.</li><li>Seamless
+              integration with existing hardware.</li></ul>
+            id: '2931365'
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 050px 0 0
+                m: margin:-20px 0 0 0;padding:0 35px 0 0
+      - type: column
+        id: 3eb79ef
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/10/opex.png
+            alt: opex
+            id: 5c994eb
+            css:
+              ' .w-el':
+                d: width:100%
+  - type: section
+    id: 5aebcca
+    css:
+      self:
+        d: background-color:#FAFBFC;padding:130px 0 130px 0;margin:0 0 0 0
+        t: padding:0 30px 0 30px;margin:50px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: be6e143
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/10/effortless-parking.png
+            alt: effortless parking
+            id: 8632a0c
+            css:
+              ' .w-el':
+                d: width:100%
+      - type: column
+        id: '9497915'
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:30px 0 0 30px;margin:0 0 0 0;align-content:center;--gap:0px
+            t: padding:0 0 0 0;--gap:-5px
+            m: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:15px
+        items:
+          - type: heading
+            tag: h2
+            text: Effortless Parking Management with <span style="color:#FF455B;">Flexibility</span>
+            id: acf06ca
+            css:
+              ' > .wc':
+                d: margin:0 0 15px 0;padding:0 0 0 0
+                m: margin:0 25px 0 0;padding:0 0 10px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>"Our advanced parking system offers unmatched flexibility, adapting as your organization
+              evolves."</p><ul><li>Individually Allocated Parking</li><li>First-Come, First-Served
+              Parkings</li><li>Convenient Two-Wheeler Parking Slots</li></ul>
+            id: 200ad05
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 050px 0 0
+                m: margin:-20px 0 0 0;padding:0 35px 0 0
+  - type: section
+    id: d8a1000
+    css:
+      self:
+        d: padding:130px 0 130px 0;margin:0 0 0 0
+        t: padding:0 30px 0 30px;margin:50px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 488954b
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:30px 0 0 30px;margin:0 0 0 0;align-content:center;--gap:0px
+            t: padding:0 0 0 0;--gap:-5px
+            m: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:15px
+        items:
+          - type: heading
+            tag: h2
+            text: Elevate Your Visitor Parking to <span style="color:#FF455B;">World-Class  Standards! </span>
+            id: df1c2c9
+            css:
+              ' > .wc':
+                d: margin:0 0 15px 0;padding:0 0 0 0
+                m: margin:0 25px 0 0;padding:0 0 10px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Elevate your parking experience with our innovative platform, simplifying parking
+              administration.</p><ul><li>Transparent Occupancy Updates</li><li>Effortless Booking</li><li>Exceptional
+              Visitor Experiences</li><li>Automatic Monitoring</li></ul>
+            id: 21813d6
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 050px 0 0
+                m: margin:-20px 0 0 0;padding:0 35px 0 0
+      - type: column
+        id: a83e9aa
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/10/car-park.png
+            alt: car park
+            id: 7984c7e
+            css:
+              ' .w-el':
+                d: width:100%
+  - type: section
+    id: 36bc5be
+    css:
+      self:
+        d: background-color:#FAFBFC;padding:100px 0 100px 0;margin:0 0 0 0
+        t: padding:0 0 0 0;margin:20px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: b8142db
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 30px 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: What is parking management System?
+            id: 7edf71e
+            css:
+              ' > .wc':
+                d: margin:20px 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+          - type: text
+            html: >-
+              <p>Parking management solutions are innovative systems and technologies designed to efficiently organize,
+              monitor, and optimize parking spaces. These solutions encompass various tools such as automated payment
+              systems, real-time occupancy monitoring, reservation systems, and mobile apps, all aimed at enhancing the
+              overall parking experience for both facility operators and users.</p>
+            id: 7fbed57
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: f96c29e
+    css:
+      self:
+        d: padding:080px 0 0 0
+        t: padding:15px 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 5px;margin:50px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: '6108353'
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h6
+            text: More about the latest trends and what we have to offer
+            id: 03762d3
+            css:
+              self:
+                d: text-align:center
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 32px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:63px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+  - type: section
+    id: 13cc0f4
+    css:
+      self:
+        d: background-color:#FFFFFF;padding:0 0 0 0;margin:0 0 50px 0
+        t: padding:0 30px 0 30px;margin:0 0 50px 0
+        m: padding:0 15px 0 15px;margin:0 0 50px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: fd92cf5
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: posts
+            count: 3
+            id: '5209e57'

@@ -1,0 +1,1487 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Pricing Plans | NeOffice | Hybrid Workplace Management
+description: >-
+  Effortless automated booking app for hybrid workplace management. Book anytime, anywhere. Available on both
+  Android/iOS.
+url: /pricing-plans/
+sections:
+  - type: section
+    id: e94d7ce
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/Choose-the-product-that-work-for-you.webp);background-position:center
+          left;background-size:cover;background-repeat:no-repeat
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:155px;max-width:1140px
+    columns:
+      - type: column
+        id: 62eef13
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 30px 0 30px;margin:25px 0 0 0
+            m: padding:15px 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h1
+            text: Choose the products that&nbsp; work for you.
+            id: 69425ed
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: >-
+                  margin:50px 160px 0 160px;padding:10px 060px 10px 60px;border-style:solid;border-width:2px 2px 2px
+                  2px;border-color:#FF455B;border-radius:80px 80px 80px 80px
+                t: margin:15px 0 15px 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:15px 15px 15px 15px
+              ' .w-el':
+                d: color:#FF455B;font-family:'Poppins',sans-serif;font-size:48px;font-weight:600
+                t: font-size:30px;line-height:40px
+                m: font-size:20px
+          - type: text
+            html: >-
+              <p><strong>We believe that the best way to help a client to manage their office and support hybrid work is
+              a simple pricing plan</strong></p><p>In a hybrid work environment , one asset would be shared by multiple
+              employee hence , to keep the billing simple we offer our products on per asset per month basis so you
+              <strong>pay only for the active desks, parking slot or meeting room etc..</strong></p>
+            id: e01aa59
+            css:
+              self:
+                d: >-
+                  text-align:center;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                m: text-align:center;font-size:16px
+              ' > .wc':
+                d: margin:0 180px 0 180px;padding:0 0 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: b96efe3
+    css:
+      self:
+        d: padding:0 0 0 0;margin:30px 0 0 0
+        t: padding:25px 20px 0 20px
+        m: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 90236b9
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 75363fd
+            css:
+              self:
+                d: >-
+                  background-color:#EBFAFF;border-style:solid;border-color:#02010100;border-radius:40px 40px 0
+                  0;padding:20px 0 0 0;margin:0 0 0 0
+                t: padding:20px 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: c217e36
+                css:
+                  self:
+                    d: width:100%
+                    t: width:75%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Seats
+                        icon:
+                          svg: /wp-content/uploads/2022/01/Group-5986-1.svg
+                    id: a0bd5d3
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        t: margin:0 0 0 40px;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:20px 0 15px 15px
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:24px;font-weight:600
+                        t: font-size:24px
+                        m: font-size:16px
+                      ' .il-icon':
+                        d: font-size:60px
+                        t: font-size:50px
+                        m: font-size:40px
+          - type: section
+            id: d22403f
+            css:
+              self:
+                d: background-color:#EBFAFF
+                m: padding:0 5px 0 15px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: '4011693'
+                css:
+                  self:
+                    d: width:48.72%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Seat Booking by Mobile/Webapp
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Team Planner for Managing Team office schedule
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Auto Allocation of Seats by Manager
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Find my  Friend
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Set up business rules for Seat bookings
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Space Amenities
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Advanced seating strategies
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Custom permissions
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Flexi Logic for QR Code Login
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                    id: cbbc681
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+              - type: column
+                id: 2df69fd
+                css:
+                  self:
+                    d: width:51.28%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:5px 0 0 0;margin:10px 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Auto-Triggered Event Notifications
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Real Time desk availability dashboard
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Options for Hot Desking , Team Scheduling , Rostering
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Desk Booking Linked to Holiday Planner
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Interactive Floor plan
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Seamless Desk allocation and Management
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: Physical distance planning in seat avaiability
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                      - text: QR code Based login and log off   and many more features
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check.svg
+                    id: e861207
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+          - type: section
+            id: 9942ee6
+            css:
+              self:
+                d: >-
+                  background-color:#EBFAFF;border-style:solid;border-color:#02010100;border-radius:0 0 40px
+                  40px;padding:15px 0 15px 0;margin:0 0 0 0
+                t: padding:15px 0 30px 0
+                m: padding:0 0 25px 15px;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: aa4954e
+                css:
+                  self:
+                    d: width:100%
+                    t: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+                    t: padding:0 0 0 0;margin:0 0 0 0
+                    m: padding:0 0 0 0;margin:10px 0 0 0;--gap:0px
+                items:
+                  - type: button
+                    text: $ 2.25 per Seat per month
+                    link: /schedule-demo/
+                    size: sm
+                    id: ccf0ac8
+                    css:
+                      self:
+                        d: width:auto
+                      ' > .wc':
+                        d: padding:0 0 15px 30px
+                        t: padding:0 0 0 40px
+                        m: margin:0 0 0 0;padding:0 0 10px 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF000;color:#2EBCF0;font-family:'Poppins',sans-serif;font-size:16px;font-weight:700;border-style:solid;border-width:1px
+                          1px 1px 1px;border-color:#2EBCF0;border-radius:5px 5px 5px 5px;padding:16px 16px 16px 16px
+                        t: font-size:14px
+                        m: font-size:14px
+                  - type: button
+                    text: Custom Quote
+                    link: /contact-us/
+                    size: sm
+                    id: 878c3f2
+                    css:
+                      self:
+                        d: width:auto;text-align:left
+                      ' > .wc':
+                        d: padding:0 0 15px 15px
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF000;color:#2EBCF0;font-family:'Poppins',sans-serif;font-size:16px;font-weight:700;border-style:solid;border-width:1px
+                          1px 1px 1px;border-color:#2EBCF0;border-radius:5px 5px 5px 5px;padding:16px 35px 16px 35px
+                        t: font-size:14px
+                        m: font-size:14px
+  - type: section
+    id: 92303b8
+    css:
+      self:
+        d: padding:0 0 0 0;margin:30px 0 0 0
+        t: padding:0 20px 0 020px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: c00c020
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;margin:0 0 0 00
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: cd94353
+            css:
+              self:
+                d: >-
+                  background-color:#F6F1FF;border-style:solid;border-color:#02010100;border-radius:40px 40px 0
+                  0;padding:20px 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 8ca5317
+                css:
+                  self:
+                    d: width:100%
+                    t: width:75%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Meeting Room
+                        icon:
+                          svg: /wp-content/uploads/2022/01/Group-5989-1.svg
+                    id: feeaaf1
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        t: margin:0 0 0 40px;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:20px 0 15px 15px
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:24px;font-weight:600
+                        t: font-size:24px
+                        m: font-size:16px
+                      ' .il-icon':
+                        d: color:#976EE8;font-size:60px
+                        t: font-size:50px
+                        m: font-size:40px
+          - type: section
+            id: 6b7ae23
+            css:
+              self:
+                d: background-color:#F6F1FF
+                m: padding:0 0 0 15px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: d2162e8
+                css:
+                  self:
+                    d: width:49.106%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Room Display -  iOS and Android
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Schedule displays
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Real-time room availability
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Walk-up booking
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Booking on Mobile App/Web / Calender
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Calendar Plugins (Outlook)
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Reservation Check-in
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                    id: eba15ca
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+              - type: column
+                id: 6d3dbea
+                css:
+                  self:
+                    d: width:50.894%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:10px 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Space amenities
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Notifications
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Admin alerts
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Analytics
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Refreshments and support services
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: User directory
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Admin management dashboard
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                    id: 8f2cdc1
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+          - type: section
+            id: 0b3558f
+            css:
+              self:
+                d: >-
+                  background-color:#F6F1FF;border-style:solid;border-color:#02010100;border-radius:0 0 40px
+                  40px;padding:15px 0 15px 0;margin:0 0 0 0
+                t: padding:15px 0 30px 0;margin:0 0 0 0
+                m: padding:15px 15px 30px 15px;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: bc2a6fe
+                css:
+                  self:
+                    d: width:100%
+                    t: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 15px;margin:0 0 0 0
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: button
+                    text: $ 15  per meeting room per month
+                    link: /schedule-demo/
+                    size: sm
+                    id: a52de22
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: padding:0 30px 15px 30px
+                        t: margin:0 0 0 0;padding:0 0 0 30px
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF000;color:#976EE8;font-family:'Poppins',sans-serif;font-size:16px;font-weight:700;border-style:solid;border-width:1px
+                          1px 1px 1px;border-color:#976EE8;border-radius:5px 5px 5px 5px;padding:16px 16px 16px 16px
+                        t: font-size:14px
+                        m: font-size:14px
+                  - type: button
+                    text: Custom Quote
+                    link: /contact-us/
+                    size: sm
+                    id: af9d7c6
+                    css:
+                      self:
+                        d: width:auto;text-align:left
+                        m: text-align:left
+                      ' > .wc':
+                        d: padding:0 0 15px 0
+                        t: padding:0 0 0 15px
+                        m: margin:0 0 0 0;padding:15px 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF000;color:#976EE8;font-family:'Poppins',sans-serif;font-size:16px;font-weight:700;border-style:solid;border-width:1px
+                          1px 1px 1px;border-color:#976EE8;border-radius:5px 5px 5px 5px;padding:16px 35px 16px 35px
+                        m: font-size:14px
+  - type: section
+    id: 1b2c51f
+    css:
+      self:
+        d: padding:0 0 0 0;margin:30px 0 0 0
+        t: padding:0 20px 0 20px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: a50fd46
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 28d4632
+            css:
+              self:
+                d: >-
+                  background-color:#FFF8EB;border-style:solid;border-color:#02010100;border-radius:40px 40px 0
+                  0;padding:20px 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: e962dbb
+                css:
+                  self:
+                    d: width:100%
+                    t: width:75%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: align-content:center
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Visitor
+                        icon:
+                          svg: /wp-content/uploads/2022/02/Group-6039.svg
+                    id: 44735d9
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        t: margin:0 0 0 030px;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:20px 0 15px 5px
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:24px;font-weight:600
+                        t: font-size:24px
+                        m: font-size:16px
+                      ' .il-icon':
+                        d: color:#FFB51F;font-size:60px
+                        t: font-size:50px
+                        m: font-size:40px
+          - type: section
+            id: 73d2688
+            css:
+              self:
+                d: background-color:#FFF8EB
+                m: padding:0 15px 0 15px;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 901e5ba
+                css:
+                  self:
+                    d: width:45.893%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Register visitors in advance
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check2.svg
+                      - text: Touchless Registration
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check2.svg
+                      - text: Custom Declaration workflow for Visitors
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check2.svg
+                      - text: Contact less Visitors Check-in
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check2.svg
+                      - text: Ad Hoc visitor Registration
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check2.svg
+                      - text: Custom Logo
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check2.svg
+                      - text: Recognizing recurring visitors
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check2.svg
+                    id: 7c35193
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+              - type: column
+                id: 30a525b
+                css:
+                  self:
+                    d: width:54.107%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: ID Proofs
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check2.svg
+                      - text: SMS/email  notifications
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check2.svg
+                      - text: Dashboards
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check2.svg
+                      - text: Tab Display app for self service available on Ios and Android
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check2.svg
+                    id: 69468b4
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+          - type: section
+            id: 2b281b2
+            css:
+              self:
+                d: >-
+                  background-color:#FFF8EB;border-style:solid;border-color:#02010100;border-radius:0 0 40px
+                  40px;padding:15px 0 15px 0;margin:0 0 0 0
+                m: padding:20px 0 30px 15px;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 1dbf4d7
+                css:
+                  self:
+                    d: width:100%
+                    t: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: button
+                    text: $ 40 per   Location per month
+                    link: /schedule-demo/
+                    size: sm
+                    id: 7f66fc9
+                    css:
+                      self:
+                        d: width:auto
+                      ' > .wc':
+                        d: padding:0 0 15px 30px
+                        m: margin:0 0 15px 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF000;color:#FFB51F;font-family:'Poppins',sans-serif;font-size:16px;font-weight:700;border-style:solid;border-width:1px
+                          1px 1px 1px;border-color:#FFB51F;border-radius:5px 5px 5px 5px;padding:16px 16px 16px 16px
+                        t: font-size:14px
+                  - type: button
+                    text: Custom Quote
+                    link: /contact-us/
+                    size: sm
+                    id: 4b645fa
+                    css:
+                      self:
+                        d: width:auto;text-align:left
+                      ' > .wc':
+                        d: padding:0 0 15px 025px
+                        t: padding:0 0 0 20px
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF000;color:#FFB51F;font-family:'Poppins',sans-serif;font-size:16px;font-weight:700;border-style:solid;border-width:1px
+                          1px 1px 1px;border-color:#FFB51F;border-radius:5px 5px 5px 5px;padding:16px 35px 16px 35px
+                        t: font-size:14px
+  - type: section
+    id: 442933f
+    css:
+      self:
+        d: padding:0 0 0 0;margin:30px 0 30px 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: e7fd6b4
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 7bfc6fb
+            css:
+              self:
+                d: >-
+                  background-color:#F6F1FF;border-style:solid;border-color:#02010100;border-radius:40px 40px 0
+                  0;padding:20px 0 0 0;margin:0 0 0 0
+                t: padding:15px 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:15px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: d9afe88
+                css:
+                  self:
+                    d: width:100%
+                    t: width:75%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: align-content:center
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Employee Transport System
+                        icon:
+                          svg: /wp-content/uploads/2023/04/Group-6222.svg
+                    id: f405a6a
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        t: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:20px 0 15px 05px
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:24px;font-weight:600
+                        t: font-size:24px
+                        m: font-size:16px
+                      ' .il-icon':
+                        d: color:#FFB51F;font-size:58px
+                        t: font-size:50px
+                        m: font-size:40px
+          - type: section
+            id: a9f00d0
+            css:
+              self:
+                d: background-color:#F6F1FF
+                m: padding:0 15px 0 15px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 04573cb
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Employee Module
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Booking Module
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Vendor Module
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Vehicle & Driver Module
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                    id: f88976a
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+              - type: column
+                id: b43a609
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:10px 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Routing Module
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Tracking Module
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Billing Module
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                      - text: Reports
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check1.svg
+                    id: 0f192a8
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+          - type: section
+            id: 43c39df
+            css:
+              self:
+                d: >-
+                  background-color:#F6F1FF;border-style:solid;border-color:#02010100;border-radius:0 0 40px
+                  40px;padding:25px 0 0 0;margin:0 0 0 0
+                m: padding:15px 0 30px 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 2d5b70c
+                css:
+                  self:
+                    d: width:50%
+                    t: width:60%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: button
+                    text: Custom Quote
+                    link: /contact-us/
+                    size: sm
+                    id: 39ed02a
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: padding:0 0 15px 30px
+                        m: margin:0 0 0 0;padding:0 6px 0 15px
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF000;color:#976EE8;font-family:'Poppins',sans-serif;font-size:16px;font-weight:700;border-style:solid;border-width:1px
+                          1px 1px 1px;border-color:#976EE8;border-radius:5px 5px 5px 5px;padding:16px 16px 16px 16px
+                        t: font-size:14px
+                        m: line-height:20px;padding:16px 16px 16px 16px
+              - type: column
+                id: be74af5
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                items: []
+  - type: section
+    id: 8440e8c
+    css:
+      self:
+        d: padding:0 0 0 0;margin:30px 0 35px 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: b360a60
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 20px 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: ce0515f
+            css:
+              self:
+                d: >-
+                  background-color:#FFF3F5;border-style:solid;border-color:#02010100;border-radius:40px 40px 0
+                  0;padding:20px 0 0 0;margin:0 0 0 0
+                t: padding:15px 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: '34071e2'
+                css:
+                  self:
+                    d: width:100%
+                    t: width:65%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 0;margin:0 0 0 0
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Amenities
+                        icon:
+                          svg: /wp-content/uploads/2022/02/Group-6077.svg
+                    id: 79c7bc8
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        t: margin:0 0 0 40px;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:20px 0 15px 15px
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:24px;font-weight:600
+                        t: font-size:24px
+                        m: font-size:16px
+                      ' .il-icon':
+                        d: color:#FFB51F;font-size:60px
+                        t: font-size:50px
+                        m: font-size:40px
+          - type: section
+            id: b79ed9f
+            css:
+              self:
+                d: background-color:#FFF3F5
+                m: padding:0 15px 0 15px;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: '6272630'
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Car Parking Slot Booking
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check3.svg
+                      - text: Cafeteria Slot Booking
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check3.svg
+                      - text: Employee Surveys
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check3.svg
+                    id: 9058c08
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+          - type: section
+            id: 1d5ba86
+            css:
+              self:
+                d: >-
+                  background-color:#FFF3F5;border-style:solid;border-color:#02010100;border-radius:0 0 40px
+                  40px;padding:25px 0 25px 0
+                t: padding:40px 0 45px 0;margin:0 0 0 0
+                m: padding:20px 0 30px 15px;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: d92f9f9
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 35px;margin:0 0 0 0
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: button
+                    text: $ 1 per asset per month
+                    link: /schedule-demo/
+                    size: sm
+                    id: cae9328
+                    css:
+                      self:
+                        d: width:auto
+                      ' > .wc':
+                        d: padding:0 0 15px 30px
+                        t: margin:0 0 0 0;padding:0 10px 10px 0
+                        m: margin:0 0 15px 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF000;color:#FF455B;font-family:'Poppins',sans-serif;font-size:16px;font-weight:700;border-style:solid;border-width:1px
+                          1px 1px 1px;border-color:#FF455B;border-radius:5px 5px 5px 5px;padding:16px 16px 16px 16px
+                        t: font-size:14px;line-height:19px
+                  - type: button
+                    text: Custom Quote
+                    link: /contact-us/
+                    size: sm
+                    id: 5848c35
+                    css:
+                      self:
+                        d: width:auto;text-align:left
+                        t: text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 15px 5px
+                        t: padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF000;color:#FF455B;font-family:'Poppins',sans-serif;font-size:16px;font-weight:700;border-style:solid;border-width:1px
+                          1px 1px 1px;border-color:#FF455B;border-radius:5px 5px 5px 5px;padding:16px 35px 16px 35px
+                        t: font-size:14px;line-height:19px
+      - type: column
+        id: 10fa815
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 20px;margin:0 00 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 108bea6
+            css:
+              self:
+                d: >-
+                  background-color:#EBFAFF;border-style:solid;border-color:#02010100;border-radius:40px 40px 0
+                  0;padding:20px 0 0 20px;margin:0 0 0 0
+                t: padding:15px 0 0 0
+                m: padding:0 0 0 0;margin:35px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 9e59ea6
+                css:
+                  self:
+                    d: width:100%
+                    t: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                    t: align-content:center
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Support
+                        icon:
+                          svg: /wp-content/uploads/2022/02/Group-6078.svg
+                    id: ed4b52d
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        t: margin:0 0 0 40px;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:20px 0 15px 15px
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:24px;font-weight:600
+                        t: font-size:24px
+                        m: font-size:16px
+                      ' .il-icon':
+                        d: color:#FFB51F;font-size:60px
+                        t: font-size:50px
+                        m: font-size:40px
+          - type: section
+            id: 1fa896e
+            css:
+              self:
+                d: >-
+                  background-color:#EBFAFF;border-style:solid;border-color:#02010100;border-radius:0 0 40px
+                  40px;padding:0 0 62px 0;margin:0 0 0 0
+                t: padding:0 0 075px 0
+                m: padding:0 0 15px 15px;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: cf804e0
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 25px 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Customer support Ticketing on  mobile and Web App available
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check-1.svg
+                      - text: Webinars
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check-1.svg
+                      - text: Guided Onboarding
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check-1.svg
+                      - text: Dedicated Guided Success Manager
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check-1.svg
+                    id: 43500f2
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+  - type: section
+    id: '6491145'
+    css:
+      self:
+        d: padding:0 0 0 0;margin:0 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 8483d06
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 5fcdd17
+            css:
+              self:
+                d: >-
+                  background-color:#F1FFF8;border-style:solid;border-color:#02010100;border-radius:40px 40px 0
+                  0;padding:20px 0 0 0;margin:0 0 0 0
+                t: padding:15px 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:15px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: af63770
+                css:
+                  self:
+                    d: width:100%
+                    t: width:75%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: align-content:center
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Platform &amp; Security
+                        icon:
+                          svg: /wp-content/uploads/2022/02/Group-6079.svg
+                    id: f2d17ba
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        t: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:20px 0 15px 05px
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:24px;font-weight:600
+                        t: font-size:24px
+                        m: font-size:16px
+                      ' .il-icon':
+                        d: color:#FFB51F;font-size:58px
+                        t: font-size:50px
+                        m: font-size:40px
+          - type: section
+            id: 5ca5b65
+            css:
+              self:
+                d: background-color:#F1FFF8
+                m: padding:0 15px 0 15px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 9aa8b10
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Employee user profiles
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check5.svg
+                      - text: Multiple-location management
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check5.svg
+                      - text: APIs for 3rd party integrations
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check5.svg
+                      - text: Office search engine
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check5.svg
+                      - text: Shared calendar access
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check5.svg
+                    id: 50d4c72
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+              - type: column
+                id: b3f350f
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:10px 0 0 0;margin:0 0 0 0
+                items:
+                  - type: icon-list
+                    items:
+                      - text: Google and Office 365 SSO
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check5.svg
+                      - text: Active Directory sync
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check5.svg
+                      - text: MS Teams Integration
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check5.svg
+                      - text: GDPR compliant
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check5.svg
+                      - text: Hosted on Secure Cloud
+                        icon:
+                          svg: /wp-content/uploads/2022/02/check5.svg
+                    id: 3ce86db
+                    css:
+                      ' > .wc':
+                        d: margin:0 0 0 30px;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' li':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:17px;font-weight:500
+                        m: font-size:12px
+                      ' .il-icon':
+                        d: font-size:29px
+                        m: font-size:15px
+          - type: section
+            id: 5793c92
+            css:
+              self:
+                d: >-
+                  background-color:#F1FFF8;border-style:solid;border-color:#02010100;border-radius:0 0 40px
+                  40px;padding:25px 0 0 0;margin:0 0 0 0
+                m: padding:15px 0 30px 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: df60ae6
+                css:
+                  self:
+                    d: width:50%
+                    t: width:60%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: button
+                    text: Pricing is per asset per month billed quarterly
+                    link: /schedule-demo/
+                    size: sm
+                    id: 2706ab5
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: padding:0 0 15px 30px
+                        m: margin:0 0 0 0;padding:0 6px 0 15px
+                      ' .w-el':
+                        d: >-
+                          background-color:#2EBCF000;color:#43DF94;font-family:'Poppins',sans-serif;font-size:16px;font-weight:700;border-style:solid;border-width:1px
+                          1px 1px 1px;border-color:#43DF94;border-radius:5px 5px 5px 5px;padding:16px 16px 16px 16px
+                        t: font-size:14px
+                        m: line-height:20px;padding:16px 16px 16px 16px
+              - type: column
+                id: '1937913'
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                items: []
+  - type: section
+    id: c210398
+    css:
+      self:
+        d: background-position:center center;background-size:contain;background-repeat:no-repeat;padding:0 0 100px 0
+        t: padding:0 0 0 0;margin:0 0 0 0
+        m: padding:40px 15px 40px 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: d21148b
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:150px 120px 170px 120px;margin:0 0 0
+              0;background-image:url(/wp-content/uploads/2022/06/Neoffice-Pricing.webp);background-position:center
+              center;background-repeat:no-repeat
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: We provide Implementation & technical support to all our clients.
+            id: 1449eac
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:45px;font-weight:600
+                t: font-size:30px;line-height:40px
+                m: font-size:20px
+  - type: section
+    id: 2225c69
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/Pricing-Neoffice.webp);background-position:center
+          center;background-size:cover;background-repeat:no-repeat;padding:0 0 0 0;margin:0 0 0 0
+        t: padding:0 0 0 0;margin:0 0 0 0
+        m: padding:0 0 0 0;margin:0 0 0 0
+      ' > .row':
+        d: min-height:319px
+    columns:
+      - type: column
+        id: cf5743f
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: heading
+            tag: h2
+            text: Get to know more about our products
+            id: f2eca61
+            css:
+              self:
+                d: text-align:center
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:45px;font-weight:600
+                t: font-size:30px;line-height:40px
+                m: font-size:20px
+          - type: section
+            id: 5804a07
+            css:
+              self:
+                d: padding:0 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: c27db0e
+                css:
+                  self:
+                    d: width:100%
+                    t: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;justify-content:center
+                    t: justify-content:center
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: button
+                    text: Book a free demo
+                    link: /contact-us/
+                    size: sm
+                    id: '9652844'
+                    css:
+                      self:
+                        d: width:auto
+                        t: text-align:center
+                        m: text-align:center
+                      ' > .wc':
+                        d: margin:0 020px 0 0;padding:0 0 0 0
+                        m: margin:0 8px 0 5px;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#FF455B;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                          22px 20px 20px
+                        t: font-size:14px
+                        m: font-size:12px;padding:20px 25px 20px 25px
+                  - type: button
+                    text: Watch video
+                    link: '#video'
+                    size: sm
+                    id: 43f0644
+                    css:
+                      self:
+                        d: width:auto
+                        t: text-align:center
+                        m: text-align:center
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                        m: margin:0 0 6px 8px;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;border-style:solid;border-width:2px
+                          2px 2px 2px;border-color:#041D41;padding:18px 22px 18px 22px
+                        t: font-size:14px
+                        m: font-size:12px;padding:20px 25px 16px 25px

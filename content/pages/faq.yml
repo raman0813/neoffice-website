@@ -1,0 +1,275 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: FAQs | NeOffice Hybrid Workplace Solutions
+description: >-
+  Have Questions? Get all your answers about hybrid office, desk booking, meeting room booking and other flexible
+  workplace needs here.
+url: /faq/
+sections:
+  - type: section
+    id: 500f646
+    css:
+      self:
+        d: background-color:#EBFAFF;background-image:url(/wp-content/uploads/2022/01/Group-6036.png)
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:150px;max-width:1140px
+    columns:
+      - type: column
+        id: dec4736
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h1
+            text: Frequently asked questions (FAQ)
+            id: 621832d
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:40px;font-weight:700
+                t: font-size:30px
+                m: font-size:30px;line-height:40px
+  - type: section
+    id: 1cd1c03
+    css:
+      self:
+        d: margin:35px 0 0 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: f370f81
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: General queries
+            id: 033277d
+            css:
+              ' .w-el':
+                d: color:#A1ABBC;font-family:'Poppins',sans-serif;font-size:24px;font-weight:600
+                m: font-size:20px
+          - type: accordion
+            items:
+              - title: What can NeOffice be used for?
+                html: >-
+                  <p>NeOffice is a workspace management app that helps you organise your day at work. With flexible work
+                  becoming the norm, reinventing a workspace that is more collaborative &amp; productive for employees
+                  is the need of the hour, and that’s where we come in. We are available as both a web &amp; mobile
+                  app.</p>
+              - title: How to manage hybrid work/flexible working with NeOffice?
+                html: >-
+                  <p>With NeOffice, employees can book the type of space that they want depending on their workday. Be
+                  it a office desk , a parking slot or a cafeteria seat , NeOffice provides the employees with the
+                  flexibility on how, where &amp; when the want to work</p>
+              - title: What are all the features available in NeOffice?
+                html: >-
+                  <p>At NeOffice we offer a comprehensive set of features that will you get most out of your office
+                  space. Our three-in-one solution includes Desk Booking, Meeting Room Booking &amp; Visitor Management
+                  that is easy to implement and has everything you need create a perfect hybrid work environment</p>
+              - title: Is NeOffice onsite or cloud-based?
+                html: >-
+                  <p>NeOffice is an easy to access cloud-based solution which makes deployment across any office
+                  location very simple. We are hosted on AWS .</p>
+              - title: Can I integrate NeOffice with my existing software?
+                html: <p>Accordion Content</p>
+              - title: What are the pre-requisites of NeOffice software?
+                html: >-
+                  <p>Being a cloud-based application, there are no additional requirements and our software can be
+                  easily installed on desktop or mobile. Our team will work with you to understand your unique
+                  requirements so you can get started without any difficulty.</p>
+              - title: How do I get in touch with the team?
+                html: <p>Accordion Content</p>
+            id: 735b170
+  - type: section
+    id: ce483c3
+    css:
+      self:
+        d: margin:35px 0 0 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 30959bd
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Scheduling & Space Booking
+            id: 464cab7
+            css:
+              ' .w-el':
+                d: color:#A1ABBC;font-family:'Poppins',sans-serif;font-size:24px;font-weight:600
+                m: font-size:20px
+          - type: accordion
+            items:
+              - title: Why is a workplace booking software important?
+                html: >-
+                  <p>Workspace scheduling software allows you to schedule whatever workspace you require using a single
+                  tool. You can quickly view on the floor plan and book the places you require either on our mobile app
+                  or on our webapp . Once booked the pass get generated and the seat is blocked for you. It's a flexible
+                  way to work without the fuss.</p>
+              - title: How do you book a space in office?
+                html: >-
+                  <p>Using NeOffice, you can book any type of space you require in office. Spaces like desks, meeting
+                  rooms, parking, cafeteria seats can be easily booked under one single interface using an interactive
+                  floorplan. Choose your time, date &amp; location – tap and its done. Learn more about managing office
+                  space here. (will be linked to “book your work space” solution page)</p>
+              - title: How will I know which spaces are available?
+                html: >-
+                  <p>You can search for available spaces by defining the type of space, reservation time, and amenities.
+                  Baes on your criteria, NeOffice will display available desk or conference room or office spaces which
+                  will get highlighted in green once booked.</p>
+              - title: What are the different ways using which you can book your desks?
+                html: >-
+                  <p>You can manage your desks using three types of booking- hot desking, hoteling or on behalf
+                  scheduling.</p><p>Hot desking, where employees share a common pool of desks instead of each employee
+                  being assigned a permanent desk. You can block certain part of the office to a particular team and
+                  only those team member can book there</p><p>Hoteling is a where you can inform the admin team to block
+                  a seat for you for a specific duration of time and this seat is reserved only for you . <br />where
+                  employees share a common pool of desks instead of each employee being assigned a permanent desk. You
+                  can block certain part of the office to a particular team and only those team member can book
+                  there</p><p>Scheduling is when employees are rostered to a set of desks depending on their shifts,
+                  work or location. You can use different rules like scheduling one set of employees to come in on a
+                  Mon- Wen – Fri and another set to come in on Tue- Thru- Fri.</p>
+              - title: What is the use of meeting room booking software?
+                html: >-
+                  <p>Booking meeting rooms in advance will help the space being fully utilized thereby minimizing the
+                  threat of no shows. You can also reschedule or cancel, invite &amp; notify visitors, opt for technical
+                  support, all within minutes using NeOffice.</p>
+              - title: What is a meeting room display & how can it be used?
+                html: >-
+                  <p>A meeting or conference room display is a touchscreen that is cloud-enabled and used by businesses
+                  to organise meetings and meeting venues. It notifies employees when rooms are available, allows them
+                  to check in for scheduled meetings, and allows them to secure meeting space on the spot if
+                  available</p><p>NeOffice's simple room scheduling software works with iPads, and other tabs &amp;
+                  Android devices. Many businesses install digital room displays outside of meeting rooms so that
+                  employees can quickly see current and upcoming events, as well as capacity, equipment, and other
+                  important room information.</p>
+            id: a56be5a
+  - type: section
+    id: 9de705b
+    css:
+      self:
+        d: margin:35px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 43ab85c
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Visitor Management
+            id: '1021879'
+            css:
+              ' .w-el':
+                d: color:#A1ABBC;font-family:'Poppins',sans-serif;font-size:24px;font-weight:600
+                m: font-size:20px
+          - type: accordion
+            items:
+              - title: How do you manage visitors in office?
+                html: >-
+                  <p>Workspace scheduling software allows you to schedule whatever workspace you require using a single
+                  tool. You can quickly view on the floor plan and book the places you require either on our mobile app
+                  or on our webapp . Once booked the pass get generated and the seat is blocked for you. It's a flexible
+                  way to work without the fuss.</p>
+              - title: How will I know when I have a visitor?
+                html: >-
+                  <p>Employees will receive alerts or notifications once the visitor sign-ins using the invite sent to
+                  them through SMS or E-mail.</p>
+              - title: Are visitor walk-ins possible?
+                html: >-
+                  <p>Yes, guests can also walk-in and key-in the necessary information at a kiosk near the front desk,
+                  to gain entry into office. Customized photo badges &amp; print passes will also be provided.</p>
+              - title: What is NeoVMS?
+                html: >-
+                  <p>NeoVMS (i.e.) NeOffice Visitor Management System is a companion app built to manage the visitor
+                  flow at your office lobby in a contactless manner. The visitor on entering the premises can key in all
+                  the necessary details on the tab that is available at the front desk. During the process, the visitor
+                  photographs and ID proof is captured and an alert is automatically sent through SMS or Email to the
+                  person he is visiting. A customized print pass or badge is provided to the visitor for entry.</p>
+            id: ec78337
+  - type: section
+    id: 81f5949
+    css:
+      self:
+        d: margin:35px 0 50px 0
+        t: padding:0 30px 0 30px;margin:35px 0 50px 0
+        m: padding:0 015px 0 15px;margin:35px 0 50px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: fd0b782
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Workplace Analytics
+            id: cb3a5f6
+            css:
+              ' .w-el':
+                d: color:#A1ABBC;font-family:'Poppins',sans-serif;font-size:24px;font-weight:600
+                m: font-size:20px
+          - type: accordion
+            items:
+              - title: Why are workplace analytics important?
+                html: >-
+                  <p>Workplace analytics play a vital role in assisting the leadership team to understand their
+                  operations and how best to optimize it. Getting an insight about what's going on in the organisation
+                  and why, allows you to create sensible forecasts based on actual data.</p>
+              - title: What are the metrics used by NeOffice software?
+                html: >-
+                  <p>We capture a variety of metrics as your employees interact with the platform, all without the need
+                  for additional hardware or plugins. Number of desk bookings, percentage of ‘no shows’ for meetings,
+                  guest visits to office are some of the metrics that we track.</p>
+              - title: Can reports be generated based on the data captured by NeOffice?
+                html: >-
+                  <p>NeOffice makes it easier than ever to analyze all of your collected data and stats. The Insights
+                  function in your admin dashboard automatically generates and interprets the metrics you require into
+                  reports that give actionable analysis. You can figure out response to inquiries such as "How many
+                  desks are being booked?" and "How many visitors have we had?" You can also customize your reports to
+                  look at data of a particular t or entire office to gain a better understanding of how your space is
+                  being used.</p>
+            id: 74675c8

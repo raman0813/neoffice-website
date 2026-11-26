@@ -1,0 +1,903 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Best Workspace Management Software | NeOffice Solutions
+description: >-
+  Workspace Management - Desk Booking - Meeting Room booking - Visitor Management. Book instantly using our app.
+  Available on android/iOS.
+url: /solutions/workspace-management/
+sections:
+  - type: section
+    id: 1e46487
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/workspace-management-.webp);background-position:center
+          center;background-size:cover;padding:30px 0 30px 0;margin:0 0 0 0
+        t: padding:40px 30px 40px 30px
+        m: background-image:url(/wp-content/uploads/2022/03/Rectangle-5591-1.png);padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 48c7731
+        css:
+          self:
+            d: width:50.789%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;--gap:0px
+            t: padding:0 0 0 0;margin:0 0 0 0;--gap:0px
+            m: padding:0 0 0 0;margin:20px 0 0 0
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 3cd0e4d
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+          - type: heading
+            tag: h1
+            text: Efficient Workspace Management
+            id: 49fe7e4
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 25px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:48px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: "<p>Workplace management is an essential component of your business strategy.\_ Using technology helps offer employees multiple options of work settings through smooth desk booking and meeting room booking.</p>"
+            id: b115396
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 10px 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo/
+            size: sm
+            id: 22c382f
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                t: padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#2EBCF0;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-play
+            id: 4bfb5fe
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                m: margin:0 0 6px 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 30px 16px 30px
+      - type: column
+        id: 5ec7672
+        css:
+          self:
+            d: width:49.167%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/workspace-management.webp
+            alt: workspace-management
+            id: 3690fd1
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                m: padding:30px 0 0 0
+              ' .w-el':
+                d: width:90%
+                t: width:100%
+  - type: section
+    id: 53235de
+    css:
+      self:
+        d: background-position:center center;background-repeat:no-repeat;margin:60px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:25px 0 0 0
+      ' > .row':
+        d: min-height:310px;max-width:1140px
+    columns:
+      - type: column
+        id: 8c1d064
+        css:
+          self:
+            d: width:77.632%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Manage all aspects of your workspace management on a single platform.
+            id: de3e804
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: "<p>Workspace management takes into account all\_ services, technologies, and processes that contribute to a successful workplace experience.</p>"
+            id: 2951da9
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 225px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+      - type: column
+        id: 47e6ee2
+        css:
+          self:
+            d: width:22.281%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items: []
+  - type: section
+    id: 45cc338
+    css:
+      self:
+        d: padding:0 0 0 0;margin:0 0 0 0
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:-80px 0 0 0
+      ' > .row':
+        d: min-height:475px;max-width:1140px
+    columns:
+      - type: column
+        id: 7e6a813
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: '--gap:10px'
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: Bring all your workspace needs together
+            id: c584ff8
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 100px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:32px;font-weight:700;line-height:48px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>From booking Workstation Seats to Car Parking slots, Meeting and Collaboration room to Visitor
+              Management, NeOffice facilitates all of these requirements in one single app.</p>
+            id: 9d318bf
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 100px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 25px 0 0
+          - type: image
+            src: /wp-content/uploads/2022/06/workspace-management-1-1.webp
+            alt: workspace-management
+            id: 7efb6da
+            css:
+              self:
+                d: text-align:left
+      - type: column
+        id: 18acb49
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Bring-all-your-workspace-needs-together.webp
+            alt: Bring-all-your-workspace-needs-together
+            id: b1414d4
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: ed91dce
+    css:
+      self:
+        d: margin:0 0 10px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: d06c29c
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: a5255fc
+            css:
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: 176a068
+    css:
+      self:
+        d: padding:0 0 0 0;margin:34px 0 34px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 1c445b3
+        css:
+          self:
+            d: width:27.28%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Desk-booking.webp
+            alt: Desk-booking
+            id: cb2e951
+            css:
+              self:
+                d: text-align:left
+                t: text-align:center
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:15px 0 0 0;padding:0 0 0 0
+          - type: button
+            text: Book Your Desk
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: 9489da0
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FF455B;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+      - type: column
+        id: 50734c0
+        css:
+          self:
+            d: width:72.72%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 75px;margin:0 10px 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:020px 0 0 0
+        items:
+          - type: text
+            html: >-
+              <a style="text-decoration: none; color: #ff455b; font-weight: bold;"
+              href="/workspace/visitor-management-system/">Desk Booking</a> With our workspace management system,
+              employees can see in real-time their desk bookings status for days they plan to work from office , where
+              they will be seated, and which colleagues are also coming in on same day.
+            id: 7830ffc
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 135px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+  - type: section
+    id: 53a6aff
+    css:
+      self:
+        d: margin:0 0 10px 0
+        m: padding:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: c3d183e
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: 5061eb8
+            css:
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: b656c6b
+    css:
+      self:
+        d: padding:0 0 0 0;margin:20px 0 20px 0
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+    columns:
+      - type: column
+        id: 229c625
+        css:
+          self:
+            d: width:70.876%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:21px 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <a style="text-decoration: none; color: #ffb51f; font-weight: bold;"
+              href="/workspace/visitor-management-system/">Meeting Room Booking</a> A meeting booking can be managed
+              through a single workflow, either through our Web/ Mobile app, MS Outlook, or touch screen display outside
+              meeting rooms. With reservation, guest invitation, and service ordering functionality, our workspace
+              management platform can offer a smooth, stress-free meeting experience.
+            id: 6b5a15e
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 75px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+      - type: column
+        id: b5abd89
+        css:
+          self:
+            d: width:29.124%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Meeting-room-booking-1.webp
+            alt: Meeting-room-booking
+            id: bfbe397
+            css:
+              self:
+                d: text-align:right
+                t: text-align:center
+                m: text-align:center
+              ' > .wc':
+                m: margin:10px 0 0 0;padding:0 0 0 0
+          - type: button
+            text: Book Your Meeting Room
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: 3e4f639
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFB51F;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+  - type: section
+    id: 959b34a
+    css:
+      self:
+        d: margin:0 0 10px 0
+        m: padding:010px 0 5px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 03e23c0
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: 4f8557b
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: 68d6678
+    css:
+      self:
+        d: padding:0 0 0 0;margin:34px 0 0 0
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 25px 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 6da9d86
+        css:
+          self:
+            d: width:29.207%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Visitor-Management-1.webp
+            alt: Visitor-Management
+            id: 5d9ffeb
+            css:
+              self:
+                d: text-align:left
+                t: text-align:center
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:15px 0 10px 0;padding:0 0 0 0
+          - type: button
+            text: Manage Your Visitors
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: 99df454
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#976EE8;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+      - type: column
+        id: aba5533
+        css:
+          self:
+            d: width:70.793%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:15px 0 0 15px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <a style="text-decoration: none; color: #976ee8; font-weight: bold;"
+              href="/workspace/visitor-management-system/">Visitor management</a>
+
+              Deliver a delightful visitor experience by replacing the traditional visitor sign-in book with innovative
+              technology that automatically captures visitor demographics, photo, and reason of visit to make a
+              favourable first impression on your visitors.
+            id: bd27fe9
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 135px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+  - type: section
+    id: ea7c3ad
+    css:
+      self:
+        d: padding:0 0 0 0;margin:150px 0 0 0
+        t: padding:0 30px 0 30px;margin:100px 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:475px;max-width:1140px
+    columns:
+      - type: column
+        id: 9bb1027
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;margin:0 050px 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: Optimize Office Occupancy
+            id: 2f9340b
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:32px;font-weight:700;line-height:48px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px
+          - type: text
+            html: >-
+              <p><span style="white-space: pre-wrap;">Maximize office real estate &amp; productivity by adapting to the
+              new normal of working and meeting employees' changing needs that can be clearly measure through our
+              workspace <a href="https://en.wikipedia.org/wiki/Integrated_workplace_management_system">management
+              system</a>.</span></p>
+            id: 0f39237
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 125px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+          - type: image
+            src: /wp-content/uploads/2022/06/workspace-management-1.webp
+            alt: workspace- management
+            id: ebc94b9
+            css:
+              self:
+                d: text-align:left
+      - type: column
+        id: 9edbd8f
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Optimize-Office-Occupancy.webp
+            alt: Optimize-Office-Occupancy
+            id: bc635b9
+  - type: section
+    id: d9d5181
+    css:
+      self:
+        d: margin:0 0 10px 0
+        m: padding:0 0 0 0;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 597cb84
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: 8ce40c9
+            css:
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: 45a15ae
+    css:
+      self:
+        d: padding:0 0 0 0;margin:34px 0 34px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 762accb
+        css:
+          self:
+            d: width:30.349%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Utilize-space-efficiently.webp
+            alt: Utilize-space-efficiently
+            id: eb4d67b
+            css:
+              self:
+                d: text-align:left
+                t: text-align:center
+                m: text-align:left
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                m: width:100%
+      - type: column
+        id: '3739835'
+        css:
+          self:
+            d: width:69.651%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 180px 0 0;margin:20px 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <p><span style="color: #ff455b;"><strong>Utilize space efficiently</strong></span> Seamlessly manage
+              office space and employee demand with NeOffice technology. To avoid negative impacts on operations and
+              productivity, match employee demand with office space by offering flexible work arrangements.</p>
+            id: a5a100f
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 35px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+  - type: section
+    id: 7cd2b02
+    css:
+      self:
+        d: margin:0 0 10px 0
+        m: padding:0 0 5px 0;margin:15px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: bb1a45c
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: 1d9fddb
+            css:
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: 77b74f9
+    css:
+      self:
+        d: padding:0 0 0 0;margin:34px 0 34px 0
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+        m: padding:0 0 0 0;margin:0 0 0 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+    columns:
+      - type: column
+        id: ac068b9
+        css:
+          self:
+            d: width:71.842%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <p><span style="color: #43df94;"><strong>Set rules of space booking</strong></span> : We enable you to
+              assign rules for seat reservations like individual employee limits on office days and various attributes
+              for different types of workspaces. In this way, employees always use the space that suits them and
+              everyone can be accommodated fairly.</p>
+            id: beb8314
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 75px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+      - type: column
+        id: fc735d5
+        css:
+          self:
+            d: width:28.114%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Set-rules-of-space-booking.webp
+            alt: Set-rules-of-space-booking
+            id: 27e1160
+            css:
+              self:
+                d: text-align:right
+                t: text-align:center
+                m: text-align:left
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 15px 0 15px
+              ' .w-el':
+                m: width:100%
+  - type: section
+    id: c78f030
+    css:
+      self:
+        d: margin:0 0 10px 0
+        m: padding:5px 0 5px 0;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: '5466019'
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: divider
+            id: f94826d
+            css:
+              ' hr':
+                d: 'border-top:1px solid #E8EEF3;width:100%'
+  - type: section
+    id: a4ff91e
+    css:
+      self:
+        d: margin:034px 0 50px 0
+        t: padding:0 30px 35px 30px;margin:0 0 50px 0
+        m: padding:0 15px 0 15px;margin:0 0 50px 0
+      ' > .row':
+        d: min-height:218px;max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 4db50d5
+        css:
+          self:
+            d: width:30.524%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:-15px 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Support-Remote-workers-1.webp
+            alt: Support Remote workers
+            id: 56dc9fb
+            css:
+              self:
+                d: text-align:left
+                t: text-align:center
+                m: text-align:left
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                m: width:100%
+      - type: column
+        id: 21ac635
+        css:
+          self:
+            d: width:69.476%
+            t: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 140px 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <p><span style="color: #976ee8;"><strong>Support Remote workers</strong></span> Allow remote workers to be
+              accommodated by connecting them to the office area as needed. Our workspace management solutions are
+              accessible with a single click at any time and from any location. We provide employees with a working
+              model and work-life balance that keeps them happy and maximises their productivity.</p>
+            id: c1397a8
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 35px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0

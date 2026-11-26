@@ -1,0 +1,1484 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Meeting Room Booking Software for workspaces| Neoffice
+description: >-
+  Meet our smart meeting room booking software that helps employees find & book the room of their choice within minutes
+  using our mobile app.
+url: /workspace/meeting-room-booking-software/
+sections:
+  - type: section
+    id: 216490e
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/Meeting-Room-Booking.webp);background-position:center
+          center;background-size:cover;background-repeat:no-repeat;padding:30px 0 40px 0;margin:0 0 0 0
+        t: padding:15px 30px 40px 30px;margin:0 0 0 0
+        m: background-image:url(/wp-content/uploads/2022/03/Rectangle-4635-1.png);padding:0 15px 15px 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 75143ac
+        css:
+          self:
+            d: width:50.789%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center;--gap:0px
+            t: '--gap:0px'
+            m: padding:20px 0 0 0;margin:0 0 0 0;--gap:-4px
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 06ac38a
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+          - type: heading
+            tag: h1
+            text: Collaboration at Work made easy on our <span style="color:#FF455B;">meeting room booking </span> software
+            id: 2258e1b
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 25px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:45px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p><span style="font-weight: 400;">Our smart meeting room booking software simplifies the process of
+              finding and booking the right room for your needs. Now Reserve , Meet and Collaborate with your teams with
+              ease.</span></p>
+            id: 6335a60
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:16px;line-height:25px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:10px 0 0 0;padding:0 0 0 0
+                t: margin:5px 0 0 0;padding:0 0 0 0
+                m: margin:10px 0 0 0;padding:0 35px 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo/
+            size: sm
+            id: ce7a8ed
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FF455B;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-play
+            id: '3601023'
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 30px 16px 30px
+      - type: column
+        id: ba3ffc3
+        css:
+          self:
+            d: width:49.167%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/03/IMG_4933Cropeed-1.gif
+            alt: Meeting-Room-Booking
+            id: b9746de
+            css:
+              ' > .wc':
+                m: padding:20px 0 0 0
+              ' .w-el':
+                t: width:100%
+  - type: section
+    id: b408cbb
+    css:
+      self:
+        d: padding:0 0 0 0;margin:70px 0 20px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 015px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: d5c1a96
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: daf5752
+            css:
+              self:
+                t: padding:0 0 0 0;margin:0 0 0 0
+                m: padding:0 0 0 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 143f7b7
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    m: padding:0 0 0 0;margin:15px 0 0 0
+                items:
+                  - type: heading
+                    tag: h2
+                    text: How it works?
+                    id: '5892642'
+                    css:
+                      self:
+                        d: text-align:left
+                      ' > .wc':
+                        d: >-
+                          margin:0 0 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 1px
+                          0;border-color:#E6EAEF
+                        t: margin:0 0 0 0;padding:0 0 15px 0
+                        m: margin:15px 0 0 0;padding:0 0 10px 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:32px;font-weight:700
+                        t: font-size:25px
+                        m: font-size:18px
+              - type: column
+                id: 8eb4f48
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                items: []
+  - type: section
+    id: 0d187c0
+    css:
+      self:
+        t: padding:30px 30px 30px 30px;margin:0 0 0 0
+        m: padding:15px 15px 15px 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: '1162247'
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: ce2a589
+            css:
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 40a5c43
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;--gap:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+                    m: '--gap:5px'
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-6016-1.svg
+                    id: 6d8ce5d
+                    css:
+                      self:
+                        d: text-align:left
+                      ' > .wc':
+                        d: padding:25px 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:80px
+                        m: font-size:36px
+                  - type: heading
+                    tag: h3
+                    text: Find a suitable meeting room
+                    id: d6a2fbf
+                    css:
+                      ' > .wc':
+                        t: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Locate a room that is available on the Building and Floor of your choice on our Mobile App/ Web
+                      App.</p>
+                    id: 6176f6b
+                    css:
+                      self:
+                        d: >-
+                          text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                        t: font-size:14px;line-height:20px
+                        m: font-size:12px;line-height:20px
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 50px 0 0
+                        m: margin:0 0 0 0;padding:0 50px 0 0
+              - type: column
+                id: 44a2919
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;--gap:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+                    m: margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5638.svg
+                    id: e592216
+                    css:
+                      self:
+                        d: text-align:left
+                      ' > .wc':
+                        d: padding:25px 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:80px
+                        m: font-size:36px
+                  - type: heading
+                    tag: h3
+                    text: Block the room
+                    id: 5436edb
+                    css:
+                      ' > .wc':
+                        t: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: <p>Choose a time, invitees, messaging and other details and confirm your booking.</p>
+                    id: 538f979
+                    css:
+                      self:
+                        d: >-
+                          text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                        t: font-size:14px;line-height:20px
+                        m: font-size:12px;line-height:20px
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 50px 15px 0
+                        m: margin:0 0 0 0;padding:0 50px 0 0
+          - type: section
+            id: 1a54c91
+            css:
+              self:
+                t: padding:0 0 0 0;margin:25px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 2d86ade
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;--gap:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+                    m: margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5640.svg
+                    id: f9f7739
+                    css:
+                      self:
+                        d: text-align:left
+                      ' > .wc':
+                        d: padding:25px 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:80px
+                        m: font-size:36px
+                  - type: heading
+                    tag: h3
+                    text: Notify the attendees
+                    id: 8f6b10b
+                    css:
+                      ' > .wc':
+                        t: margin:0 0 0 0;padding:7px 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>All the meeting invitees can be notified once the booking is done via email, in-app alerts or
+                      calendar.</p>
+                    id: 8f9403f
+                    css:
+                      self:
+                        d: >-
+                          text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                        t: font-size:14px;line-height:20px
+                        m: font-size:12px;line-height:20px
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 50px 15px 0
+                        t: padding:018px 50px 0 0
+                        m: margin:0 0 0 0;padding:0 50px 0 0
+              - type: column
+                id: 01826a0
+                css:
+                  self:
+                    d: width:50%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;--gap:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+                    m: margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2022/01/Group-5639.svg
+                    id: 77d67ff
+                    css:
+                      self:
+                        d: text-align:left
+                      ' > .wc':
+                        d: padding:25px 0 0 0
+                        t: margin:0 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: font-size:80px
+                        m: font-size:36px
+                  - type: heading
+                    tag: h3
+                    text: Cancel or reserve the room with a single click​
+                    id: 3062b88
+                    css:
+                      ' > .wc':
+                        t: padding:0 150px 0 0
+                        m: margin:0 0 0 0;padding:0 25px 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>You can cancel or re-schedule the meeting so that the rooms are returned to the free pool for
+                      others to use.</p>
+                    id: 0a2b5e9
+                    css:
+                      self:
+                        d: >-
+                          text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:29px
+                        t: font-size:14px;line-height:20px
+                        m: font-size:12px;line-height:20px
+                      ' > .wc':
+                        d: margin:0 0 0 0;padding:0 50px 0 0
+                        m: margin:0 0 0 0;padding:0 50px 0 0
+                  - type: button
+                    text: Find Your Suitable Space
+                    link: /schedule-demo/
+                    size: sm
+                    icon: fas fa-arrow-right
+                    iconAlign: right
+                    id: 082a7a7
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                        dd: display:none
+                        to: display:none
+                      ' > .wc':
+                        d: margin:0 020px 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          background-color:#FF455B;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                          22px 20px 20px
+                        t: font-size:14px
+                        m: font-size:12px;padding:015px 020px 015px 20px
+  - type: section
+    id: feb331b
+    css:
+      self:
+        d: padding:80px 0 0 0
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:20px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: aeadbe9
+        css:
+          self:
+            d: width:68.07%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Collaborate easily with the help of  our  Meeting Room Booking Tools
+            id: 1d5f229
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 1px 0;border-color:#E6EAEF
+                m: margin:0 0 0 0;padding:0 0 25px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+      - type: column
+        id: 515255c
+        css:
+          self:
+            d: width:31.539%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: caebde1
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 21894d7
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Make-it-easy-for-employees-to-connect-.webp
+            alt: Make-it-easy-for-employees-to-connect-in-Meeting-Room-Booking
+            id: a53ba29
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 7946ed2
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0;align-content:center;--gap:25px
+            t: padding:0 0 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Make it easy for <br>employees to connect
+            id: 24d2822
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Search for a suitable meeting room at your location, check availability of the attendees, and make a
+              reservation instantly.</p>
+            id: bec6ec4
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:-0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 835dbe9
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: '224e292'
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 10px;margin:0 0 0 0;align-content:center;--gap:5px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Save time spent on manual bookings
+            id: 43705ce
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Reserve your meeting room by checking real-time availability. Book using mobile, web or calendar,
+              manage your schedule in one place. Avoid double booking and re-schedule easily.</p>
+            id: f1b20d5
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+      - type: column
+        id: ab9e141
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Save-time-on-manual-booking.webp
+            alt: Save-time-on-manual-booking-Meeting-Room-Booking
+            id: 9e70fc9
+            css:
+              self:
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 30px
+                t: margin:0 0 0 0;padding:0 0 0 30px
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: ddd744c
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: cbea35f
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Choose-Ideal-room-for-meeting.webp
+            alt: Choose-Ideal-room-for-meeting-Meeting-Room-Booking
+            id: 59c3bdd
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: cbc053d
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0;align-content:center;--gap:5px
+            t: padding:0 0 0 30px;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Choose the ideal room for your meeting
+            id: 25b71b8
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Search for rooms with inventory you require-TV screen, projector, seating capacity. Select &amp; book
+              the room which fits your need.</p>
+            id: 8d2b84e
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+  - type: section
+    id: f495009
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+        t: padding:15px 30px 15px 30px
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 745531d
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 10px;margin:0 0 0 0;align-content:center;--gap:5px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:10px
+            m: '--gap:20px'
+        items:
+          - type: heading
+            tag: h3
+            text: Eliminate “no shows”
+            id: aed1ec5
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Encourage employees to check-in for meetings and release rooms that are not being used back to the
+              availability pool. Free up unused spaces and get better utilization.</p>
+            id: a9e0eae
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+      - type: column
+        id: c0bf074
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Eliminate-no-shows.webp
+            alt: Eliminate-no-shows
+            id: bc39ac5
+            css:
+              ' > .wc':
+                d: margin:0 0 0 40px
+                t: margin:0 0 0 0;padding:0 0 0 30px
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 22873ce
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+        t: padding:15px 030px 15px 30px;margin:35px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 79f10cd
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Make-changes-with-ease.webp
+            alt: Make-changes-with-ease-in-Meeting-Room-Booking
+            id: af8cdb7
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 5b191e0
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0;align-content:center;--gap:5px
+            t: padding:0 0 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Make changes with ease
+            id: c2125cb
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Create new bookings, reschedule or cancel existing reservations, swap and invite new attendees as
+              necessary. To avoid any confusion, any changes will automatically notified to all attendees.</p>
+            id: 9dd1b22
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 25px 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+  - type: section
+    id: ce170d1
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 7eac3dc
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 10px;margin:0 0 0 0;align-content:center;--gap:-14px
+            t: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+            m: '--gap:20px'
+        items:
+          - type: heading
+            tag: h3
+            text: Conference rooms made smarter with room displays
+            id: 7d9cd36
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                t: padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Interactive display features who has booked the room and for what duration. You can also block your
+              meeting from the room display.</p>
+            id: c902489
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 11cfe74
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Conference-rooms-made-smarter-with-room-displays_.webp
+            alt: Conference-rooms-made-smarter-with-room-displays
+            id: '6515e14'
+            css:
+              ' > .wc':
+                d: margin:0 0 0 40px
+                t: margin:0 0 0 0;padding:0 0 0 30px
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: b1f53b4
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+        t: padding:0 1.875rem 0 1.875rem
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: de57215
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/book-meeting-room-across-location.webp
+            alt: book-meeting-room-across-location
+            id: 09e0645
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0
+      - type: column
+        id: 0f435cc
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0;align-content:center;--gap:0px
+            t: padding:0 0 0 30px;margin:0 0 0 0;align-content:center;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Book meeting rooms across locations
+            id: 98c9629
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Pre-book your <a href="https://en.wikipedia.org/wiki/Meeting">meetings</a> at other office locations
+              when you travel.</p>
+            id: c6e8938
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:-19px 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 7f222ae
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4a3b221
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 15px;margin:0 0 0 0;align-content:center;--gap:25px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Get the most out of your meetings
+            id: 12eb924
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Avail additional services like refreshments, tech assistance or room sanitization while booking your
+              conference room.</p>
+            id: d461a91
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:-19px 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 14ee91a
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/get-most-out-of-your-meetings.webp
+            alt: get-most-out-of-your-meetings
+            id: c6c5e82
+            css:
+              ' > .wc':
+                d: margin:0 0 0 40px
+                t: margin:0 0 0 0;padding:0 0 0 30px
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 2ce80f3
+    css:
+      self:
+        d: padding:0 0 0 0;margin:50px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: c8b3f60
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/integrate-with-existing-tools.webp
+            alt: integrate-with-existing-tools
+            id: feaba0d
+      - type: column
+        id: e4d43a0
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 40px;margin:0 0 0 0;align-content:center;--gap:0px
+            t: '--gap:10px'
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Integrate with your existing tools
+            link: /solutions/integrations/
+            id: 349be97
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: <p>Integrates with your existing Microsoft Outlook or Google Calendar, Slack and Teams.</p>
+            id: 74d3f6e
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:-19px 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0
+                m: margin:-15px 0 0 0;padding:0 0 0 0
+  - type: section
+    id: f1b290a
+    css:
+      self:
+        d: padding:80px 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:20px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: f5591db
+        css:
+          self:
+            d: width:75.657%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Master the art of managing Meeting Room Bookings With NeOffice
+            id: a5b7b34
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 1px 0;border-color:#E6EAEF
+                t: padding:25px 0 25px 0
+                m: margin:0 0 0 0;padding:0 0 25px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              With meeting room bookings on high demand, now is the time to up the ante of the management &amp; ensure
+              employees have access to the space they need to work productively as more people return to office.
+            id: 49dc5a1
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:32px
+                t: font-size:18px;line-height:32px
+                m: text-align:left;font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0
+                t: margin:0 0 0 0;padding:0 50px 0 50px
+                m: margin:0 0 0 0;padding:0 0 0 0
+          - type: button
+            text: Manage Your Room Bookings
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: d283eeb
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FF455B;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+      - type: column
+        id: '4836943'
+        css:
+          self:
+            d: width:23.952%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: 193ce5f
+    css:
+      self:
+        d: margin:15px 0 0 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4edd8e5
+        css:
+          self:
+            d: width:44.033%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:15px 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Ways-of-desk-booking-system.webp
+            alt: Ways-of-desk-booking-system
+            id: 9ee3139
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: padding:1px 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 403bb52
+        css:
+          self:
+            d: width:55.967%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 23c2dff
+            css:
+              self:
+                d: padding:60px 0 0 30px
+                m: padding:0 0 0 0;margin:25px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: b659dda
+                css:
+                  self:
+                    d: width:47.85%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 15px 0 15px
+                    t: align-content:flex-start;--gap:15px
+                    m: padding:0 0 0 0;margin:10px 0 0 0;align-content:center;--gap:5px
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/07/meeting-room.png
+                    alt: ''
+                    id: 42c1db3
+                    css:
+                      self:
+                        d: text-align:left
+                      ' .w-el':
+                        d: width:25%
+                        m: width:15%
+                  - type: heading
+                    tag: h5
+                    text: Metrics to analyse  meeting room utilization
+                    id: '9539568'
+                    css:
+                      ' > .wc':
+                        d: margin:-10px 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Data analytics on meeting room space utilisation e.g meeting duration, average meetings per
+                      day, time saved by adding participant check-ins etc are available on our meeting room booking
+                      software.</p>
+                    id: e26f6e2
+                    css:
+                      self:
+                        d: >-
+                          text-align:justify;color:#1D3444;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;line-height:22px
+                        t: font-size:13px;line-height:18px
+                        m: font-size:12px
+                      ' > .wc':
+                        d: margin:-10px 0 0 0;padding:0 0 0 0
+                        t: padding:0 10px 0 0
+                        m: margin:0 0 0 0;padding:0 15px 0 0
+              - type: column
+                id: '7504020'
+                css:
+                  self:
+                    d: width:52.058%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 15px 0 15px
+                    t: align-content:center;--gap:15px
+                    m: padding:0 0 0 0;margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/07/dashboard.png
+                    alt: ''
+                    id: bc28d32
+                    css:
+                      self:
+                        d: text-align:left
+                      ' .w-el':
+                        d: width:22%
+                        m: width:15%
+                  - type: heading
+                    tag: h5
+                    text: Customizable Desktop dashboard with Admin Tools
+                    id: 22248c3
+                    css:
+                      ' > .wc':
+                        d: margin:-10px 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:15px
+                  - type: text
+                    html: "<p>Configure meeting rooms with utilities, authorization settings, check-in requirements, and other features like assigning a conference room for a specific event or task on the admin panel.\_</p>"
+                    id: fff28f2
+                    css:
+                      self:
+                        d: >-
+                          text-align:justify;color:#1D3444;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;line-height:22px
+                        t: font-size:13px
+                        m: font-size:12px
+                      ' > .wc':
+                        d: margin:-10px 0 0 0;padding:0 0 0 0
+                        m: margin:0 0 0 0
+          - type: section
+            id: be1b2ac
+            css:
+              self:
+                d: padding:0 0 0 30px;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: c3d6570
+                css:
+                  self:
+                    d: width:47.571%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 15px 0 15px
+                    t: align-content:center;--gap:15px
+                    m: padding:0 0 0 0;margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/07/audience.png
+                    alt: ''
+                    id: 532b054
+                    css:
+                      self:
+                        d: text-align:left
+                      ' .w-el':
+                        d: width:25%
+                        m: width:15%
+                  - type: heading
+                    tag: h5
+                    text: Actionable Insights on Space planning
+                    id: f60c3b3
+                    css:
+                      ' > .wc':
+                        d: margin:-10px 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: >-
+                      <p>Utilise data for insights, to understand if there are enough meeting spaces for both scheduled
+                      and ad-hoc meetings based on which improvements can be made in workplace design and layout.</p>
+                    id: 349e32d
+                    css:
+                      self:
+                        d: >-
+                          text-align:justify;color:#1D3444;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;line-height:22px
+                        t: font-size:13px
+                        m: font-size:12px
+                      ' > .wc':
+                        d: margin:-10px 10px 0 0;padding:0 4px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+              - type: column
+                id: 7b547b7
+                css:
+                  self:
+                    d: width:52.058%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 15px 0 15px
+                    t: align-content:flex-start;--gap:15px
+                    m: padding:0 0 0 0;margin:10px 0 0 0;--gap:5px
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2022/07/experience.png
+                    alt: ''
+                    id: '8075794'
+                    css:
+                      self:
+                        d: text-align:left
+                      ' .w-el':
+                        d: width:22%
+                        m: width:15%
+                  - type: heading
+                    tag: h5
+                    text: Enhanced Employee Experience
+                    id: 51ad380
+                    css:
+                      ' > .wc':
+                        d: margin:-10px 0 0 0
+                        m: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:700
+                        t: font-size:16px
+                        m: font-size:16px
+                  - type: text
+                    html: "<p>Visibility into the office's meeting schedules,\_ Future events and the option to check in and out directly from the room displays or app makes for a delightful experience for employees.</p>"
+                    id: 0815a4e
+                    css:
+                      self:
+                        d: >-
+                          text-align:justify;color:#1D3444;font-family:'Poppins',sans-serif;font-size:14px;font-weight:500;line-height:22px
+                        t: font-size:13px
+                        m: font-size:12px
+                      ' > .wc':
+                        d: margin:-10px 0 0 0
+                        m: margin:0 0 0 0
+  - type: section
+    id: b980d01
+    css:
+      self:
+        d: padding:080px 0 0 0;margin:0 0 50px 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 50px 0
+        m: padding:0 15px 0 15px;margin:50px 0 50px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 7cf9e23
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h4
+            text: More about the latest trends and what we have to offer
+            id: a197c95
+            css:
+              self:
+                d: text-align:center
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 32px 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: posts
+            count: 3
+            id: 607df79

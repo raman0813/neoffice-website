@@ -1,0 +1,392 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: GDPR | NeOffice | Hybrid Workplace Management
+description: Simple, automated booking app for hybrid workplace management. Book at anytime, anywhere. Android/iOS compatible.
+url: /gdpr/
+sections:
+  - type: section
+    id: 2538df9
+    css:
+      self:
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: c2be8ba
+        css:
+          self:
+            d: width:12.456%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/03/lock-file.png
+            alt: ''
+            id: 935fec9
+            css:
+              self:
+                d: text-align:left
+              ' .w-el':
+                d: width:50%
+                t: width:80%
+                m: width:20%
+      - type: column
+        id: 64768f0
+        css:
+          self:
+            d: width:87.544%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: 3a40c7c
+    css:
+      self:
+        d: margin:0 0 30px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: d8c1685
+        css:
+          self:
+            d: width:72.368%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: heading
+            tag: h1
+            text: GDPR DATA PROCESSING ADDENDUM
+            id: f2855b2
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+      - type: column
+        id: b54cdca
+        css:
+          self:
+            d: width:27.068%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: fc1f72f
+    css:
+      self:
+        d: margin:0 0 50px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 35px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 174bda5
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-color:#FAFAFB
+            t: padding:20px 20px 20px 20px
+            m: padding:10px 10px 10px 10px
+        items:
+          - type: heading
+            tag: h2
+            text: >-
+              This Data Processing Addendum (DPA) is an assurance from Agiledge Process Solutions Pvt. Ltd. (Agiledge)
+              to you or the entity you represent (“Customer/ Partner”, “you” or “your”). <br><br>This DPA supplements
+              all current or future agreements in any capacity.<br><br>DPA is applicable when the EU GDPR (General Data
+              Protection Regulation) and country specific data protection requirements, applies to use of the Agiledge
+              services to process user’s personal data, personally identifiable information.
+            id: dcd5ee6
+            css:
+              ' > .wc':
+                t: padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>Section 1 . Data Processing</b><br><br><b>1.1 Scope and Roles.</b>This DPA applies when user’s Personal
+              data, Personally identifiable information is processed through Agiledge’s   neOffice or myATOm product
+              platforms.  In this context, Agiledge will act as “processor” to Customer/ Partner who may act as
+              “controller” with respect to user’s personal data, personally identifiable information.
+            id: 23b16fd
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>1.2 Customer/ Partner Controls.</b><br>Agiledge provides service through neOffice or myATOm product
+              platforms to Customer/ Partner with a number of features and functionalities, security controls which
+              Customer/ Partner may use for processing personal data and/ or personally identifiable information of
+              their employees or other stakeholders. Without prejudice to section 1.1, Customer/ Partner may use
+              technical and organisational controls to protect user’s personal data, in connection with its obligations
+              under the GDPR and country specific data protection requirements. This can include customer/ partner’s
+              obligations relating to responding to requests from data subjects (users), obtaining consent from data
+              subjects (users).
+            id: 99ecd8f
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b> 1.3 Details of Data Processing.</b><br><br><b>1.3.1 Data Subject.</b>End users are data subjects whose
+              personal data, personally identifiable information are used for data processing under this
+              DPA.<br><br><b>1.3.2 Duration.</b>As per contractual agreement between Agiledge and Customer/ Partner, the
+              duration of the data processing under this DPA is determined by Customer/ Partner.  Agiledge reserves the
+              right of retaining end users data, personally identifiable information up to 1 year, and post termination
+              of employment of user /data subject with Customer / Partner in order to comply with statutory and legal
+              obligations. The controller of the data would remain the customer of Agiledge and Agiledge would follow
+              the controllers guidance wrt to data retention and deletion.<br><br><b>1.3.3 Purpose.</b>The purpose of
+              the data processing under this DPA is the provision of the services of featured in Agiledge ‘s neOffice or
+              myATOm product platforms used by Customer/ Partner from time to time.<br><br><b>1.3.4 Nature of the
+              processing: </b>Storage, Profiling, Modification, Reporting using personal data, personally identifiable
+              information are considered as processing activities and such other services as described in the contract
+              with Customer/ Partner. <br><br><b>1.3.5 Customer/ Partner Data: </b>User‘s (Data Subject) personal data,
+              personally identifiable information with Customer/ Partner and shared with Agiledge for the purpose of
+              using services in the neOffice or myATOm product platforms.<br><br><b>1.3.6 Categories of data
+              subjects:</b> The data subjects may include Customer/ Partner’s service provider employees, contractors
+              and Customer/ Partner’s employees.
+            id: d110327
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>Section 2. Confidentiality of Customer/ Partner Data.</b><br> Agiledge will not provide access or allow
+              usage or disclose to any third party, any Customer/ Partner Data, except in each case, as necessary to
+              maintain or provide the services, or as necessary to comply with the law or a valid and binding order of a
+              governmental body. If a governmental body sends Agiledge a demand for Customer/ Partner Data, Agiledge
+              will attempt to redirect the governmental body to request that data directly from Customer/ Partner.  As
+              part of this effort, Agiledge may provide Customer/ Partner’s basic contact information to the government
+              body.  If compelled to disclose Customer/ Partner Data to a government body, then Agiledge will provide
+              Customer/ Partner reasonable notice of the demand.
+            id: e229800
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>3. Confidentiality Obligations of Agiledge Personnel.</b><br>Agiledge restricts its employees from
+              processing Customer/ Partner Data without authorisation.  Agiledge imposes appropriate contractual
+              obligations upon its employees, including relevant obligations regarding confidentiality, data protection
+              and data security.
+            id: '7382697'
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>4. Security of Data Processing</b><br><b>4.1</b> Agiledge has implemented and will maintain the
+              technical and organisational measures for security standards which are industry wide best practices.  In
+              particular, Agiledge has implemented and will maintain the following technical and organisational
+              measures: <br>(a) Physical security of the facilities.<br>(b) Measures to control access rights for
+              employees and other stakeholders in relation to the IT Network and product platform instances, data
+              bases.<br>(c) Processes for regularly testing, assessing and evaluating the effectiveness of the technical
+              and organisational security and data protection measures have been implemented.
+            id: 16e69ee
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>4.2</b> Customer/ Partner may wish to implement specific technical and organisational measures in
+              relation to Customer/ Partner’s data.  Such technical and organisational measures can be included on and
+              above Agiledge‘s security and data protection controls after detail discussion and deliberation.
+            id: 55fcdff
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>5. Sub-processing.</b><br><b>5.1 Authorised Sub-processors.</b><br>Customer/ Partner agrees that
+              Agiledge may use sub-processors ( They are named as “Supplier”/ “ Vendors” with whom Agiledge has service
+              contracts , to fulfil its contractual obligations and clauses under this DPA or to provide certain
+              services on its behalf.
+            id: '3929e19'
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>5.2 Sub-processor Obligations.</b><br>Where Agiledge authorises any sub-processor as described in
+              Section 6.1:<br><li>Agiledge will restrict the sub-processor’s access to Customer/ Partner Data only to
+              what is necessary to maintain the services or to provide the services to Customer/ Partner and Agiledge
+              will prohibit the sub-processor from accessing Customer/ Partner Data for any other
+              purpose.</li><li>Agiledge will enter into a written agreement with the sub-processor and, will impose on
+              the sub processor the data protection obligations in line with EU GDPR (General Data Protection
+              Regulation) and country specific data protection requirements.</li>
+            id: a4491c3
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>6. Data Subject Rights</b><br>Taking into account the nature of the services, Agiledge is not
+              responsible for Customer/ Partner’s obligation towards data subject’s (user) rights. In such cases
+              Customer/ Partners are direct custodian of data subject’s (user) personal data and Customer/ Partners are
+              referred as “Controller” as per EU GDPR terminology.Customer/ Partner’s responsibilities include obtaining
+              of consent from its customers/users regarding using of personal data/ personally identifiable information
+              in Agiledge’s neOffice or myATOm product platforms to provide their services.<br>Agiledge shall not be
+              hold responsible, in the event of any liability arising on Customer/ Partner as a result of not complying
+              to their obligations towards EU GDPR and country specific data protection requirements.Should a data
+              subject contact Agiledge with regard to correction or deletion of its personal data, Agiledge will forward
+              such requests to Customer/ Partner’s for their approval.
+            id: 5dd7983
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>7. Security Breach Notification.</b><br><b>7.1 Security Incident.</b> Agiledge will <br>(a) Notify
+              Customer/ Partner of a Security Incident / Personal Data breach without undue delay ( within 72 hours )
+              after becoming aware of the Security Incident, and<br> b) Take reasonable steps to mitigate the effects
+              and to minimise any damage resulting from the Security Incident/ Data breach.
+            id: dd51c9a
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>7.2 Unsuccessful Security Incidents.</b><br>Customer/ Partner agrees that:<br>An unsuccessful Security
+              Incident will not be subject to Section 7.  An unsuccessful Security Incident is one that results in no
+              unauthorised access to Customer/ Partner Data or to any of Agiledge’s equipment or facilities storing
+              Customer/ Partner Data. This may include, without limitation, pings and other broadcast attacks on
+              firewalls, unsuccessful log-on attempts, denial of service attacks, packet sniffing (or other unauthorised
+              access to traffic data that does not result in access beyond headers) or similar
+              incidents.<br><br>Agiledge’s obligation to report or respond to a Security Incident under Section 7  is
+              not and will not be construed as an acknowledgement by Agiledge of any fault or liability of Agiledge with
+              respect to the security Incident.
+            id: 484060a
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>8.  Agiledge Certifications and Audits.</b><br><br><b>8.1 Agiledge Internal GDPR audits and Compliance
+              Score Card.</b> <br>In addition to the information contained in this DPA, upon Customer/ Partner’s
+              request, and provided that the parties have an applicable NDA( Non Disclosure Agreement) in place,
+              Agiledge will make available the following  documents and information:<li>Internal GDPR compliance audits
+              and compliance score card.</li>
+            id: 31dc38f
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>8.2 Agiledge Audits.</b><br>Agiledge uses external auditors to verify the adequacy of its security
+              measures, including the security of the cloud instances for Agiledge’s neOffice or myATOm product
+              platforms and development, testing, production environments. This audit: <br>(a) Will be performed as
+              decided internally by Agiledge.<br>(b) Will be performed according to applicable GDPR clauses.
+            id: ee9caa4
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>8.3 Privacy Impact Assessment and Prior Consultation.</b> <br>Taking into account the nature of the
+              services and the information available, Agiledge will comply with its obligations towards data protection
+              impact assessments and prior consultation pursuant to Articles 35 and 36 of the GDPR.
+            id: 924175e
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>9. Transfers of Personal Data.</b><br>Taking into account the nature of the services provided in
+              Agiledge neOffice or myATOm product platforms, Agiledge deploys these product platforms which contains
+              customer/ partner data   in cloud infrastructure of authorised cloud service providers whose data centres
+              may be located anywhere in the world. Customer/ partner, agrees for this arrangement and ensures that
+              there will be no legal implications with respect to data transfer to third count countries.
+            id: af2865d
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>10. Return or Deletion of Customer/ Partner Data.</b> <br>Agiledge services provide authorised
+              personnel from within the customer/ partner with controls that  may be used to retrieve or modify user’s
+              personal data available in Agiledge’s neOffice or myATOm product platforms.  Agiledge will not have any
+              authority over customer/ partner data.
+            id: 44b0ff7
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>Right to Erasure of Data:</b><br>You are entitled to request us to erase any personal data we hold
+              about you under EU General Data Protection Regulation (GDPR). We will do our best to respond promptly and
+              in any event within one month of the following:<li>Our receipt of your written request; or</li><li>Our
+              receipt of any further information we may ask you to provide to enable us to comply with your request,
+              whichever happens to be later.</li>
+            id: 667bef3
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <br>This addendum to the current service agreement/ contract, has been sent to all customer/ partner.
+              customer/ partner can choose to reply back for any changes or clarifications. <br><br>By sending this
+              addendum Agiledge is demonstrating its obligations and responsibilities to comply with EU General Data
+              Protection Regulations (GDPR) and country specific data protection requirements, which may directly or
+              indirectly impact customer/ partner’s obligation towards, EU General Data Protection Regulations (GDPR ) 
+              and country specific data protection requirements.
+            id: 864a369
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: ''
+            id: d275633
+            css:
+              ' .w-el':
+                d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px

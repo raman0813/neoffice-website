@@ -1,0 +1,761 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Workplace Analytics & Trends | NeOffice Hybrid Solutions
+description: >-
+  Get insights on how your office space is being used with our workplace analytics & trends. Create better workplace
+  experience for employees.
+url: /solutions/workplace-analytics/
+sections:
+  - type: section
+    id: 7ea66a4
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/Workplace-Analytics.webp);background-position:center
+          center;background-size:cover;padding:30px 0 30px 0;margin:0 0 0 0
+        t: padding:30px 30px 40px 30px
+        m: background-image:url(/wp-content/uploads/2022/03/Rectangle-5591-2.png);padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 8be10f0
+        css:
+          self:
+            d: width:50.789%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;--gap:0px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:0px
+            m: padding:0 0 0 0;margin:20px 0 0 0
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 9af750d
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+          - type: heading
+            tag: h1
+            text: Workplace Analytics & Insights
+            id: 8b1106f
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 70px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 25px 0 0;padding:0 70px 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:64px
+                t: font-size:29px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p data-pm-slice="1 1 []">Maximize your office space and improve productivity with the help of real-time
+              data on workplace analytics, utilization and trends. With our software, you can track everything from
+              employee performance to who’s using the conference room and when. You can also compare your office space
+              usage to industry benchmarks, so that you can make informed decisions about how you want to use your
+              space.</p>
+            id: 2015a43
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 45px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo/
+            size: sm
+            id: 20ef6f3
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFB51F;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-play
+            id: f115968
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                m: font-size:12px;padding:20px 25px 16px 25px
+      - type: column
+        id: '9486715'
+        css:
+          self:
+            d: width:49.167%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Workplace-analytics-and-insides.webp
+            alt: Workplace-analytics-and-insides
+            id: 6ee1962
+            css:
+              ' > .wc':
+                m: padding:30px 0 0 0
+  - type: section
+    id: '66987450'
+    css:
+      self:
+        d: background-position:center center;background-repeat:no-repeat;margin:60px 0 0 0
+        t: padding:0 35px 0 35px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 35da3c75
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 300px 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h2
+            text: Data-Driven Decisions to Better  Optimize your Workspace
+            id: 90a497a
+            css:
+              ' > .wc':
+                t: margin:0 0 0 0;padding:0 150px 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>To adapt to the future of work, organizations will need to make important decisions about workspaces
+              and real estate, and ensure they build flexible environments that cater to employee demands.</p>
+            id: 1a537f30
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:34px
+                t: font-size:15px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 40px 0 0
+                t: margin:0 0 0 0;padding:0 150px 0 0
+                m: padding:0 0 0 0
+  - type: section
+    id: 5e2af3df
+    css:
+      self:
+        d: margin:35px 0 15px 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:25px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 37d8face
+        css:
+          self:
+            d: width:18.637%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:20px 0 20px 0;background-color:#FAFBFC;border-style:solid;border-width:05px 0 0
+              0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:flex-start;justify-content:center;--gap:0px
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/03/Group-6002.svg
+            id: efabf49
+            css:
+              self:
+                m: text-align:left
+              ' > .wc':
+                t: margin:0 0 0 0;padding:35px 0 0 0
+                m: padding:15px 0 0 0
+              ' .w-el':
+                d: font-size:80px
+                t: font-size:60px
+      - type: column
+        id: 3b0656f2
+        css:
+          self:
+            d: width:81.363%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:25px 92px 25px 0;margin:0 0 0
+              0;background-color:#FAFBFC;border-style:solid;border-width:5px 0 0 0
+            t: padding:30px 30px 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:15px 0 0 0;margin:0 0 0 0;border-width:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Recognize how your office space is utilized with workplace analytics
+            id: 35dcc318
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: padding:0 30px 0 0
+                m: padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700;text-decoration:none
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Analytics can help you identify overused &amp; underused spaces, uncover patterns in occupancy, and
+              enable you to constantly improve your office environment.</p>
+            id: 37a453bf
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-15px 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 30px 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 58c4a4eb
+    css:
+      self:
+        d: margin:0 0 0 0
+        t: padding:0 030px 0 30px;margin:35px 0 0 0
+        m: padding:0 0 0 0;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 7abce503
+        css:
+          self:
+            d: width:18.946%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-color:#FAFBFC;align-content:center
+            t: padding:30px 0 0 0;margin:0 0 0 0;align-content:flex-start;justify-content:center
+            m: padding:15px 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/03/Group-6149.svg
+            id: 2f49e56
+            css:
+              self:
+                m: text-align:left
+              ' .w-el':
+                d: color:#FF455B;font-size:60px
+                t: font-size:50px
+      - type: column
+        id: 3a2b46e9
+        css:
+          self:
+            d: width:81.054%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:50px 0 0 0;margin:0 0 0 0;background-color:#FAFBFC
+            t: padding:30px 0 0 0;margin:0 0 0 0
+            m: padding:15px 15px 0 15px;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Manage Spaces Better
+            id: 1472a5e8
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>Get a detailed insights into how your desks, rooms &amp; visitor lobbies is being utilized and gather
+              report on KPIs to devise your own workplace strategy.</p>
+            id: 50ceba16
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 30px 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 5f956c17
+    css:
+      self:
+        d: margin:0 0 0 0
+        t: padding:0 30px 0 30px
+        m: padding:0 0 0 0;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 419b0a32
+        css:
+          self:
+            d: width:18.946%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-color:#FAFBFC;align-content:center
+            t: align-content:flex-start
+            m: padding:0 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/03/Group-6003.svg
+            id: 70ef5ad
+            css:
+              self:
+                m: text-align:left
+              ' > .wc':
+                t: padding:0 0 0 0
+              ' .w-el':
+                d: font-size:60px
+                t: font-size:50px
+      - type: column
+        id: 371dc8fc
+        css:
+          self:
+            d: width:81.054%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:50px 86px 0 0;margin:0 0 0 0;background-color:#FAFBFC
+            t: padding:15px 0 0 0;margin:0 0 0 0;--gap:15px
+            m: padding:15px 15px 0 15px;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Identify Usage Patterns​
+            id: 123ab56a
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>Workplace analytics helps determine which spaces your employees use most so you can design a layout
+              that meets their needs.</p>
+            id: 2d738ce3
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                t: padding:0 30px 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 3fb4d9cb
+    css:
+      self:
+        d: margin:0 0 0 0
+        t: padding:0 30px 0 30px
+        m: padding:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 1a7cf386
+        css:
+          self:
+            d: width:18.946%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-color:#FAFBFC;align-content:center
+            t: align-content:flex-start
+            m: padding:0 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/03/Group-6004.svg
+            id: 913b9a1
+            css:
+              self:
+                m: text-align:left
+              ' > .wc':
+                t: padding:0 0 0 0
+              ' .w-el':
+                d: font-size:60px
+                t: font-size:50px
+      - type: column
+        id: 1538ae3c
+        css:
+          self:
+            d: width:81.054%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:50px 110px 0 0;margin:0 0 0 0;background-color:#FAFBFC
+            t: padding:15px 0 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:15px 15px 0 15px;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Enhance Workplace Design
+            id: 46be7412
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>Reimagine office spaces to match your changing business needs. Make projections for when you might need
+              to open a new <a href="https://en.wikipedia.org/wiki/Office">office</a> or add more bookable spaces.</p>
+            id: 30ddcae6
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:0 0 3em 0
+                t: margin:0 0 0 0;padding:0 30px 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+          - type: button
+            text: Know Your Usage Pattern
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: 9413e5b
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 0 20px 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFB51F;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+  - type: section
+    id: 3d3bd1aa
+    css:
+      self:
+        d: margin:080px 0 15px 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4c889fee
+        css:
+          self:
+            d: width:18.637%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 20px 0;background-color:#FAFBFC;border-style:solid;border-width:05px 0 0
+              0;align-content:center
+            t: padding:15px 0 0 0;margin:0 0 0 0;align-content:flex-start
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/03/Group-6002.svg
+            id: c8f1113
+            css:
+              self:
+                m: text-align:left
+              ' > .wc':
+                t: padding:15px 0 0 0
+                m: padding:0 0 0 0
+              ' .w-el':
+                d: font-size:80px
+                t: font-size:60px
+      - type: column
+        id: 27660a73
+        css:
+          self:
+            d: width:81.363%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:20px 67px 20px 0;margin:0 0 0
+              0;background-color:#FAFBFC;border-style:solid;border-width:5px 0 0 0
+            t: padding:15px 30px 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;border-width:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Take strategic decisions with data​
+            id: 200747c3
+            css:
+              ' > .wc':
+                d: margin:1em 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700;text-decoration:none
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>NeOffice aggregates your data into workplace insights based on your employees' use of the platform -
+              giving you instant access to reports and recommendations for improvement.</p>
+            id: 15a6a0c7
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-15px 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 203b08ba
+    css:
+      self:
+        d: margin:0 0 0 0
+        t: padding:0 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 6d6c0dee
+        css:
+          self:
+            d: width:18.946%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;background-color:#FAFBFC;align-content:center
+            t: padding:30px 0 0 0;align-content:flex-start
+            m: padding:30px 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/03/Group-6005.svg
+            id: cfe5b30
+            css:
+              self:
+                m: text-align:left
+              ' > .wc':
+                t: padding:0 0 0 0
+              ' .w-el':
+                d: font-size:60px
+                t: font-size:50px
+      - type: column
+        id: 8054f9b
+        css:
+          self:
+            d: width:81.054%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:50px 78px 0 0;margin:0 0 0 0;background-color:#FAFBFC
+            t: padding:30px 0 0 0;margin:0 0 0 0;align-content:center;--gap:10px
+            m: padding:15px 15px 0 15px;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Real-estate Planning
+            id: e6b6d
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>As workplaces keeps constantly evolving, businesses can use comprehensive data and insights to identify
+              pain points, react to changes in workspace demand, and aid in cutting costs for the company.</p>
+            id: 5ec3b940
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: padding:0 0 0 0
+  - type: section
+    id: '71959445'
+    css:
+      self:
+        d: margin:0 0 0 0
+        t: padding:0 30px 0 30px;margin:0 0 0 0
+        m: padding:0 0 0 0;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 1dca0dee
+        css:
+          self:
+            d: width:18.946%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-color:#FAFBFC;align-content:center
+            t: align-content:flex-start
+            m: padding:0 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/03/Group-6006.svg
+            id: fd14ae7
+            css:
+              self:
+                m: text-align:left
+              ' > .wc':
+                t: padding:0 0 0 0
+              ' .w-el':
+                d: font-size:60px
+                t: font-size:50px
+      - type: column
+        id: 3171ea35
+        css:
+          self:
+            d: width:81.054%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:50px 80px 0 0;margin:0 0 0 0;background-color:#FAFBFC
+            t: padding:15px 0 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:15px 15px 0 15px;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Create a responsive office
+            id: 762f738e
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>Neoffice helps you understand work patterns &amp; styles by providing precise data on workspace usage.
+              Workplace analytics can be incredibly useful in tailoring workspace layouts and hybrid work arrangements
+              to suit the future of your organization.</p>
+            id: 6bdaa716
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+  - type: section
+    id: 40b7b1
+    css:
+      self:
+        d: padding:0 0 0 0;margin:0 0 050px 0
+        t: padding:0 30px 0 30px;margin:0 0 50px 0
+        m: padding:0 0 0 0;margin:0 0 50px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 5afed34
+        css:
+          self:
+            d: width:18.946%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-color:#FAFBFC;align-content:center
+            t: align-content:flex-start
+            m: padding:0 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: icon
+            icon:
+              svg: /wp-content/uploads/2022/03/Group-6008.svg
+            id: a422cfc
+            css:
+              self:
+                m: text-align:left
+              ' > .wc':
+                t: padding:0 0 0 0
+              ' .w-el':
+                d: font-size:60px
+                t: font-size:50px
+      - type: column
+        id: 49a3104b
+        css:
+          self:
+            d: width:81.054%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:50px 87px 0 0;margin:0 0 0 0;background-color:#FAFBFC
+            t: padding:15px 0 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:15px 15px 0 15px;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Promote Constant Improvement
+            id: 23d48582
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:700
+                m: font-size:16px
+          - type: text
+            html: >-
+              <p>Workplace analytics may help generate a clear image of how workplaces work, how people use them, and
+              which arrangements are more successful than others. These insights can thus be helpful to take long-term,
+              planning decisions for the company.</p>
+            id: 1f535dc7
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:0 0 2em 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+          - type: button
+            text: Make a Decisions with Data
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: 7ffd441
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 0 20px 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFB51F;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px

@@ -1,0 +1,470 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Office Pass | Touchless Sign-in | Hybrid Work Solutions
+description: >-
+  Secure contactless entry to your workplace with the help of office pass. Sign-in and out of your desks using a QR code
+  across office.
+url: /workspace/office-pass/
+sections:
+  - type: section
+    id: 37cc965
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2022/06/Office-Pass-1.webp);background-position:center
+          center;background-size:cover;background-repeat:no-repeat;padding:30px 0 30px 0;margin:0 0 0 0
+        t: padding:040px 30px 40px 30px
+        m: background-image:url(/wp-content/uploads/2022/03/Rectangle-4635-1.png);padding:0 15px 15px 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 3ef03b8
+        css:
+          self:
+            d: width:50.789%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:0px
+            t: '--gap:0px'
+            m: padding:0 0 0 0;margin:20px 0 0 0;--gap:-4px
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 445fda9
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+          - type: heading
+            tag: h1
+            text: >-
+              With Office Pass ensure smooth, <span style="color:#976EE8;">contactless entry </span>  for any office
+              space
+            id: 645a663
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:48px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: "<p data-pm-slice=\"1 1 []\">Office Pass 's touchless QR code check-in system ensures a safe and secure sign-in process for employees &amp; visiting guests.\_</p>"
+            id: dbb80a0
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 75px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 35px 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo/
+            size: sm
+            id: b8f6635
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#976EE8;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-play
+            id: ffcb80f
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 30px 16px 30px
+      - type: column
+        id: 8dee490
+        css:
+          self:
+            d: width:49.167%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            m: padding:0 0 0 0;margin:15px 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Office-Pass-1-1.webp
+            alt: Office-Pass
+            id: '2287193'
+            css:
+              ' > .wc':
+                m: padding:0 0 0 0
+              ' .w-el':
+                d: width:90%
+                t: width:100%
+                m: width:100%
+  - type: section
+    id: 0a76290
+    css:
+      self:
+        d: padding:0 30px 0 0;margin:75px 0 0 0
+        m: padding:0 0 0 0;margin:30px 0 0 0
+    columns:
+      - type: column
+        id: 210466a
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 0 0
+              0;background-image:url(/wp-content/uploads/2022/03/unsplash_E7Tzh2TTS6c-1.png);background-position:center
+              center;background-size:cover;background-repeat:no-repeat
+            t: background-position:center center;background-repeat:no-repeat
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/All-in-One-Office-Pass-1-1.webp
+            alt: All-in-One-Office-Pass-in-Office-Pass
+            id: a9d8bb0
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 4dae98c
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:20px 0 20px 30px;margin:0 0 0
+              0;background-image:url(/wp-content/uploads/2022/06/All-in-one-office-Pass.webp);align-content:center;--gap:25px
+            t: padding:0 0 0 30px;align-content:center;--gap:-10px
+            m: padding:30px 0 20px 0;margin:0 0 0 0;--gap:-8px
+        items:
+          - type: heading
+            tag: h2
+            text: All-in-one  <span style="color:#976EE8;">Office Pass</span>
+            id: 959efa9
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 15px 0 15px
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:26px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Once a booking is made on NeOffice App, a pass gets generated. It has all the necessary information of
+              your bookings like seat number, floor, meeting room details etc., all at one place.&nbsp;</p>
+            id: 445132a
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:25px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:-50px 0 0 0;padding:0 25px 0 0
+                t: margin:8px 0 0 0
+                m: margin:11px 0 0 0;padding:0 50px 0 15px
+          - type: button
+            text: Generate Your Office Pass Now
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: 01986c0
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 015px
+              ' .w-el':
+                d: >-
+                  background-color:#976EE8;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+  - type: section
+    id: 970ae7f
+    css:
+      self:
+        d: padding:0 0 0 50px;margin:75px 0 0 0
+        m: padding:0 0 0 0;margin:30px 0 0 0
+      ' > .row':
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 1427e0d
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:20px 0 20px 30px;margin:0 0 0
+              0;background-image:url(/wp-content/uploads/2022/06/Quick-and-TIme-Saving.webp);align-content:center;--gap:25px
+            t: padding:0 0 0 30px;--gap:6px
+            m: padding:30px 0 20px 0;margin:0 0 0 0;align-content:center;--gap:5px
+        items:
+          - type: heading
+            tag: h3
+            text: |-
+              Quick & <span style="color:#976EE8;">Time-saving</span>
+              Process
+            id: d20d905
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 050px 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 15px 0 15px
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:26px;line-height:33px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Manage your bookings easily with the help of office pass. You can view upcoming &amp; past bookings,
+              edit or cancel your office pass instantly without much hassle.</p>
+            id: 1c89a93
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:25px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:-50px 60px 0 0;padding:0 25px 0 0
+                t: margin:0 0 0 0
+                m: margin:0 0 0 0;padding:0 50px 0 15px
+          - type: button
+            text: Re-Schedule or Cancel Easily
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: 4e614cd
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 015px
+              ' .w-el':
+                d: >-
+                  background-color:#976EE8;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+      - type: column
+        id: dfee41b
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 0 0
+              0;background-image:url(/wp-content/uploads/2022/03/unsplash_E7Tzh2TTS6c-1.png);background-position:center
+              center;background-size:cover;background-repeat:no-repeat
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Quick-and-Time-Saving-.webp
+            alt: Quick-and-Time-Saving-in-office-pass
+            id: de26f92
+  - type: section
+    id: c3a8f49
+    css:
+      self:
+        d: padding:0 50px 0 0;margin:75px 0 0 0
+        t: padding:0 50px 0 0
+        m: padding:0 0 0 0;margin:30px 0 0 0
+    columns:
+      - type: column
+        id: b27b874
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:0 0 0 0;margin:0 0 0 0;background-position:center
+              center;background-size:cover;background-repeat:no-repeat
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/06/Promote-a-safe-workplace.-.webp
+            alt: Promote-a-safe-workplace-in-office-pass
+            id: 8ab3c3f
+            css:
+              ' > .wc':
+                t: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 28cb502
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: >-
+              padding:10px;padding:10px 0 20px 50px;margin:0 0 0
+              0;background-image:url(/wp-content/uploads/2022/06/Promote-a-safe-workplace.webp);align-content:center;--gap:35px
+            t: padding:0 15px 0 30px;margin:0 0 0 0;align-content:center;--gap:6px
+            m: padding:30px 0 20px 0;margin:0 0 0 0;align-content:center;--gap:5px
+        items:
+          - type: heading
+            tag: h3
+            text: "Promote a<br>\n<span style=\"color:#976EE8;\">Safe\_</span> Workplace"
+            id: be5a01c
+            css:
+              self:
+                d: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 25px 0;border-style:solid;border-width:0 0 0 0;border-color:#E6EAEF
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 15px 0 15px
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:26px;line-height:33px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>Once a booking is made on NeOffice App, a pass gets generated. <a
+              href="https://en.wikipedia.org/wiki/Office">Office</a> Pass has all the necessary information of your
+              bookings like seat number, floor, meeting room details etc., all at one place.</p>
+            id: 6ec0193
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:22.5px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:-50px 0 0 0;padding:0 25px 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 50px 0 15px
+          - type: button
+            text: Make Your Workplace Safe
+            link: /schedule-demo/
+            size: sm
+            icon: fas fa-arrow-right
+            iconAlign: right
+            id: 22e74ac
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+                dd: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 020px 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 015px
+              ' .w-el':
+                d: >-
+                  background-color:#976EE8;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:015px 020px 015px 20px
+  - type: section
+    id: 6981a2f
+    css:
+      self:
+        d: padding:080px 0 0 0
+        t: padding:15px 30px 0 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 5px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: f5f3106
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 15px 0 15px;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h5
+            text: More about the latest trends and what we have to offer
+            id: ec1d00e
+            css:
+              self:
+                d: text-align:center
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 32px 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+  - type: section
+    id: d614811
+    css:
+      self:
+        d: background-color:#FFFFFF;padding:0 0 0 0;margin:0 0 50px 0
+        t: padding:0 30px 0 30px;margin:0 0 50px 0
+        m: padding:0 0 0 0;margin:0 0 50px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 96dc2c7
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: posts
+            count: 3
+            id: 012fde8
+            css:
+              ' > .wc':
+                m: margin:0 0 0 0;padding:0 15px 0 15px

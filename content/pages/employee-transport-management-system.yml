@@ -1,0 +1,4244 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Employee Transport Management System - NeOffice
+description: >-
+  Automate employee transportation with real-time tracking, route optimization, and automated billing using the Employee
+  Transport Management System.
+url: /employee-transport-management-system/
+sections:
+  - type: section
+    id: f98e530
+    css:
+      self:
+        d: >-
+          background-image:url(/wp-content/uploads/2023/01/Employee_Trans.webp);background-position:center
+          center;background-size:cover;background-repeat:no-repeat;padding:30px 0 30px 0;margin:0 0 0 0
+        t: padding:15px 30px 40px 30px
+        m: background-image:url(/wp-content/uploads/2022/03/Rectangle-5591.png);padding:0 15px 15px 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 4c0941f
+        css:
+          self:
+            d: width:50.789%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center;--gap:0px
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:0px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:-4px
+        items:
+          - type: button
+            text: Back
+            link: /
+            size: xs
+            icon: fas fa-arrow-left
+            id: 3eaa0f1
+            css:
+              self:
+                d: width:auto
+                m: display:none
+                to: display:none
+              ' > .wc':
+                d: margin:0 14px 30px 0
+                t: margin:0 15px 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FFFFFF;color:#041D41;font-family:'Poppins',sans-serif;font-size:16px;font-weight:600;border-radius:10px
+                  10px 10px 10px
+                t: font-size:14px
+          - type: heading
+            tag: h1
+            text: Employee Transport Management System made safe and easy!
+            id: 0a006ef
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: padding:0 0 0 0
+                m: margin:025px 25px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:48px;font-weight:700;line-height:64px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: text
+            html: >-
+              <p>The only Secure at Source Employee Transport Management Solution which has built-in compliance, safety
+              and security norms</p>
+            id: 2e70043
+            css:
+              self:
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:32px
+                t: font-size:16px;line-height:25px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:10px 0 10px 0;padding:0 0 0 0
+                t: margin:0 0 015px 0
+                m: margin:10px 0 20px 0;padding:0 35px 0 0
+          - type: button
+            text: Book a Demo
+            link: /schedule-demo-ets/
+            size: sm
+            id: 3cf098d
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 20px 0 0;padding:0 0 0 0
+                m: margin:0 8px 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#FF455B;color:#F3FBFF;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:20px
+                  22px 20px 20px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 25px 20px 25px
+          - type: button
+            text: Watch video
+            link: '#vid'
+            size: sm
+            icon: fas fa-play
+            id: aec65d7
+            css:
+              self:
+                d: width:auto
+                m: text-align:left
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0;border-radius:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: >-
+                  background-color:#61CE7000;color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:600;padding:18px
+                  22px 18px 22px
+                t: font-size:14px
+                m: font-size:12px;padding:20px 30px 16px 30px
+      - type: column
+        id: 15f9062
+        css:
+          self:
+            d: width:49.167%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/01/Employee_Transport.webp
+            alt: ''
+            id: b9441d8
+  - type: section
+    id: 09af0df
+    css:
+      self:
+        d: padding:20px 0 0 0;margin:0 0 0 0
+        t: padding:0 0 0 0;margin:50px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: e2d428e
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 30px 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: text
+            html: >-
+              <p>Managing employee transportation is complex. Neoffice offers an automation solution to simplify
+              operations and ensure a safe and stress-free commute for your employees.</p>
+            id: 894192c
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 659ec15
+    css:
+      self:
+        d: padding:0 0 020px 0;margin:0 0 0 0
+        t: padding:0 0 0 0;margin:20px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: a3e7e75
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 30px 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Why Choose us?
+            id: 43a4c50
+            css:
+              ' > .wc':
+                d: margin:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+          - type: text
+            html: >-
+              <p>Our product is a thoughtfully built, complete Transport lifecycle management solution which covers all
+              aspects from the Demand to Fulfillment and the Delivery-to-Pay cycle which is completely within the
+              solution ensuring no external dependencies</p>
+            id: 0eaf1bd
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: b11f61e
+    css:
+      self:
+        d: padding:0 0 0 0;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: b427696
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 70px;background-color:#FAFBFC
+            m: padding:0 0 0 30px
+        items:
+          - type: section
+            id: c79c06f
+            css:
+              self:
+                d: padding:20px 0 20px 0
+                m: padding:0 0 0 0;margin:0 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: b2259f7
+                css:
+                  self:
+                    d: width:6%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;border-style:solid;border-width:0 0 0 0;align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-5781.svg
+                    id: 8f2db3f
+                    css:
+                      self:
+                        d: z-index:0;text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: cb9bd7e
+                css:
+                  self:
+                    d: width:94%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center;--gap:5px
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h3
+                    text: Unique BPMS Designed Solution
+                    id: 9d7555b
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          color:#000000;font-family:'Poppins',sans-serif;font-size:23px;font-weight:bold;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+                  - type: heading
+                    tag: span
+                    text: >-
+                      Our solution stands out from the rest as it utilizes a unique Business Process Management System
+                      (BPMS) architecture. This enables us to configure, customize, and adapt individual depths of
+                      complex functions
+                      like.<br><li>Safety<br></li><li>Security<br></li><li>Compliance<br></li><li>Adequate controls</li>
+                    id: 5b81761
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:normal;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 60f4123
+            css:
+              self:
+                d: padding:0 0 20px 0
+                m: padding:0 0 0 0;margin:015px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 4d50619
+                css:
+                  self:
+                    d: width:6%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-5782.svg
+                    id: 705948b
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 170c6c5
+                css:
+                  self:
+                    d: width:94%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center;--gap:5px
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h3
+                    text: Helps Reducing Risks
+                    id: 0bbe7cd
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          color:#000000;font-family:'Poppins',sans-serif;font-size:23px;font-weight:bold;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+                  - type: heading
+                    tag: h6
+                    text: "Automating the employee commute process ensures\_<br><li>Reduce the risk of error<br></li><li>Ensures compliance with the process set by the client<br></li><li>Complete safety of your employees, travelling, especially women.<br></li>"
+                    id: 406a54b
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:normal;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: fe8ddb4
+            css:
+              self:
+                d: padding:0 0 20px 0
+                m: padding:0 0 0 0;margin:015px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 45e1453
+                css:
+                  self:
+                    d: width:6%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-5749.svg
+                    id: 8c609a6
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 936174b
+                css:
+                  self:
+                    d: width:94%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center;--gap:5px
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h3
+                    text: Reduces Costs
+                    id: 4baac6a
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          color:#000000;font-family:'Poppins',sans-serif;font-size:23px;font-weight:bold;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+                  - type: heading
+                    tag: h6
+                    text: "Our solution helps with Automation of the Transport Operations which helps to optimise costs.<br><li>Reduction of Operation personnel\_<br></li><li>Automatic assignment of vehicles to routes<br></li><li>Optimised routes using intelligent routing algorithms<br></li>"
+                    id: 7112ffa
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:normal;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 106c38e
+            css:
+              self:
+                d: padding:0 0 20px 0
+                m: padding:0 0 0 0;margin:015px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 97620f2
+                css:
+                  self:
+                    d: width:6%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6204.svg
+                    id: 9d74ee3
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: b183737
+                css:
+                  self:
+                    d: width:94%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center;--gap:5px
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h3
+                    text: Improves Employee Satisfaction
+                    id: 96f9ad7
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          color:#000000;font-family:'Poppins',sans-serif;font-size:23px;font-weight:bold;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+                  - type: heading
+                    tag: h6
+                    text: "<li>Ride information on the mobile app.​<br><li>In-house algorithm routing ensures the quickest route to work.<br><li>Safety features such as a panic alarm, and safe drop ensure the commute process safe\_<br><li>Option to share ride Feedback on the app"
+                    id: d5546fe
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: >-
+                          color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:normal;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+  - type: section
+    id: 4e46ed8
+    css:
+      self:
+        d: padding:20px 0 20px 0;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 5acb627
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Clients who have chosen Neoffice Employee Transport System
+            id: c9c78d6
+            css:
+              self:
+                d: text-align:center
+                m: text-align:left
+              ' > .wc':
+                d: padding:20px 150px 25px 200px
+                t: padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+          - type: carousel
+            images:
+              - src: /wp-content/uploads/2023/04/Group-5373.svg
+                alt: ''
+              - src: /wp-content/uploads/2023/04/Group-6235.svg
+                alt: ''
+              - src: /wp-content/uploads/2023/04/Group-5371.svg
+                alt: ''
+              - src: /wp-content/uploads/2023/04/Group-5374.svg
+                alt: ''
+              - src: /wp-content/uploads/2023/04/Group-5373-1.svg
+                alt: siemens
+              - src: /wp-content/uploads/2023/04/Group-5372-1.svg
+                alt: ''
+              - src: /wp-content/uploads/2023/04/Group-5371-1.svg
+                alt: ''
+            id: 16013ee
+            css:
+              self:
+                d: z-index:0
+  - type: section
+    id: 251c370
+    css:
+      self:
+        d: padding:20px 0 20px 0;margin:0 0 0 0
+        t: padding:0 0 0 0;margin:20px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 02d014a
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 30px 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Key Benefits Of Neoffice Employee Transport Management System
+            id: c76f23c
+            css:
+              ' > .wc':
+                d: margin:20px 0 0 -10px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+          - type: text
+            html: <p>We provide a complete transport life-cycle management solution with seamless management</p>
+            id: 4fe7fd1
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 -10px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 4828d54
+    css:
+      self:
+        d: padding:0 0 20px 0;margin:20px 0 0 0;z-index:0
+        t: padding:15px 30px 15px 30px;margin:20px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: a6cb92e
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:flex-start;--gap:15px
+            t: padding:0 15px 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Safe & Secure
+            id: 9755eaf
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: text
+            html: <p>We value your employee’s safety and have incorporated many safety features.</p>
+            id: 10675c4
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 15px 0 0
+                m: margin:0 0 0 0;padding:0 25px 0 0
+          - type: heading
+            tag: h4
+            text: Benefits
+            id: 998df05
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: section
+            id: 0a9d261
+            css:
+              self:
+                d: padding:0 0 5px 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 1c3e748
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/01/Confirmation.svg
+                    id: 17a0b00
+                    css:
+                      self:
+                        d: width:auto;text-align:left
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        m: margin:0 10px 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        m: font-size:32px
+                  - type: heading
+                    tag: h6
+                    text: Drop Safe Confirmation
+                    id: e36f7c2
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 20px
+                        t: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 6d88969
+            css:
+              self:
+                d: padding:0 0 5px 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 943a2bf
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/01/Call.svg
+                    id: 639cff3
+                    css:
+                      self:
+                        d: width:auto;text-align:left
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        m: margin:0 10px 0 0
+                      ' .w-el':
+                        m: font-size:32px
+                  - type: heading
+                    tag: h6
+                    text: Calls to Driver via Masked Number
+                    id: 64f9e72
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 20px
+                        t: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 8dbcd6b
+            css:
+              self:
+                d: padding:0 0 5px 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 7cc9a92
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/01/Tracking.svg
+                    id: '5007914'
+                    css:
+                      self:
+                        d: width:auto;text-align:left
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        m: margin:0 10px 0 0
+                      ' .w-el':
+                        m: font-size:32px
+                  - type: heading
+                    tag: h6
+                    text: Live Tracking​
+                    id: 8fd10d4
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 20px
+                        t: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 6d860eb
+            css:
+              self:
+                d: padding:0 0 5px 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: b9d93d8
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/01/Escort.svg
+                    id: '4615752'
+                    css:
+                      self:
+                        d: width:auto;text-align:left
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        m: margin:0 10px 0 0
+                      ' .w-el':
+                        m: font-size:32px
+                  - type: heading
+                    tag: h6
+                    text: Auto Allocation of Escort for Lady Traveller
+                    id: e654fe3
+                    css:
+                      self:
+                        d: width:auto
+                        t: width:auto;text-align:left
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 20px
+                        t: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: efe99cf
+            css:
+              self:
+                d: padding:0 0 5px 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 649bc85
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/01/Panic_Alarm.svg
+                    id: de5bf0a
+                    css:
+                      self:
+                        d: width:auto;text-align:left
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        m: margin:0 10px 0 0
+                      ' .w-el':
+                        m: font-size:32px
+                  - type: heading
+                    tag: h6
+                    text: Panic Alarm Button for Employee &amp; Driver App
+                    id: 4072eff
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 20px
+                        t: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 5a5479b
+            css:
+              self:
+                d: padding:0 0 5px 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: c55a27f
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/01/Alert.svg
+                    id: 07c80d3
+                    css:
+                      self:
+                        d: width:auto;text-align:left
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        m: margin:0 10px 0 0
+                      ' .w-el':
+                        m: font-size:32px
+                  - type: heading
+                    tag: h6
+                    text: Instant Alert for Vehicle Deviation
+                    id: '5931953'
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 20px
+                        t: margin:0 0 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+      - type: column
+        id: 37e6736
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:20px 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/04/lady-in-cab.jpg
+            alt: lady in cab
+            id: f84d73b
+            css:
+              ' > .wc':
+                d: padding:0 0 0 45px
+                t: padding:0 0 0 15px
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: border-radius:9px 9px 9px 9px
+  - type: section
+    id: a340a83
+    css:
+      self:
+        d: padding:20px 0 40px 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 015px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 594c795
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:20px 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/04/Rectangle-5023.svg
+            alt: ''
+            id: df54ea4
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: ddc7cab
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center;--gap:10px
+            t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Intelligent Routing
+            id: 43e1a48
+            css:
+              ' > .wc':
+                d: padding:0 0 0 40px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: text
+            html: >-
+              <p>Our intelligent proprietary routing algorithm uses artificial intelligence and machine learning
+              technology. It is proactive, thus making it completely automated optimized routing.</p>
+            id: '5573079'
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 40px
+                t: margin:0 0 0 0;padding:0 25px 0 0
+                m: margin:-15px 0 0 0;padding:0 25px 0 0
+          - type: heading
+            tag: h4
+            text: 'Your Benefits:'
+            id: 27d0bc4
+            css:
+              ' > .wc':
+                d: padding:0 0 10px 40px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:26px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: section
+            id: 4d63783
+            css:
+              self:
+                d: padding:0 0 020px 40px
+                t: padding:0 0 0 0
+                m: padding:0 0 0 0;margin:0 0 015px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 0800d9a
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/01/Transport.svg
+                    id: a49053c
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 984f926
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Enhance your employee transport system cost effectively
+                    id: ded48bc
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: a3a55e3
+            css:
+              self:
+                d: padding:0 0 020px 40px
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 015px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: bb287ca
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/01/Algorithm.svg
+                    id: 3a83ec4
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 6c3a41d
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:flex-start
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Built -in algorithm ensures minimizing the distance and maximizing vehicle occupancy
+                    id: 921d2b8
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: d2055a8
+            css:
+              self:
+                d: padding:0 0 20px 40px
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 015px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: a3d06ee
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/01/Algorithm_Women.svg
+                    id: 5dcecc5
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: b25fe49
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:flex-start
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: >-
+                      The intelligent algorithm prevents routing if a female employee is the first pick up or last drop
+                      without an escort in the vehicle.
+                    id: '4262135'
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: dc78f77
+            css:
+              self:
+                d: padding:0 0 0 40px
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: d3f4a45
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/01/Routing_Types.svg
+                    id: 06378c1
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: effee67
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:flex-start
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: |-
+                      Only Solution with three options for Routing-
+                      Intelligent, Fixed and Mirror Routing
+                    id: d0d2107
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+  - type: section
+    id: 190f6b1
+    css:
+      self:
+        d: padding:0 0 40px 0;margin:30px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:20px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: ea19245
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:flex-start;--gap:15px
+            t: padding:0 15px 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Multiple Scheduling Options
+            id: 85be9ee
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: text
+            html: <p>We have multiple options for Scheduling options.</p>
+            id: a114b59
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 15px 0 0
+                m: margin:0 0 0 0;padding:0 25px 0 0
+          - type: section
+            id: f48548c
+            css:
+              self:
+                d: padding:0 0 5px 0
+                m: padding:0 0 0 0;margin:0 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 6bef9b5
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6205.svg
+                    id: 649f25f
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: dbd8aba
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Self Scheduling by Employee on App
+                    id: 24965d3
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 8ec990e
+            css:
+              self:
+                d: padding:0 0 5px 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 45afc9d
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6206.svg
+                    id: a0e7ead
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: b3520aa
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Admin / Team Manager Scheduling in bulk
+                    id: 6db9c6f
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: d0e7a01
+            css:
+              self:
+                d: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: cc7efee
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6207.svg
+                    id: 52736a9
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 7f1f51c
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Adhoc or late night booking by employee on app
+                    id: 57aa4af
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: f527b5b
+            css:
+              self:
+                d: padding:0 0 5px 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: a56b480
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6208.svg
+                    id: 0ac70eb
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: a5b7d61
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Airport Pickup or Drop by employee on app
+                    id: 6d31a58
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 8d93bc8
+            css:
+              self:
+                d: padding:0 0 5px 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: f27e802
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6209.svg
+                    id: 732ec81
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: '4823119'
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Team outing booking on app
+                    id: ef85b3a
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+      - type: column
+        id: ee925f1
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:20px 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/04/Group-6236.svg
+            alt: ''
+            id: c521834
+            css:
+              ' > .wc':
+                d: padding:0 0 0 45px
+                t: padding:0 0 0 15px
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: db0613a
+    css:
+      self:
+        d: padding:20px 0 030px 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 015px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 9b6b247
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:20px 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/04/Group-6237.png
+            alt: ''
+            id: 09d0609
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0
+      - type: column
+        id: 7690a3c
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center;--gap:10px
+            t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Compliance
+            id: 796a080
+            css:
+              ' > .wc':
+                d: padding:0 0 0 40px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: section
+            id: eeec64b
+            css:
+              self:
+                d: padding:0 0 020px 40px;margin:025px 0 0 0
+                t: padding:0 0 0 0
+                m: padding:0 0 0 0;margin:0 0 015px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: e18c3d1
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6224-1.svg
+                    id: a60fff5
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: e8c36d5
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Driver Compliance Module which tracks Police Verification, License Expiry, Badge Expiry, Etc
+                    id: f2d4617
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: dd7dd18
+            css:
+              self:
+                d: padding:0 0 020px 40px
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 015px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 4b44dcc
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6225-1.svg
+                    id: f043a4c
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: d3a366d
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:flex-start
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Vehicle Compliance Module which Cover RC Book, Insurance Expiry, PUC Expiry Etc.
+                    id: 72d228a
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: aa50161
+            css:
+              self:
+                d: padding:0 0 20px 40px
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 015px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: f87c144
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6226-1.svg
+                    id: 70f4784
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 7c73a5e
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:flex-start
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Both Above Have Pre Defined Alerts which Starts - 30 Days Onwards Till Date Of Expiry
+                    id: fb5d0de
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: a7697a4
+            css:
+              self:
+                d: padding:0 0 20px 40px
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 57ef561
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6227.svg
+                    id: 9e1ee0d
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: d83f702
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:flex-start
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: All Transactions In Webapp Have A Audit Trail.
+                    id: d2307d2
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: d6ba34f
+            css:
+              self:
+                d: padding:0 0 20px 40px
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: caa4ebb
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6228-1.svg
+                    id: 43ec46b
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 96d1ac3
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:flex-start
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Escort Automatically Added If First Or Last Drop Is A Women Employee
+                    id: 5db6291
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: deb9205
+            css:
+              self:
+                d: padding:0 0 20px 40px
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: a747618
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6229-1.svg
+                    id: 4dcfac6
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: '5981916'
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:flex-start
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: OTP Authentication Must For Escort Without With Trip Cannot Start
+                    id: '2394326'
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: e2f521e
+            css:
+              self:
+                d: padding:0 0 20px 40px
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 3004c83
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6230.svg
+                    id: 2a5fa9f
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: a167857
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: All PI Information On Cloud Is Encrypted.
+                    id: 4e7bd58
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+  - type: section
+    id: efed871
+    css:
+      self:
+        d: padding:0 0 40px 0;margin:20px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:20px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 8b9935a
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:flex-start;--gap:15px
+            t: padding:0 15px 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: >-
+              <span
+              data-buffer="<!--(figma)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(/figma)-->"></span>Smart
+              Billing<span
+              data-metadata="<!--(figmeta)eyJmaWxlS2V5IjoiZlFGWnhLNERsMkVOMW1CUHlaM0tORiIsInBhc3RlSUQiOjE1MDgwNzY4MDEsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)-->"></span>
+            id: 286c9a9
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: text
+            html: >-
+              <span style="white-space: pre-wrap;">No more waiting for bill approvals, our solution has a automated
+              billing system . It is completely digitized for a hassle free billing.</span>
+            id: 523276d
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 15px 0 0
+                m: margin:0 0 0 0;padding:0 25px 0 0
+          - type: section
+            id: d42ea5d
+            css:
+              self:
+                d: padding:0 0 5px 0
+                m: padding:0 0 0 0;margin:0 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 70e9039
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                    t: align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6224-1.svg
+                    id: ff45ecb
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: cce1a48
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Complete Separate Billing Module Available Covering All Aspects Of Transport Billing
+                    id: e55f05a
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 26e67e1
+            css:
+              self:
+                d: padding:0 0 5px 0
+                m: padding:0 0 0 0;margin:0 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 084d939
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6225-1.svg
+                    id: bf7abd2
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: e6abaca
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Different Billing Type Can Be Inputted
+                    id: 21dbc2f
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 7300ab6
+            css:
+              self:
+                d: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 370176c
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6226-1.svg
+                    id: 66146a4
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 8f2d5db
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: EV Billing Option Available
+                    id: 521fc57
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+      - type: column
+        id: 6df8ac2
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:20px 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/04/Group-6170-1.png
+            alt: ''
+            id: 70deb27
+            css:
+              ' > .wc':
+                d: padding:0 0 0 45px
+                t: padding:0 0 0 15px
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 5b1f7b6
+    css:
+      self:
+        d: padding:0 0 40px 0;margin:20px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 015px;margin:020px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 4d1b8e6
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/04/Group-6233.svg
+            alt: ''
+            id: ea448df
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 50fd8be
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center;--gap:10px
+            t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Communication Portal
+            id: 43ac95f
+            css:
+              ' > .wc':
+                d: padding:0 0 0 40px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: text
+            html: <p>We have a Communication Portal for the users</p>
+            id: 9e15b91
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 40px
+                t: margin:0 0 0 0;padding:0 25px 0 0
+                m: margin:-15px 0 0 0;padding:0 25px 0 0
+          - type: section
+            id: 3162aeb
+            css:
+              self:
+                d: padding:0 0 020px 40px
+                t: padding:0 0 0 0
+                m: padding:0 0 0 0;margin:0 0 015px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 74bf2c7
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                    t: align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6210.svg
+                    id: 1c9892b
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 01a61ad
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: >-
+                      Inbuilt communication portal for client to plan event based communication to different users on
+                      transport.
+                    id: 5a19d88
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: cef3558
+            css:
+              self:
+                d: padding:0 0 20px 40px
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 015px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: a74b513
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                    t: align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6211.svg
+                    id: 9ba557e
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: e71403b
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:flex-start
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: >-
+                      Communications can be sent by in-app notifications, SMS or email. Client can to send in any the
+                      modes.
+                    id: 41a81a7
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 263887d
+            css:
+              self:
+                d: padding:0 0 010px 40px
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 020px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 579383f
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                    t: align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6212.svg
+                    id: 8ec35df
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: b36e48d
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;margin:0 0 0 20px;align-content:flex-start
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: IVRS calling also available to as security feature to avoid mobile number visibility
+                    id: e4206db
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+  - type: section
+    id: 73c6968
+    css:
+      self:
+        d: padding:0 0 30px 0;margin:30px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:20px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: b775507
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:15px
+            t: padding:0 15px 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: Dashboards and Reports
+            id: 6d017d5
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: section
+            id: 17b4abf
+            css:
+              self:
+                d: padding:0 0 5px 0
+                t: margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 09b1e53
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                    t: align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6214.svg
+                    id: 1578ea1
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 43680ab
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Comprehensive 25+ reports covering all information required from transport operations available
+                    id: 11c3c68
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: c2a7032
+            css:
+              self:
+                d: padding:0 0 5px 0
+                t: margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:10px 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: e02aac6
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                    t: align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6215.svg
+                    id: f792c3a
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 79f34ad
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Interactive management dashboard available
+                    id: b81c626
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+      - type: column
+        id: 66a82b8
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:20px 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/04/Group-6213.svg
+            alt: ''
+            id: 2c0e413
+            css:
+              ' > .wc':
+                d: padding:0 0 0 45px
+                t: padding:0 0 0 15px
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 865f471
+    css:
+      self:
+        d: padding:0 0 30px 0;margin:60px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:35px 0 0 0
+        m: padding:0 15px 0 015px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: ae2bd60
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/04/Group-6169.svg
+            alt: ''
+            id: '9195317'
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+      - type: column
+        id: 884ef96
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:center;--gap:10px
+            t: padding:0 0 0 15px;margin:0 0 0 0;align-content:center;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:20px
+        items:
+          - type: heading
+            tag: h3
+            text: Best User Interface
+            id: 53085a9
+            css:
+              ' > .wc':
+                d: padding:0 0 0 40px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: text
+            html: >-
+              <p>Monitor your complete corporate Employee Transportation on your fingertips. We help you to track and
+              manage your Employee Transport activities on line using live tracking algorithms.</p>
+            id: 3bd909c
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 40px
+                t: margin:0 0 0 0;padding:0 25px 0 0
+                m: margin:-15px 0 0 0;padding:0 25px 0 0
+  - type: section
+    id: 5267ffd
+    css:
+      self:
+        d: padding:0 0 30px 0;margin:75px 0 0 0
+        t: padding:15px 30px 15px 30px;margin:20px 0 0 0
+        m: padding:0 15px 0 15px;margin:35px 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 6cb20ca
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:flex-start;--gap:15px
+            t: padding:0 15px 0 0;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0;--gap:10px
+        items:
+          - type: heading
+            tag: h3
+            text: User Friendly Mobile Apps
+            id: cbd69fe
+            css:
+              ' > .wc':
+                d: padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:18px
+          - type: text
+            html: <p>Mobile Applications for the Employee and Driver with the best user friendly interface.</p>
+            id: e4be928
+            css:
+              self:
+                d: >-
+                  text-align:left;color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:20px
+              ' > .wc':
+                d: margin:0 0 0 0;padding:0 0 0 0
+                t: margin:0 0 0 0;padding:0 15px 0 0
+                m: margin:0 0 0 0;padding:0 25px 0 0
+          - type: section
+            id: b4e7513
+            css:
+              self:
+                d: padding:0 0 5px 0
+                m: padding:0 0 0 0;margin:0 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 7b25b45
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                    t: align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6221.svg
+                    id: 105307b
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 8920a9c
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: User Friendly Mobile App For Employee Available On Both Google And Apple
+                    id: 2a55656
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 21319d0
+            css:
+              self:
+                d: padding:0 0 5px 0
+                t: margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: e183ffd
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                    t: align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6222.svg
+                    id: 6c8cd35
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: 6618e7d
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Driver App Available On Google Only
+                    id: '3735467'
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+          - type: section
+            id: 51ee560
+            css:
+              self:
+                d: padding:0 0 0 0
+                t: margin:10px 0 0 0
+                m: padding:0 0 0 0;margin:0 0 10px 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: aa0ac19
+                css:
+                  self:
+                    d: width:11.755%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;padding:0 0 0 0;align-content:center
+                    t: align-content:flex-start
+                items:
+                  - type: icon
+                    icon:
+                      svg: /wp-content/uploads/2023/04/Group-6223.svg
+                    id: 0edddfe
+                    css:
+                      self:
+                        d: text-align:left
+                        m: text-align:left
+                      ' .w-el':
+                        m: font-size:32px
+              - type: column
+                id: b79c262
+                css:
+                  self:
+                    d: width:88.245%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:center
+                    t: padding:0 0 0 20px
+                    m: padding:0 0 0 0
+                items:
+                  - type: heading
+                    tag: h6
+                    text: Unified Single App Interface. Available For Workplace Features And Employee Transport.
+                    id: 8a196e6
+                    css:
+                      self:
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 25px 0 0
+                        m: margin:0 0 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:500;line-height:33px
+                        t: font-size:18px;line-height:32px
+                        m: font-size:12px;line-height:20px
+      - type: column
+        id: adb1b54
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:0 0 0 0;margin:0 0 0 0;align-content:center
+            t: padding:0 0 0 0;margin:0 0 0 0
+            m: padding:0 0 0 0;margin:20px 0 0 0
+        items:
+          - type: image
+            src: /wp-content/uploads/2023/04/Group-6238.svg
+            alt: ''
+            id: 7c5cd95
+            css:
+              ' > .wc':
+                d: padding:0 0 0 45px
+                t: padding:0 0 0 15px
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 4dafb3d
+    css:
+      self:
+        d: padding:0 0 020px 0;margin:30px 0 0 0
+        t: padding:0 0 0 0;margin:20px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: cf29e4b
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 30px 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: Other amazing features Of Neoffice Transport Management System
+            id: 40b4938
+            css:
+              ' > .wc':
+                d: margin:20px 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+          - type: text
+            html: >-
+              <p>With our user-friendly interface, you can give your employees the information they need to get to work
+              safely and on time and help them do it all with a single click.</p>
+            id: 9521fe3
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: c8be0f5
+    css:
+      self:
+        d: padding:0 0 020px 0
+        t: padding:30px 30px 30px 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 02947a7
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: section
+            id: 996e50a
+            css:
+              self:
+                t: padding:0 0 0 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: e9d7eee
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Group-5947.svg
+                    alt: ''
+                    id: bc8dfb9
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: Differential Booking Modules
+                    id: fdac4b5
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 8a3d899
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 633a6e2
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Frame-5410.svg
+                    alt: ''
+                    id: 6ed3d90
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: p
+                    text: Robust Rostering System
+                    id: dc37a5a
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 1dd9b55
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: 4d4e811
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Group-6153.svg
+                    alt: ''
+                    id: 63c12a6
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: p
+                    text: Customization
+                    id: 363fd63
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 870c2cb
+            css:
+              self:
+                t: margin:10px 0 0 0
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: 806cbe5
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Feature_3.svg
+                    alt: ''
+                    id: 9d4fd3e
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: p
+                    text: Transparent Business Operations
+                    id: 1ac6ddc
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+      - type: column
+        id: '1699e32'
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:flex-start
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:flex-start
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: a009bda
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 10px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 20715ac
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Feature_4.svg
+                    alt: ''
+                    id: 668fe5c
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: User Defined Customer Reports
+                    id: 8ea21b9
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 3d1fa18
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 10px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 2729dfb
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Group-5396.svg
+                    alt: ''
+                    id: 7e250cc
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: Speed Violation Monitoring
+                    id: b5ec51d
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 4c36d2b
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 10px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 7d0d9ee
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Feature_1.svg
+                    alt: ''
+                    id: '8852917'
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: E-Trip Sheet
+                    id: 00e37fe
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 7448b3c
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 10px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 0c477bd
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Feature_2.svg
+                    alt: ''
+                    id: '5229225'
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: Geofence Based Authentication
+                    id: f8f82d4
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+  - type: section
+    id: 054523c
+    css:
+      self:
+        d: padding:20px 0 020px 0;margin:0 0 0 0
+        t: padding:0 0 0 0;margin:20px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 297072f
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 30px 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: What can each Stakeholder do?
+            id: 1eb5f86
+            css:
+              ' > .wc':
+                d: margin:20px 0 0 0
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+  - type: section
+    id: 34e7626
+    css:
+      self:
+        d: padding:0 0 0 0
+        t: padding:30px 30px 30px 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: d7d4d34
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:flex-start
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:flex-start
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: section
+            id: 10a0021
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 10px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: d161a42
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: heading
+                    tag: span
+                    text: Employee
+                    id: fbf9705
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:bold
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 0b9259e
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 10px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: a72512a
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Group-5947.svg
+                    alt: ''
+                    id: f5f328b
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: Register for transport service
+                    id: 63f0526
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 706b697
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 10px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 270574f
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Frame-5410.svg
+                    alt: ''
+                    id: ec392b7
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: Receive trip details on mobile
+                    id: a5d97ed
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 3d5edc3
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 10px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 08a3ed6
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Group-6153.svg
+                    alt: ''
+                    id: 134c204
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: Receive trip details on mobile
+                    id: 019d0e3
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: ae2ea4f
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 10px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 8ed8dde
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Feature_3.svg
+                    alt: ''
+                    id: 906d276
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: Book cab
+                    id: 90a7211
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 23c686b
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: padding:0 0 0 10px
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: c8cf4c0
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Feature_4.svg
+                    alt: ''
+                    id: '2459239'
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: span
+                    text: Register for transport service
+                    id: 641c4f1
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+      - type: column
+        id: dcc9442
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: section
+            id: 53f1637
+            css:
+              self:
+                d: padding:0 0 10px 0
+                t: padding:0 0 0 0;margin:0 0 0 0
+                m: margin:010px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: bcb3b46
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: heading
+                    tag: span
+                    text: Admin
+                    id: c7096d2
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:bold
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 713468b
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: caa894f
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px;align-content:flex-start
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Frame-5410.svg
+                    alt: ''
+                    id: 3dab510
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: p
+                    text: View Schedule
+                    id: ce77b07
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 910778c
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: 1cd3ac8
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Feature_2.svg
+                    alt: ''
+                    id: 069ea71
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: p
+                    text: Generate E-Trip Sheet
+                    id: e40741f
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: b257eaa
+            css:
+              self:
+                t: padding:0 0 0 0;margin:10px 0 0 0
+                m: margin:10px 0 20px 0
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: d109910
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Feature_3.svg
+                    alt: ''
+                    id: d439996
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: p
+                    text: Routing
+                    id: 5d43c8b
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+  - type: section
+    id: 86d54d9
+    css:
+      self:
+        d: padding:0 0 30px 0
+        t: padding:30px 30px 30px 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 1d8c21e
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: section
+            id: 85809dc
+            css:
+              self:
+                d: padding:10px 0 10px 0;margin:20px 0 0 0
+                t: padding:0 0 0 0;margin:0 0 0 0
+              ' > .row':
+                d: max-width:1140px
+            columns:
+              - type: column
+                id: 7ca37b4
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0;align-content:center
+                items:
+                  - type: heading
+                    tag: span
+                    text: Transport Administrator
+                    id: 992296c
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:bold
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: 4af3cf5
+            css:
+              self:
+                t: margin:10px 0 0 0
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: f370cc4
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Group-5947.svg
+                    alt: ''
+                    id: da2cd2c
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: p
+                    text: View Schedule
+                    id: 583ea6e
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+          - type: section
+            id: cc790e9
+            css:
+              self:
+                t: margin:10px 0 0 0
+              ' > .row':
+                d: align-items:center;max-width:1140px
+            columns:
+              - type: column
+                id: 38788f5
+                css:
+                  self:
+                    d: width:100%
+                    m: width:100%
+                  ' > .wrap':
+                    d: padding:10px
+                    t: padding:0 0 0 0;margin:0 0 0 0
+                items:
+                  - type: image
+                    src: /wp-content/uploads/2023/01/Feature_4.svg
+                    alt: ''
+                    id: e5a30e2
+                    css:
+                      self:
+                        d: width:auto
+                        m: text-align:left
+                      ' > .wc':
+                        d: margin:0 33px 0 12px
+                        t: margin:0 10px 0 0;padding:0 0 0 0
+                      ' .w-el':
+                        t: width:75%
+                        m: width:26px;height:26px
+                  - type: heading
+                    tag: p
+                    text: Generate E-Trip Sheet
+                    id: 737f3d5
+                    css:
+                      self:
+                        d: width:auto
+                        m: width:auto;text-align:left
+                      ' > .wc':
+                        d: margin:0 0 0 0
+                      ' .w-el':
+                        d: color:#041D41;font-family:'Poppins',sans-serif;font-size:20px;font-weight:600
+                        t: font-size:16px
+                        m: font-size:14px
+      - type: column
+        id: 557e7b8
+        css:
+          self:
+            d: width:50%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;align-content:flex-start
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:flex-start
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items: []
+  - type: section
+    id: b93fc67
+    css:
+      self:
+        d: background-color:#FFFFFF;padding:0 0 30px 0;margin:30px 0 0 0
+        t: padding:35px 30px 35px 30px;margin:0 0 0 0
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1045px
+        m: flex-direction:column-reverse
+    columns:
+      - type: column
+        id: 18985ae
+        css:
+          self:
+            d: width:53.828%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: anchor
+            anchor: vid
+            id: 64d24d8
+          - type: video
+            url: https://youtu.be/Nl8qTpMFbGM
+            id: 96424dd
+      - type: column
+        id: 7dfcd91
+        css:
+          self:
+            d: width:45.652%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;padding:55px 0 2px 33px;align-content:flex-start
+            t: padding:0 0 0 0;margin:0 0 0 0;align-content:center;--gap:5px
+            m: padding:25px 0 10px 0;margin:0 0 20px 0;--gap:2px
+        items:
+          - type: heading
+            tag: h3
+            text: the future of Transport made easy
+            id: f55b7c3
+            css:
+              ' > .wc':
+                t: margin:0 0 0 0;padding:0 15px 0 15px
+                m: margin:0 0 0 0;padding:0 4px 0 0
+              ' .w-el':
+                d: >-
+                  color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px;text-transform:capitalize
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+  - type: section
+    id: 4ca4c5f
+    css:
+      self:
+        d: padding:20px 0 020px 0;margin:0 0 0 0
+        t: padding:0 0 0 0;margin:20px 0 0 0
+        m: padding:35px 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: c3ab729
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            t: padding:0 30px 0 30px;margin:0 0 0 0;--gap:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h2
+            text: What is  Employee Transport Management Solution?
+            id: 3222d57
+            css:
+              ' > .wc':
+                d: margin:0 0 0 -10px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:36px;font-weight:700
+                t: font-size:30px
+                m: font-size:20px
+          - type: text
+            html: >-
+              <p>Neoffice <a href="/employee-transport-management-system-pros-and-cons/">Employee Transport Management
+              solution</a> is a comprehensive transport life-cycle management solution that provides seamless control
+              and compliance to efficiently manage your transport operations. With our advanced <a
+              href="/employee-transport-automation-benefits-it-ites-companies/">automation solution</a>, you can
+              significantly reduce transport operation costs while providing your employees with a safe and secure
+              commute. Choosing Neoffice Employee Transport Management helps in being efficient, cost-effective, and
+              providing secure transportation management.</p>
+            id: e5968a2
+            css:
+              self:
+                d: color:#1D3444;font-family:'Poppins',sans-serif;font-size:20px;font-weight:500;line-height:36px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+              ' > .wc':
+                d: margin:-10px 0 0 -10px
+                t: margin:0 0 0 0;padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+  - type: section
+    id: 06a05c0
+    css:
+      self:
+        d: background-color:#FFFFFF;padding:0 0 0 0;margin:0 0 0 0
+        t: padding:35px 30px 35px 030px
+        m: padding:15px 15px 15px 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: e31d17e
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+            m: padding:0 0 0 0;margin:0 0 0 0
+        items:
+          - type: heading
+            tag: h3
+            text: More about the latest trends and what we have to offer
+            id: 728b4f2
+            css:
+              self:
+                d: text-align:center
+                m: text-align:left
+              ' > .wc':
+                d: padding:25px 150px 25px 200px
+                t: padding:0 0 0 0
+                m: margin:0 0 0 0;padding:0 0 0 0
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700;line-height:55px
+                t: font-size:30px;line-height:40px
+                m: font-size:20px;line-height:30px
+  - type: section
+    id: 0c329bc
+    css:
+      self:
+        d: background-color:#FFFFFF;padding:0 0 0 0;margin:0 0 50px 0
+        t: padding:0 30px 0 30px;margin:0 0 50px 0
+        m: padding:0 15px 0 15px
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 6492abe
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: posts
+            count: 3
+            id: fbb25f1

@@ -1,0 +1,544 @@
+# Page layout imported from WordPress/Elementor. Edit the text fields; leave 'id' and 'css' alone.
+title: Terms & Conditions | NeOffice | Hybrid Workplace Management
+description: Simple, automated hybrid workplace management app. Book at anytime, anywhere. Available on both Android/iOS.
+url: /terms-conditions/
+sections:
+  - type: section
+    id: 2538df9
+    css:
+      self:
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: c2be8ba
+        css:
+          self:
+            d: width:12.456%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: image
+            src: /wp-content/uploads/2022/02/landscape-text-file.png
+            alt: ''
+            id: 935fec9
+            css:
+              self:
+                d: text-align:left
+              ' .w-el':
+                d: width:50%
+                t: width:80%
+                m: width:20%
+      - type: column
+        id: 64768f0
+        css:
+          self:
+            d: width:87.544%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: 3a40c7c
+    css:
+      self:
+        d: margin:0 0 30px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 0 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: d8c1685
+        css:
+          self:
+            d: width:55.357%
+            t: width:70%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items:
+          - type: heading
+            tag: h1
+            text: TERMS AND CONDITIONS
+            id: f2855b2
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:42px;font-weight:700
+                t: font-size:26px
+                m: font-size:20px;line-height:30px
+      - type: column
+        id: b54cdca
+        css:
+          self:
+            d: width:44.595%
+            t: width:30%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px
+        items: []
+  - type: section
+    id: fc1f72f
+    css:
+      self:
+        d: margin:0 0 50px 0
+        t: padding:0 30px 0 30px
+        m: padding:0 15px 0 15px;margin:0 0 35px 0
+      ' > .row':
+        d: max-width:1140px
+    columns:
+      - type: column
+        id: 174bda5
+        css:
+          self:
+            d: width:100%
+            m: width:100%
+          ' > .wrap':
+            d: padding:10px;background-color:#FAFAFB
+        items:
+          - type: heading
+            tag: h2
+            text: "THE FOLLOWING TERMS AND CONDITIONS (“TERMS OF SERVICE”) GOVERNS ACCESS TO AND USE  OF THE SOFTWARE AND SERVICES THAT ARE MADE AVAILABLE TO YOU AND WILL BE LEGALLY BINDING ON CUSTOMER UPON EXECUTION OF THE PURCHASE DOCUMENTATION OR\_BY\_ACCESSING ANY\_USER SIGN\_IN\_PORTION\_OF\_THE\_WEBSITE\_THROUGH WHICH THE SERVICES\_ARE\_ACCESSED,\_OR BY\_ACTUALLY\_ USING\_THE SERVICES AND SOFTWARE."
+            id: dcd5ee6
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>1. Definitions.</b>\_In addition to the terms defined elsewhere in this Terms of Service, the terms set forth on Exhibit A shall have the meanings ascribed to such terms."
+            id: '4437933'
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>2. Services.</b><br><b>2.1.</b>\_Company will implement and operate the Services in accordance with the applicable Order Form(s) or purchase documentation. Customer shall be bound by the terms herein that apply to the Services listed on the relevant Order Form. Subject to these terms, Company grants to Customer a\_non-exclusive, worldwide,\_and\_non- transferable\_license to use the Service\_during\_the\_initial Term and subsequent Renewal Term(s) according to the Customer’s Order Form.\_The\_Customer\_may\_only use the Services for Customer’s internal business purposes. Only authorized Users may access and use the Services.<br><b>2.2</b>\_Customer is fully responsible for ensuring that its internet connections and hardware are compatible with the Services as set out in the relevant Documentation provided\_by\_Company in conjunction with the Services.<br><b>2.3</b>\_Customer shall be responsible at all times for: (a) all activity generated by it or its authorized Users; (b) ensuring\_compliance\_with\_this\_Terms of Service  by\_it\_and\_each User; and (c) ensuring compliance with applicable local, state, national, and foreignlaws, treaties, and regulations connection\_with\_the\_use\_of\_the\_Service,\_including\_those\_related\_to\_data privacy and the transmission of data."
+            id: fd39bbd
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>3. Restrictions on Use.</b><br>Customer will not, and will not permit any User to <br>(i) sell, resell,
+              sublicense, rent or lease the Service, include the Service in a service bureau or outsourcing offering or
+              otherwise access or use the Service other than as expressly permitted hereunder, <br>(ii)use the Service
+              to store or transmit Harmful Code, <br>(iii) interfere with or disrupt the integrity or performance of the
+              Service or third-party data contained therein,  <br>(iv)modify, correct, adapt, translate, enhance or
+              otherwise prepare derivative works or improvements of the Service, (v) access the Service in order to
+              build a competitive product or service or for purposes of monitoring its availability, performance or
+              functionality, or for any other benchmarking or competitive purposes, or  <br>(vi) reverse engineer,
+              disassemble, decompile, decode or otherwise attempt to derive or gain access to the source code of the
+              Service or any component thereof, in whole or in part, except as and only to the extent  such restriction
+              is permitted by Law.
+            id: c28cb50
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>4. Term and Termination</b><br><b>4.1.Term.</b>\_This Agreement will remain in effect until Customer’s subscription and/or license to use the Services expires according to the Customer’s Order Form or if the Agreement is terminated for reasons below.<br><b>4.2. Termination for Breach,</b> Expiration.\_Either party may immediately terminate this Agreement and all Order Forms issued hereunder in the even that <br>(i) other partycommits a material breach of any provision of the Agreement which is not cured within thirty (30) days of written notice from the non-breaching party. Such notice by the complaining party shall expressly state all of the reasons for the claimed breach in sufficient detail so as to provide the alleged breaching party a meaningful opportunity to cure such alleged breach, <br>(ii) the other party ceases its business operations or becomes subject to insolvency proceedings and the proceedings are not dismissed within thirty (30) days, or <br>(iii) the Customer uses the Services in a manner that Company reasonably believes will cause liability. <br><b>4.3.Effects of Termination.</b>If/When this Agreement terminates, the rights granted by Company to Customer will cease immediately.\_\_Each party shall return to the other, or purge form its electronic or other storage facilities or records, all property (including any Confidential Information) of the other Party in its possession or control. If this Agreement is terminated by Customer for any reason other than for cause then Company shall be entitled to all fees due under this Agreement. If this Agreement is terminated as a result of Company’s breach of this Agreement, then Customer shall be entitled to a refund of the pro rata portion of any unused, prepaid subscription fees paid by Customer to Company under this Agreement for the terminated portion of the Term.<br><b>4.4. Auto renewal.</b>\_Company may charge automatically at the end of the initial and/or each term for the renewal, unless Customer notifies Company in writing that the Customer wants to cancel or disable auto renewal sixty (60) days prior to the same taking effect."
+            id: 6a59eec
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>5. Suspension.</b><br><b>5.1. Suspension for Delinquent Account.</b>\_Company reserves the right to suspendCustomer’s and any Customer Afiliates’ access to and/or use of the Service and/or Support Services if any payment is due but unpaid but only after Company has provided Customer one (1) delinquency notice, and at least thirty (30) days have passed since the transmission of the delinquency notice.<br><b>5.2.\_Suspension for Ongoing Harm.</b>\_Company may with reasonably contemporaneous telephonic notice to Customer suspend access to the Service if Company reasonably concludes that Customer’s Service is being used to engage in spamming, or illegal activity, and/or use of Customer’s Service is causing immediate and material harm to Company or others. In the event Company suspends access to the Service, Company will use commercially reasonable efforts to limit the suspension to the offending portion of the Service and work with Customer to resolve the issues causing the suspension of Service. If Company suspends the Service, Company will promptly restore Customer’s (or applicable User’s) access to and use of the Service after the event giving rise to the suspension has been resolved to Company’s satisfaction."
+            id: 8c1ba31
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>6. Payment.</b><br><b>6.1.Fees.</b>Customer shall pay to Company the fees due for all Subscription(s), Professional Service, and/or Implementation services (collectively “Services”) listed in any Order Form, in accordance with the terms set forth in the Order Form. Company’s invoices shall be deemed correct and acceptable to Customer unless Customer advises Company of disputed items within thirty (30) days of receipt of such invoice. During any renewal term (i.e., only after the Initial Term), subscription fees may increase by no more than eight percent (8%) per year (the “Renewal Percentage”).<br><b>6.2\_Taxes.</b>\_Company fees do not include any taxes, levies, duties, or similar governmental assessments of any nature, including for example, value-added, sales, use or withholding of taxes, assessable by any jurisdiction whatsoever (collectively,“Taxes”). Customer is responsible for paying all Taxes associated with Customer’s purchases hereunder. If Company is required by Law to pay or collect Taxes for which Customer is responsible under this Section, Company will invoice Customer and Customer will pay that amount unless Customer provides Company with a valid tax exemption certificate authorized by the appropriate taxing authority. For clarity, Company is solely responsible for taxes assessable against Company based on Company’s corporate and legal status, income, property and employees."
+            id: d57f451
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>7. Ownership.</b>\_Company alone shall own all right, title, and interest,all\_related\_intellectual\_property\_rights,\_in\_and\_to\_the\_Services,Software,\_and\_Documentation,\_and\_any\_ suggestions,\_ideas,\_requests,\_\_feedback, recommendations,\_or\_other information provided by Customer or any other party relating to the Services, Software, and Documentation."
+            id: d28cd07
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>8. Customer\_Data.</b><br>8.1.\_Customer must provide all data for use of the Services (“Customer Data”), and Company is not obligated to modify, delete,\_or\_add to the Customer Data. Customer remains solely responsible\_at\_all times for the content and accuracy of the Customer Data, and for ensuring that the Customer Data complies with the terms\_of\_this Agreement and the DPA (if applicable). Company has no obligation to monitor or pre-screen any Customer Data uploaded, generated, stored, or transmitted\_by\_Customer as part of,\_or\_in conjunction with, the Services. Customer acknowledges\_that\_Company\_may\_store\_Customer\_Data\_on\_computers that\_are\_located\_outside\_of\_the\_jurisdiction\_in\_which\_the\_Customer\_Data originated. Customer warrants and guarantees that it has all rights necessary to allow for the Customer Data to be stored on\_computers outside of the jurisdiction in which such Customer Data originated.Customer\_further\_warrants\_and\_guarantees\_that\_Company’s\_storage\_of\_Customer Data on computers located outside of the jurisdiction in which\_such\_Customer\_Data\_originated\_does\_not\_breach\_any\_applicable third party right\_or\_applicable law, regulation, convention, by-law, ordinance, or treaty. Customer grants Company all such licenses and permissions necessary for Company to store such Customer Data\_on\_computers located outside the jurisdiction in which such Customer Data\_originated.<br>8.2.\_Customer Data belongs to Customer, and Company makes no claim\_to\_any\_right\_of\_ownership\_in\_it.\_By\_posting\_or\_permitting\_Customer Data to be posted, Customer represents and warrants to Company and\_other\_users\_of\_the\_Service\_that\_Customer\_has the right to reproduce and distribute\_Customer Data.<br>8.3. Company shall take commercially reasonable technical and organizational measures to keep Customer Data secure and to protect it against accidental loss or unlawful destruction, alteration, disclosure, or\_access."
+            id: 6d9ec84
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>9. Security.</b><br>Company will implement and deploy security features, procedures and technologies that will, in accordance with Applicable Law, and best industry practices, provide protection from unauthorized access to or use, disclosure, modification, transmission or destruction of Customer Data and other data hosted in connection with the Services and Applications. More information on particularities of data processing can be found within the Company Data Processing Agreement (DPA) available for review on the Company website homepage or at\_neoffice.ai/dpa\_or such other URL as specified by Company, which is hereby incorporated by reference."
+            id: b231d4d
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>10. Warranties.</b><br>10.1 Limited Warranty.\_Company warrants to Customer that the Services will substantially conform with generally accepted industry standards of care and competence for other providers of similar hosted solutions. Further, Company commits that the Services will meet or exceed the Service Level Agreement (SLA). Remedies for the SLA commitments are as set forth therein.<br><b>10.2\_Performance Warranty.</b>\_The Services shall perform in accordance with their intended purpose as set forth in the Documentation and the Agreement/Order Form.\_\_Except for Routine Maintenance, Company shall ensure that the Services, and the Applications provided thereon, are Available at least 99.0% of the time during each month of the Term hereof (“Target Availability Level”). Notwithstanding anything to the contrary herein, Company has no warranty obligations: (a) to the extent that Software or Services were modified by Customer or any third party, unless the modification was approved in writing by Company; (b) for a version of the Software or Services that has since been updated and made available to Customer if the problems would have been avoided by use of the updated version; or (c) for problems caused by any third party software or hardware, (d) by accidental damage or by other matters beyond Company’s reasonable control; or (e) for interruptions to the Service related to emergency maintenance.<br><b>10.3 </b>SAVE AS PROVIDED ABOVE, COMPANY DISCLAIMS ALL WARRANTIES AND CONDITIONS, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR OF FITNESS FOR A PARTICULAR PURPOSE COMPANY DOES NOT WARRANT THAT THE SOFTWARE OR SERVICES WILL BE ERROR FREE OR WILL OPERATE WITHOUT INTERRUPTION. COMPANY DOES NOT WARRANT THE ACCURACY OF ANY CUSTOMER DATA."
+            id: 5892ced
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>11. Indemnification.</b><br><b>11.1\_Indemnity and Defence.</b>Company shall defend and indemnify Customer from any claims, suits, actions, or proceedings brought against Customer in a court of competent jurisdiction by a third party which allege that the Customer’s use of the Services otherwise not in violation of any of the terms in this Agreement causes an infringement of such third party’s intellectual property rights and any judgment finally awarded in respect of such Claim, or any final settlement of such Claim, to the extent that such Claim arises solely as a result of Customer’s use of the Services in accordance with the provisions of the Agreement, and provided:<br>(a) the alleged or actual infringement has not been caused by the use of a superseded version of the Services if the infringement would have been avoided by: (i) the use of a then current version the Services, or (ii) the modification of the Services by any party other than Company, or (iii) the combination or use of the Services with software, hardware, firmware, data, or technology not licensed to Customer by Company or approved by Company in writing; and <br>(b) Customer notifies Company in writing within fifteen (15) days of Customer first becoming aware of each such Claim; and <br>(c) Customer does not make any admission against Company’s interests and Customer does not agree to any settlement of any Claim without the prior written consent of Company; and <br>(d)Customer, at the request of Company, provides all reasonable assistance to Company in connection with the defence, litigation, and/or settlement by Company of the Claim; and <br>(e) Company has sole control over the selection and retainer of legal counsel."
+            id: 4b268fc
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>11.3\_Limitation of Liability.</b>\_Neither party shall be liable under the agreement for any direct , special incidental , punitive or consequential damages (including without imitation damages for loss of goodwill , work stoppage , computer failure or malfunction , lost profits), even if the other party has been informed of this possibility notwithstanding anything to the contrary herein, company total liability or obligation arising under this agreement ( specifically including but not limited to claims for a party’s obligation of indemnification or breach of confidentiality ) shall not exceed 3 months of monthly rental paid by the customer to the company under this agreement."
+            id: 4136a32
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>12. Confidentiality.</b><br>12.1\_“Confidential Information” in addition to the definition in Exhibit A, means any information, whether disclosed orally, in writing, electronically, visually or otherwise disclosed by one party (the “Disclosing Party”) to the other (the “Recipient”) in connection with this Agreement."
+            id: 16a05ac
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>12.2\_Injunctive Relief.</b><br>The Receiving Party acknowledges that disclosure or use of Confidential Information in violation of this Agreement could cause irreparable harm to the Disclosing Party for which monetary damages may be difficult to ascertain or an inadequate remedy.\_\_The Receiving Party therefore agrees that the Disclosing Party will have the right, in addition to its other rights and remedies to seek injunctive relief for any violation of this Agreement, without posting a bond and without prejudice to any other rights and remedies that the Disclosing Party may have for breach of this Agreement."
+            id: b6915a9
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>12.3\_Destruction or Return of Confidential Information.</b>\_<br>Within forty-five (45) days of termination or expiration of the Agreement, or upon Disclosing Party’s written request, Recipient will, at the Disclosing Party’s direction, promptly dispose of or return the other party’s Information. Notwithstanding the foregoing, Recipient will not be required to return to the Disclosing Party or destroy copies of Disclosing Party’s Confidential Information that Recipient is obligated by applicable law or governmental regulations to retain.\_\_All copies retained under this Section will remainsubject to all confidentiality obligations under this Section."
+            id: '8113335'
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>13. Modifications; Discontinuation of Service.</b><br><b>13.1\_To the Service.</b>\_Company may make modifications to the Service or particular components of the Service from time to time and will use commercially reasonable efforts to notify Customer of any material modifications.<br><b>13.2\_To Applicable Terms.</b> Company may update the Terms of Service only as necessary and will provide Customer notice either directly or by publishing on the Company website.<br><b>13.3</b>\_If any change mentioned above in 13.1 or 13.2 has a material adverse impact on Customer and Customer does not agree to the change, Customer must so notify Company via hello@agiledesoutions.com within thirty days after receiving notice of the change."
+            id: 74212b0
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>14. Support of the Services.</b>Company will (i) provide Updates to the Services, at no additional charge, and (ii) make available to Customer as part of the Services, at no additional charge, any upgrade to the Applications when Company makes generally available to others.\_\_Support services are set forth in more detail in the SLA.<br><br>Miscellaneous."
+            id: 34d84fa
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>15.1\_Assignment.</b>This Agreement is personal to both Parties and neither Party may assign or transfer any of the rights, duties or obligations herein without the prior written consent of the other Party, which shall not be unreasonably withheld.\_\_Any attempted assignment will be null and void, with no force or effect.\_\_Notwithstanding the foregoing, the Parties shall have the right to assign this Agreement without the other Party’s consent to any Affiliate, to any successor by merger or to the purchaser of substantially all of its assets on a going concern. Subject to the foregoing, this Agreement shall inure to the benefit of and bind the Parties’ successors and permitted assigns.<br>"
+            id: 61d8527
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>15.2\_No Agency.</b>\_Company and Customer are not legal partners or agents. Company shall perform the Services as an independent contractor."
+            id: 796c629
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>15.3\_Force Majeure.</b>\_Each Party will be excused from performance for any period during which, and to the extent that, it is prevented from performing any obligation or service, in whole or in part, as a result of causes beyond its reasonable control, and without its fault or negligence, including without limitation, acts of God, flood, fire, earthquake, riots, and acts of war, strike or other labour problem (other than one involving a Party’s employees (“Force Majeure Event”). A Force Majeure Event shall not include (1) shutdowns, disruptions or malfunctions of the Services or Applications or Internet services other than as a result of general and widespread internet or telecommunications failures, and (2) the delay or failure of any personnel to perform any obligation of Company hereunder unless such delay or failure to perform is itselfby reason of a Force Majeure Event. Any such excuse for delay shall last only as long as the event remains beyond the reasonable control of the delayed Party.\_\_However,the delayed Party shall use commercially reasonable efforts to minimize the delays caused by any such event.\_\_The delayed Party must notify the other Party promptly upon the occurrence of any such event, or performance by the delayed Party will not be considered excused, and the delayed Party shall promptly inform the other Party of its plans to resume performance. If any failure or delay caused by a Force Majeure Event continues for thirty (30) days or longer, the Party unaffected by the event will have the right to terminate this Agreement without cost or liability upon notice to the affected Party and, if such unaffected Party is Customer, to receive a refund of any unused, pre-paid fees for any performance not yet delivered."
+            id: c26cbcd
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>15.4\_Severability.</b>\_If any provisions herein are held to be invalid or unenforceable for any reason, the remaining provisions will continue in full force without being impaired or invalidated in any way.\_\_The Parties agree to replace any invalid provision with a valid provision that most closely approximates the intent and economic effect of the invalid provision."
+            id: d5e400a
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>15.5\_Survival.</b>\_The covenants, representations and warrants, confidentiality duties and limitation of liability set forth in this Agreement shall survive the expiration or termination of this Agreement."
+            id: 695f4c3
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>15.6\_No third-Party beneficiaries.</b>\_All terms and conditions of this Agreement shall be binding upon and shall inure to the benefit of the Parties hereto and their successors and authorized assigns. Except as otherwise provided in this Agreement, nothing in this Agreement, express or implied, is intended or shall be construed to create any rights in, or confer any benefits upon, any person or entity other than the Parties to this Agreement."
+            id: 2b58a72
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>15.7\_Governing Law.</b>\_This Agreement is governed by the substantive and procedural laws of the jurisdiction identified in the affiliated Order Form, but if none (and only then), the city of Bengaluru, Karnataka State , India."
+            id: 29c404d
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>15.8\_Notice.</b>\_Notices to Company must be sent via email to sales@neoffice.ai with read receipt and the account manager copied."
+            id: 13f0935
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>EXHIBIT A</b><br><b>“Agreement” </b>means the applicable agreement(s) that provides you with access to
+              the software and products/services.
+            id: 0fd6932
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>“Affiliates”</b> means any entity which directly or indirectly, through one or more intermediaries,
+              controls, or is controlled by, or is under common control with a Party to this Agreement (whether by way
+              of majority voting stock ownership or the ability to otherwise direct or cause the direction of the
+              management and policies of such party, for so long as such control exists).
+            id: 41a1312
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>“Applications”</b>\_means the software applications set forth in the Order From or otherwise made available Company for use by Customer under the terms of the Agreement."
+            id: c0ef878
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: <b>“Company”</b> means Agiledge Process Solutions Pvt Ltd
+            id: 819ef1a
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>“Confidential Information”</b> means (a) Customer Data; (b) the terms of this Agreement; (c) the
+              Service, and (d) any commercial, financial, marketing, business, technical or other data, security
+              measures and procedures, know-how or other information disclosed by or on behalf of the disclosing party
+              to the receiving party for purposes arising out of or in connection with this Agreement, that: (i) in the
+              case of information in tangible form, is marked “confidential” or “proprietary;” and (ii) information that
+              under the circumstances, a person exercising reasonable business judgment would understand to be
+              confidential or proprietary; Notwithstanding the foregoing, the following shall not be Confidential
+              Information: (1) information that was in the public domain at the time of its disclosure, or which becomes
+              public domain property through no fault of the receiving party (2) information that was rightfully in the
+              receiving party’s possession without restriction prior to disclosure; (3) information that was
+
+              rightfully disclosed to the receiving party by a third-party without restriction (4) information that was
+              independently developed by employees and/or contractors of the receiving party who did not have access to
+              and without use of or reference to the disclosing party’s Confidential Information; and (5) aggregate data
+              collected generated by Company or on behalf of Company regarding Company’s products and services (for
+              purposes of providing or improving Company products and services, benchmarking system performance,
+              preparing statistics and system metrics, marketing and other purposes) that does not contain any personal
+              information and other Customer-specific information.
+            id: dcb5d4b
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>“Customer Page”</b>\_means the web page through which Customer shall access the Applications and/or Services."
+            id: 7a181c3
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>“Customer Data”</b> means all electronic data or information submitted to and stored in the Service by
+              Users.
+            id: b9ae8bc
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>“Documentation”</b>\_means on-line or hardcopy, help, guides, and manuals published by Company that relate to the use of the Applications and/or Services that have been provided to Customer. Documentation shall include any updated Documentation that Company provides with Updates.\_\_Company agrees that it shall not reduce, in any material respect, the functions described in the Documentation for an Application during the warranty period or while the Application is under maintenance services.\_\_Company further agrees that it will not modify the Documentation to avoid responsibility for a reported Application error or issue."
+            id: 55860c7
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>“Electronic Communications”</b> means any transfer of signs, signals, text, images, sounds, data or
+              intelligence of any nature transmitted in whole or part electronically received and/or transmitted through
+              the Service.
+            id: 4fb1e4d
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>“Harmful Code”</b> means code, files, scripts, agents or programs intended to do harm, including, for
+              example, viruses, worms, time bombs and Trojan horses.
+            id: '7233548'
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>“Order Form/Statement of Work (SOW)”</b> means a Company estimate, purchase documentation, renewal
+              notification or order form in the name of and executed by Customer or its Affiliate and accepted by
+              Company which specifies the Service and Support Services to be provided by Company subject to the terms of
+              the Agreement.
+            id: b4732f9
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>“Professional Services”</b> means the general consulting, implementation or training professional
+              services to be provided to Customer pursuant to a related Statement of Work (“SOW”) or included in the
+              Customer’s Order Form.
+            id: 3d5379b
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>“Service”</b> means, collectively, the Company software suite (and any modules) being provided to
+              Customer on a software-as-a-service (SaaS) basis, as further set forth on an Order Form/ SOW.
+            id: 3a74c3f
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>“Third-Party Applications”</b>means applications, integrations, services, or implementation,
+              customization and other consulting services related thereto, provided by a party other than Company that
+              interoperate with the Service, including but not limited to those listed in the Documentation.
+            id: 38a7cd8
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: "<b>“Updates”</b>\_shall mean (a) subsequent releases of the Applications that (i) add new features, functionality, and/or improved performance, (ii) operate on new or other databases, operating systems, or Customer or server platforms, or (iii) add new foreign language capabilities; (b) bug or error fixes, patches, workarounds, and maintenance releases."
+            id: 6f99707
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: >-
+              <b>“Users”</b> means individuals who are authorized by Customer or its Affiliate to use the Service
+              pursuant to the Agreement or as otherwise defined, restricted or limited in an Order Form or amendment,
+              for whom subscriptions to a Service have been\ procured. Users include but are not limited to Customer’s
+              and Customer’s Affiliates’ employees, consultants, contractors, and agents.
+            id: f626c20
+            css:
+              ' .w-el':
+                d: color:#041D41;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
+                t: font-size:16px;line-height:30px
+                m: font-size:12px;line-height:18px
+          - type: heading
+            tag: h2
+            text: ''
+            id: d275633
+            css:
+              ' .w-el':
+                d: color:#000000;font-family:'Poppins',sans-serif;font-size:18px;font-weight:400;line-height:33px
